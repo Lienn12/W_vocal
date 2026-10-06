@@ -1,0 +1,231 @@
+# Art Gallery | 🖼️ | #e879f9 | fun | A2 | Paint, sculpt and photograph your way through the gallery.
+## The Painting Hall | 🎨 | Gold frames on white walls.
+@ Gallery guide | 🧑‍🏫 | This one took the artist four years.
+@ Visitor | 🤔 | Is it upside down?
+@@ Gold frame | 🖼️ | Heavy and shiny.
+painting | /ˈpeɪntɪŋ/ | n | bức tranh (sơn) | There is a painting of a horse on the wall. | A picture made with brushes and color.
+picture | /ˈpɪktʃər/ | n | bức tranh, bức ảnh | She drew a picture of her house. | A drawing, a photo or any image.
+portrait | /ˈpɔːrtrət/ | n | chân dung | He painted a portrait of the queen. | An image of one person's face.
+gallery | /ˈɡæləri/ | n | phòng trưng bày | The gallery opens at ten. | A building where people look at works of art.
+exhibition | /ˌeksɪˈbɪʃn/ | n | triển lãm | We saw an exhibition of old maps. | A public show of art for a few weeks.
+masterpiece | /ˈmæstərpiːs/ | n | kiệt tác | The Mona Lisa is a masterpiece. | The greatest work of an artist.
+frame | /freɪm/ | n | khung tranh | The photo is in a silver frame. | The wooden border around a canvas on the wall.
+canvas | /ˈkænvəs/ | n | vải bạt vẽ tranh | She paints on a large canvas. | The strong cloth that artists put oil colors on.
+abstract | /ˈæbstrækt/ | adj | trừu tượng | I do not understand abstract art. | Showing shapes and colors, not real objects.
+original | /əˈrɪdʒənl/ | adj | nguyên bản | Is this the original painting or a copy? | The first and real one, not a copy.
+## The Studio | 🖌️ | Jars of brushes and splashes of color.
+@ Painter | 👩‍🎨 | Do not be afraid of the empty page.
+@ Art student | 🧑‍🎓 | My hands are covered in blue.
+@@ Palette | 🎨 | Blobs of every color.
+paintbrush | /ˈpeɪntbrʌʃ/ | n | cọ vẽ | Wash your paintbrush after you finish. | The implement with hairs that an artist holds.
+sketch | /sketʃ/ | n | bản phác thảo | He made a quick sketch of the bridge. | A quick, simple pencil outline done in a minute.
+color in | /ˈkʌlər ɪn/ | v | tô màu | The child colored in the picture. | To fill a black-and-white outline with crayons.
+sculpture | /ˈskʌlptʃər/ | n | tác phẩm điêu khắc | There is a sculpture in the garden. | A work of art made of stone, metal or clay in three dimensions.
+clay | /kleɪ/ | n | đất sét | The children made animals from clay. | Soft, sticky earth used to make pots.
+outline | /ˈaʊtlaɪn/ | n | đường viền | Draw the outline of the house first. | The line around the edge that shows the shape of a thing.
+ink | /ɪŋk/ | n | mực | The pen has run out of ink. | The colored liquid inside a pen.
+create | /kriˈeɪt/ | v | sáng tạo, tạo ra | She creates beautiful jewelry. | To make something new from your imagination.
+style | /staɪl/ | n | phong cách | I like the style of this painter. | The particular way an artist does things.
+inspire | /ɪnˈspaɪər/ | v | truyền cảm hứng | Nature inspires her work. | To give someone the wish and ideas to do something great.
+## The Photo Lab | 📷 | A dark room with a red lamp.
+@ Photographer | 📸 | Light is everything.
+@ Selfie lover | 🤳 | Wait, let me fix my hair.
+@@ Tripod | 📹 | Three long legs.
+photo | /ˈfoʊtoʊ/ | n | bức ảnh | Can I see your holiday photos? | An image made by a camera.
+lens | /lenz/ | n | ống kính | Clean the lens before you shoot. | The curved glass at the front of a camera.
+flash | /flæʃ/ | n | đèn flash | Do not use flash in the museum. | A sudden bright burst from a camera in the dark.
+focus | /ˈfoʊkəs/ | v | lấy nét, tập trung | Focus on the bird, not the tree. | To adjust a camera so the image is sharp.
+zoom | /zuːm/ | v | phóng to | Zoom in on her face. | To make the subject look closer with the camera.
+selfie | /ˈselfi/ | n | ảnh tự chụp | We took a selfie in front of the tower. | An image of yourself that you take with your phone.
+pose | /poʊz/ | v | tạo dáng | The family posed for a photo. | To stand in a special position for the camera.
+blurry | /ˈblɜːri/ | adj | mờ, nhòe | The photo is blurry. | Not sharp; you cannot see the details.
+background | /ˈbækɡraʊnd/ | n | hậu cảnh, nền | There are mountains in the background. | The part of an image that is behind the main subject.
+image | /ˈɪmɪdʒ/ | n | hình ảnh | The image on the screen is very clear. | A general word for any visual on paper or a screen.
+## The Design Loft | ✏️ | Big screens and color samples.
+@ Graphic designer | 🧑‍💻 | Simple is beautiful.
+@ Client | 🧑‍💼 | Can you make the logo bigger?
+@@ Color swatches | 🟪 | A fan of paper colors.
+graphic | /ˈɡræfɪk/ | adj | thuộc đồ họa | She studies graphic design. | Connected with drawing, printing and visual layout.
+layout | /ˈleɪaʊt/ | n | bố cục | I like the layout of this magazine. | The way text and images are arranged on a page.
+symbol | /ˈsɪmbl/ | n | biểu tượng | The dove is a symbol of peace. | A sign or shape that represents an idea.
+decorative | /ˈdekəreɪtɪv/ | adj | để trang trí | The plates are purely decorative. | Made to look pretty, not to be used.
+imagination | /ɪˌmædʒɪˈneɪʃn/ | n | trí tưởng tượng | Children have a wonderful imagination. | The ability to form new pictures and ideas in your head.
+creativity | /ˌkriːeɪˈtɪvəti/ | n | sự sáng tạo | This job needs creativity. | The skill of producing new and unusual ideas.
+artistic | /ɑːrˈtɪstɪk/ | adj | có khiếu nghệ thuật | He comes from an artistic family. | Good at painting, music or other fine skills.
+visual | /ˈvɪʒuəl/ | adj | thuộc thị giác | The film has strong visual effects. | Connected with seeing.
+detail | /ˈdiːteɪl/ | n | chi tiết | Look at the detail on this vase. | A small individual feature of something.
+impression | /ɪmˈpreʃn/ | n | ấn tượng | The painting made a strong impression on me. | The feeling or idea something leaves in you.
+
+# Story Library | 📚 | #60a5fa | fun | A2 | Fairy tales, mysteries and comics fill the shelves.
+## The Fairy Tale Tower | 🏰 | A winding staircase lined with picture books.
+@ Storyteller | 🧙‍♀️ | Long, long ago, in a land far away...
+@ Wide-eyed child | 🧒 | And then what happened?
+@@ Big storybook | 📖 | Gold letters on the cover.
+fairy tale | /ˈferi teɪl/ | n | truyện cổ tích | Cinderella is a famous fairy tale. | A children's story with magic, like Snow White.
+king | /kɪŋ/ | n | nhà vua | The king lived in a castle. | The male ruler of a country, who wears a crown.
+queen | /kwiːn/ | n | nữ hoàng, hoàng hậu | The queen wore a gold crown. | The female ruler of a country.
+prince | /prɪns/ | n | hoàng tử | The prince rode a white horse. | The son of a royal couple.
+princess | /ˌprɪnˈses/ | n | công chúa | The princess slept for a hundred years. | The daughter of a royal couple.
+witch | /wɪtʃ/ | n | mụ phù thủy | The witch gave her a red apple. | A woman with a black hat who does bad magic.
+giant | /ˈdʒaɪənt/ | n | người khổng lồ | A giant lived at the top of the beanstalk. | An enormous man in children's stories.
+dragon | /ˈdræɡən/ | n | con rồng | The knight fought a dragon. | A huge flying monster that breathes fire.
+magic | /ˈmædʒɪk/ | n | phép thuật | The fairy used magic to help her. | The power to make impossible things happen.
+legend | /ˈledʒənd/ | n | truyền thuyết | There is a legend about this lake. | A very old story that may or may not be true.
+## The Novel Shelves | 📕 | Thick books in alphabetical order.
+@ Bookseller | 🧑‍💼 | If you liked that, try this one.
+@ Fast reader | 📖 | I finished it in one night!
+@@ Bestseller table | 🏷️ | "Staff picks".
+novel | /ˈnɑːvl/ | n | tiểu thuyết | She is writing her first novel. | A long made-up story that fills a whole volume.
+fiction | /ˈfɪkʃn/ | n | truyện hư cấu | I mostly read fiction. | Writing about imaginary people and events.
+mystery | /ˈmɪstri/ | n | truyện bí ẩn; điều bí ẩn | I love a good murder mystery. | A story about a crime that a detective must explain.
+biography | /baɪˈɑːɡrəfi/ | n | tiểu sử | I read a biography of Ho Chi Minh. | The true story of a real person's life, written by someone else.
+bestseller | /ˌbestˈselər/ | n | sách bán chạy | Her book became a bestseller. | A volume that sells millions of copies.
+cover | /ˈkʌvər/ | n | bìa sách | Do not judge a book by its cover. | The outside front of a volume.
+publish | /ˈpʌblɪʃ/ | v | xuất bản | The book was published in 2010. | To print a work and offer it to the public.
+reader | /ˈriːdər/ | n | độc giả | The magazine has a million readers. | A person who enjoys printed stories.
+narrator | /ˈnæreɪtər/ | n | người kể chuyện | The narrator is a ten-year-old boy. | The voice that tells the story.
+setting | /ˈsetɪŋ/ | n | bối cảnh | The setting of the story is Paris in 1920. | The place and period in which a story happens.
+## The Comic Cave | 💥 | Bright covers and speech bubbles.
+@ Comic fan | 🦸 | Have you read issue 47?
+@ Manga artist | ✍️ | I draw twenty pages a week.
+@@ Speech bubble | 💬 | "POW!"
+comic | /ˈkɑːmɪk/ | n | truyện tranh | He reads comics every night. | A magazine that tells a story in drawings with speech bubbles.
+superhero | /ˈsuːpərhɪroʊ/ | n | siêu anh hùng | Spider-Man is my favorite superhero. | A person with special powers who fights evil.
+monster | /ˈmɑːnstər/ | n | quái vật | There is a monster under my bed! | A big, ugly, frightening imaginary beast.
+ghost | /ɡoʊst/ | n | con ma | Do you believe in ghosts? | The spirit of a dead person that people think they see.
+adventure story | /ədˈventʃər stɔːri/ | n | truyện phiêu lưu | Treasure Island is an adventure story. | A tale full of journeys, danger and excitement.
+treasure | /ˈtreʒər/ | n | kho báu | The pirates buried the treasure. | Gold and jewels hidden in a chest.
+pirate | /ˈpaɪrət/ | n | cướp biển | The pirate had a wooden leg. | A sailor who robs other ships.
+robot | /ˈroʊbɑːt/ | n | rô-bốt | The robot can clean the house. | A machine that can move and act like a person.
+battle | /ˈbætl/ | n | trận chiến | The hero won the final battle. | A fight between two armies.
+rescue | /ˈreskjuː/ | v | giải cứu | The hero rescued the child. | To save someone from danger.
+## The Reading Nook | 🛋️ | A soft chair by the window.
+@ Quiet reader | 🤫 | Just let me finish this page.
+@ Book club leader | 👩‍🏫 | What did everyone think of chapter five?
+@@ Bookmark | 🔖 | It keeps your place.
+bookmark | /ˈbʊkmɑːrk/ | n | thẻ đánh dấu trang | I use a ticket as a bookmark. | A strip of paper that keeps your place.
+borrow a book | /ˈbɑːroʊ ə bʊk/ | phr | mượn sách | You can borrow a book for two weeks. | To take a volume home from the library for a while.
+imagine a story | /ɪˈmædʒɪn ə ˈstɔːri/ | phr | tưởng tượng ra câu chuyện | Close your eyes and imagine a story. | To make up a tale in your head.
+tale | /teɪl/ | n | câu chuyện (kể) | Grandpa told us tales of the sea. | An old-fashioned word for a story.
+moral | /ˈmɔːrəl/ | n | bài học rút ra | The moral of the story is: be kind. | The lesson a fable teaches.
+suspense | /səˈspens/ | n | sự hồi hộp | The film kept us in suspense. | The nervous feeling of waiting to know what happens.
+twist | /twɪst/ | n | tình tiết bất ngờ | The story has a twist at the end. | An unexpected change in a plot.
+rhyme | /raɪm/ | v | hiệp vần | "Cat" rhymes with "hat". | To end with the same sound, like "moon" and "spoon".
+fantasy | /ˈfæntəsi/ | n | thể loại kỳ ảo | Harry Potter is a fantasy series. | The type of story with wizards and dragons.
+page-turner | /ˈpeɪdʒ tɜːrnər/ | n | cuốn sách hấp dẫn | Her new thriller is a real page-turner. | A volume so exciting that you cannot stop.
+
+# Camp Wild | 🏕️ | #84cc16 | fun | A2 | Pitch a tent, light a fire and sleep under the stars.
+## The Campsite | ⛺ | Tents in a circle around a fire.
+@ Camp leader | 🧑‍🏫 | Tents up before dark, everyone!
+@ First-time camper | 😬 | Are there bears here?
+@@ Tent bag | 🎒 | Poles, pegs and fabric.
+camping | /ˈkæmpɪŋ/ | n | cắm trại | We go camping every summer. | Sleeping outdoors under fabric for fun.
+tent | /tent/ | n | cái lều | We slept in a tent. | A shelter of fabric and poles.
+campfire | /ˈkæmpfaɪər/ | n | lửa trại | We sang songs around the campfire. | Burning logs in the middle of a group outdoors.
+sleeping bag | /ˈsliːpɪŋ bæɡ/ | n | túi ngủ | My sleeping bag is very warm. | A soft warm sack you lie inside at night outdoors.
+flashlight | /ˈflæʃlaɪt/ | n | đèn pin | Bring a flashlight for the night. | A small electric lamp you hold in your hand.
+compass | /ˈkʌmpəs/ | n | la bàn | A compass always points north. | A device with a needle that always shows north.
+lighter | /ˈlaɪtər/ | n | cái bật lửa | He lit the fire with a lighter. | A small pocket device that makes a flame when you press it.
+firewood | /ˈfaɪərwʊd/ | n | củi | We collected firewood before dark. | Logs and sticks for burning.
+pitch | /pɪtʃ/ | v | dựng (lều) | We pitched our tent by the river. | To set up your fabric shelter.
+campsite | /ˈkæmpsaɪt/ | n | khu cắm trại | The campsite has showers. | A place where people put up their fabric shelters.
+## The Trail | 🥾 | A dusty path climbs through pine trees.
+@ Trail guide | 🧭 | Stay on the path and watch your step.
+@ Tired hiker | 😮‍💨 | Are we nearly there?
+@@ Trail marker | 🪧 | A yellow arrow on a tree.
+hike | /haɪk/ | v | đi bộ đường dài | We hiked ten kilometers today. | To take a long walk in the hills.
+climb | /klaɪm/ | v | leo, trèo | We climbed to the top of the hill. | To go up a mountain using hands and feet.
+trail | /treɪl/ | n | đường mòn | The trail goes through the forest. | A rough track through the countryside.
+hiking boots | /ˈhaɪkɪŋ buːts/ | n | giày leo núi | Wear strong hiking boots. | Tough footwear that covers the ankles for long walks.
+viewpoint | /ˈvjuːpɔɪnt/ | n | điểm ngắm cảnh | We stopped at a viewpoint to take photos. | A high spot beside a route where you stop to look at the scenery.
+summit | /ˈsʌmɪt/ | n | đỉnh (núi) | We reached the summit at noon. | The very top of a mountain.
+canyon | /ˈkænjən/ | n | hẻm núi | The river runs through a deep canyon. | A deep, narrow valley with steep rocky sides.
+wilderness | /ˈwɪldərnəs/ | n | vùng hoang dã | They got lost in the wilderness. | A large natural area where no people live.
+guide | /ɡaɪd/ | n | người dẫn đường | Our guide knew every path. | A person who shows the way.
+track | /træk/ | n | dấu vết, lối đi | We found bear tracks in the mud. | Footprints left by an animal.
+## By the Water | 🛶 | A calm river and two canoes.
+@ Canoe instructor | 🚣 | Paddle left, then right.
+@ Fishing dad | 🎣 | The big one got away.
+@@ Life jacket | 🦺 | Bright orange.
+canoe | /kəˈnuː/ | n | xuồng ca-nô | We crossed the lake in a canoe. | A long, narrow, light boat moved with a paddle.
+paddle | /ˈpædl/ | n | mái chèo | I dropped my paddle in the river. | A short pole with a flat end for moving a small boat.
+kayak | /ˈkaɪæk/ | n | thuyền kayak | We explored the bay by kayak. | A small covered boat for one person, moved with a double-ended pole.
+fishing rod | /ˈfɪʃɪŋ rɑːd/ | n | cần câu | He bought a new fishing rod. | A long thin pole with a line and hook.
+bait | /beɪt/ | n | mồi câu | We used worms as bait. | Food put on a hook to attract a catch.
+hook | /hʊk/ | n | lưỡi câu, cái móc | The fish is on the hook. | A small curved piece of metal on the end of a line.
+life jacket | /ˈlaɪf dʒækɪt/ | n | áo phao | Always wear a life jacket on the boat. | A vest that keeps you on top of the water.
+drown | /draʊn/ | v | chết đuối | He nearly drowned in the river. | To die because you are under water and cannot breathe.
+splash | /splæʃ/ | v | té nước | The kids splashed in the water. | To make water fly up noisily.
+current | /ˈkɜːrənt/ | n | dòng chảy | The current is very strong here. | The steady movement of a river in one direction.
+## Night Under the Stars | 🌌 | Crickets sing and the fire glows red.
+@ Ghost story teller | 👻 | It was a dark and stormy night...
+@ Marshmallow kid | 🧒 | Mine is on fire!
+@@ Glowing embers | 🔥 | The last of the fire.
+barbecue | /ˈbɑːrbɪkjuː/ | n | tiệc nướng ngoài trời | We had a barbecue by the lake. | A meal cooked outdoors over hot coals.
+marshmallow | /ˈmɑːrʃmeloʊ/ | n | kẹo dẻo | We roasted marshmallows on sticks. | A soft white sweet that you toast on a stick.
+spark | /spɑːrk/ | n | tia lửa | Sparks flew up from the fire. | A tiny burning piece that jumps from a flame.
+flame | /fleɪm/ | n | ngọn lửa | The flames lit up our faces. | The hot bright tongue of burning gas.
+ash | /æʃ/ | n | tro | Only ash was left in the morning. | The gray powder that remains after burning.
+log | /lɔːɡ/ | n | khúc gỗ | Put another log on the fire. | A thick piece cut from a tree trunk.
+insect repellent | /ˈɪnsekt rɪpelənt/ | n | thuốc chống côn trùng | Do not forget the insect repellent. | A spray that keeps mosquitoes away.
+stargaze | /ˈstɑːrɡeɪz/ | v | ngắm sao | We lay on the grass and stargazed. | To lie back and look at the night sky.
+survive | /sərˈvaɪv/ | v | sống sót | They survived three days in the forest. | To stay alive in a hard situation.
+shelter | /ˈʃeltər/ | n | chỗ trú ẩn | We found shelter under a rock. | A place that protects you from wind and rain.
+
+# Computer Lab | 💻 | #38bdf8 | tech | A2 | Screens, keys and files: speak the language of computers.
+## The Hardware Desk | 🖥️ | Boxes, cables and blinking lights.
+@ IT teacher | 🧑‍🏫 | First, find the power button.
+@ Beginner | 🙋‍♀️ | Which hole does this cable go in?
+@@ Cable box | 🔌 | A tangle of wires.
+computer | /kəmˈpjuːtər/ | n | máy tính | I use a computer at work. | An electronic machine for typing, browsing and calculating.
+laptop | /ˈlæptɑːp/ | n | máy tính xách tay | I take my laptop to the café. | A portable one that folds shut.
+tablet | /ˈtæblət/ | n | máy tính bảng | The kids watch cartoons on a tablet. | A flat touch device bigger than a phone, with no keys.
+touchpad | /ˈtʌtʃpæd/ | n | bàn di chuột | My laptop's touchpad is broken. | The flat square on a portable machine that you slide a finger on.
+monitor | /ˈmɑːnɪtər/ | n | màn hình máy tính | I bought a bigger monitor. | The separate display of a desktop machine.
+speaker | /ˈspiːkər/ | n | cái loa | The speakers are too loud. | The part of a device that sound comes out of.
+cable | /ˈkeɪbl/ | n | dây cáp | I need a longer cable. | A thick wire that connects two devices.
+charger | /ˈtʃɑːrdʒər/ | n | bộ sạc | Can I borrow your charger? | You plug it in to fill up your phone's energy.
+plug | /plʌɡ/ | n | phích cắm | Put the plug in the wall. | The part with metal pins at the end of a power lead.
+device | /dɪˈvaɪs/ | n | thiết bị | Turn off all electronic devices. | Any small machine or gadget.
+## The Software Zone | 🧩 | Colorful icons float on a wall.
+@ Programmer | 👩‍💻 | It works on my machine.
+@ Frustrated user | 😤 | It froze again!
+@@ Loading bar | ⏳ | 99 percent...
+software | /ˈsɔːftwer/ | n | phần mềm | We need new software for the office. | The programs that run on a machine.
+coding | /ˈkoʊdɪŋ/ | n | việc lập trình | She learned coding at school. | The activity of writing instructions for a machine.
+app | /æp/ | n | ứng dụng | I downloaded a new app. | A small program on your phone.
+install an app | /ɪnˈstɔːl ən æp/ | phr | cài ứng dụng | It takes one minute to install an app. | To put a new program on your phone.
+update | /ˌʌpˈdeɪt/ | v | cập nhật | Update your phone tonight. | To change software to the newest version.
+code | /koʊd/ | n | mã, mã lập trình | She writes code all day. | The lines of instructions that make up a program.
+bug | /bʌɡ/ | n | lỗi phần mềm | There is a bug in the app. | A mistake in a program.
+virus | /ˈvaɪrəs/ | n | vi-rút | A virus deleted my files. | A harmful program that spreads between machines.
+error | /ˈerər/ | n | lỗi (thông báo) | An error message appeared on the screen. | The red message box that appears when something goes wrong.
+data | /ˈdeɪtə/ | n | dữ liệu | The company collects a lot of data. | Information stored in digital form.
+## Files and Keys | ⌨️ | A giant keyboard you can walk on.
+@ Office trainer | 🧑‍💼 | Control-S. Always Control-S.
+@ Panicking student | 😱 | I closed it without saving!
+@@ Giant key | ⌨️ | It says "Enter".
+type | /taɪp/ | v | gõ phím | I can type sixty words a minute. | To write by pressing keys.
+click | /klɪk/ | v | nhấp chuột | Click on the blue button. | To press a button on the pointing device.
+save a file | /seɪv ə faɪl/ | phr | lưu tệp | Remember to save the file often. | To store your work so you do not lose it.
+delete | /dɪˈliːt/ | v | xóa | I deleted the wrong file. | To remove something from a disk.
+print | /prɪnt/ | v | in | Print two copies, please. | To put a document onto sheets with a machine.
+paste | /peɪst/ | v | dán | Copy the text and paste it here. | To insert what you copied.
+attach a file | /əˈtætʃ ə faɪl/ | phr | đính kèm tệp | Do not forget to attach the file. | To add a document to an email.
+backup | /ˈbækʌp/ | n | bản sao lưu | Keep a backup of your photos. | A second copy kept in case the first is lost.
+icon | /ˈaɪkɑːn/ | n | biểu tượng | Double-click the icon to open the app. | A small picture on the display that you click to open something.
+desktop | /ˈdesktɑːp/ | n | màn hình nền | Save it on the desktop. | The main screen you see after you log in.
+## Digital Skills | 🧠 | A classroom for all ages.
+@ Senior learner | 👵 | My grandson says this is easy.
+@ Coding kid | 🧒 | I made my own game!
+@@ Certificate | 📜 | "Basic computer skills".
+digital | /ˈdɪdʒɪtl/ | adj | kỹ thuật số | We live in a digital world. | Using electronic technology and numbers.
+technology | /tekˈnɑːlədʒi/ | n | công nghệ | Technology changes very fast. | Machines and methods based on scientific knowledge.
+memory card | /ˈmeməri kɑːrd/ | n | thẻ nhớ | The memory card is full. | A tiny chip that stores photos in a camera.
+storage | /ˈstɔːrɪdʒ/ | n | dung lượng lưu trữ | My phone has no storage left. | Space for keeping information.
+user | /ˈjuːzər/ | n | người dùng | The app has a million users. | A person who operates a program or service.
+log in | /lɔːɡ ɪn/ | v | đăng nhập | Log in with your email. | To enter your name and secret word to start.
+shut down | /ʃʌt daʊn/ | v | tắt máy | Shut down the computer before you leave. | To turn a machine completely off.
+restart | /ˌriːˈstɑːrt/ | v | khởi động lại | Try to restart the laptop. | To turn a machine off and on again.
+artificial intelligence | /ˌɑːrtɪfɪʃl ɪnˈtelɪdʒəns/ | n | trí tuệ nhân tạo | Artificial intelligence can write text. | Machines that seem to think and learn; "AI".
+automatic | /ˌɔːtəˈmætɪk/ | adj | tự động | The doors are automatic. | Working by itself without a person.

@@ -1,0 +1,231 @@
+# City Hospital | 🏥 | #38bdf8 | health | B1 | From the front desk to the pharmacy: get the care you need.
+## Reception | 🛎️ | White walls, bright lights and a long counter.
+@ Receptionist | 👨‍💼 | Do you have an appointment?
+@ Worried mother | 👩‍👦 | My son has been coughing for three days.
+@@ Registration form | 📋 | Name, age, insurance number...
+hospital | /ˈhɑːspɪtl/ | n | bệnh viện | She works at the city hospital. | A large building where doctors treat very sick people.
+clinic | /ˈklɪnɪk/ | n | phòng khám | I went to the clinic for a check-up. | A small medical center where you see a doctor and go home.
+appointment | /əˈpɔɪntmənt/ | n | cuộc hẹn | I have an appointment with the dentist at three. | A fixed time when you will see the doctor.
+patient | /ˈpeɪʃnt/ | n | bệnh nhân | The doctor sees thirty patients a day. | A sick person who is being treated by a doctor.
+emergency | /ɪˈmɜːrdʒənsi/ | n | trường hợp khẩn cấp | Call this number in an emergency. | A sudden, dangerous situation that needs help right now.
+ambulance | /ˈæmbjələns/ | n | xe cứu thương | Call an ambulance! | A van with a siren that carries sick people fast.
+insurance | /ɪnˈʃʊrəns/ | n | bảo hiểm | Do you have health insurance? | You pay a company every month, and it pays your big medical bills.
+ward | /wɔːrd/ | n | khu phòng bệnh | He is in the children's ward. | A large room in a medical building with many beds.
+wheelchair | /ˈwiːltʃer/ | n | xe lăn | She has used a wheelchair since the accident. | A seat on wheels for a person who cannot walk.
+stretcher | /ˈstretʃər/ | n | cái cáng | They carried him out on a stretcher. | A flat bed that two people carry an injured person on.
+## The Doctor's Office | 🩺 | A desk, a bed and a poster of the human body.
+@ Dr. Tran | 👨‍⚕️ | Tell me, what seems to be the problem?
+@ Nurse | 👩‍⚕️ | Roll up your sleeve, please.
+@@ Stethoscope | 🩺 | Cold metal on your chest.
+doctor | /ˈdɑːktər/ | n | bác sĩ | You should see a doctor about that cough. | A person whose job is to treat sick people.
+nurse | /nɜːrs/ | n | y tá | The nurse gave me an injection. | A person who cares for sick people and assists the physician.
+examine | /ɪɡˈzæmɪn/ | v | khám | The doctor examined my throat. | To look at a sick person's body carefully to find the problem.
+diagnose | /ˌdaɪəɡˈnoʊs/ | v | chẩn đoán | The doctor diagnosed him with the flu. | To find out and say exactly which illness a person has.
+check-up | /ˈtʃek ʌp/ | n | buổi khám sức khỏe tổng quát | I have a check-up once a year. | A general medical test to see if you are well.
+blood pressure | /ˈblʌd preʃər/ | n | huyết áp | The nurse measured my blood pressure. | The force of the red liquid moving inside your body.
+pulse | /pʌls/ | n | mạch | The doctor felt my pulse. | The regular beat you can feel on the inside of your wrist.
+breathe | /briːð/ | v | thở | Breathe in deeply, please. | To take air into your body and let it out.
+X-ray | /ˈeks reɪ/ | n | phim X-quang | The X-ray showed a broken bone. | A photograph of the bones inside your body.
+treat | /triːt/ | v | điều trị | Doctors treat this illness with rest. | To give medical care to cure someone.
+## Surgery Wing | 🏨 | Green doors and people in masks.
+@ Surgeon | 🧑‍⚕️ | The operation went very well.
+@ Visitor | 💐 | I brought flowers for my aunt.
+@@ Heart monitor | 📈 | Beep... beep... beep...
+surgeon | /ˈsɜːrdʒən/ | n | bác sĩ phẫu thuật | The surgeon worked for six hours. | A doctor who cuts the body open to repair it.
+operation | /ˌɑːpəˈreɪʃn/ | n | ca mổ | He needs an operation on his knee. | When doctors cut the body open to fix something inside.
+injection | /ɪnˈdʒekʃn/ | n | mũi tiêm | The child cried during the injection. | Medicine put into your arm through a needle.
+needle | /ˈniːdl/ | n | kim tiêm, cây kim | I am afraid of needles. | A very thin, sharp piece of metal used to put medicine in your arm.
+vaccine | /vækˈsiːn/ | n | vắc-xin | Babies get many vaccines. | A substance given to stop you from catching a disease.
+disease | /dɪˈziːz/ | n | căn bệnh | Malaria is a dangerous disease. | A serious illness, like cancer or diabetes.
+cancer | /ˈkænsər/ | n | ung thư | Smoking can cause lung cancer. | A very serious illness in which bad cells grow in the body.
+heart attack | /ˈhɑːrt ətæk/ | n | cơn đau tim | He had a heart attack last year. | A sudden, dangerous stop of the organ that pumps blood.
+cure | /kjʊr/ | v | chữa khỏi | This medicine can cure the infection. | To make an illness go away completely.
+heal | /hiːl/ | v | lành lại | The cut will heal in a week. | When a cut closes and the skin becomes normal again.
+## The Pharmacy | 💊 | Shelves of small white boxes.
+@ Pharmacist | 🧑‍🔬 | Take one, twice a day, after meals.
+@ Old man | 👴 | I always forget which one is which.
+@@ Pill bottle | 💊 | It rattles when you shake it.
+pharmacy | /ˈfɑːrməsi/ | n | hiệu thuốc | Is there a pharmacy near here? | A shop where you buy medicine.
+medicine | /ˈmedɪsn/ | n | thuốc | Take this medicine three times a day. | Something you swallow to get well when you are sick.
+pill | /pɪl/ | n | viên thuốc | Take one pill before bed. | A small, round, hard piece of medicine.
+prescription | /prɪˈskrɪpʃn/ | n | đơn thuốc | You need a prescription for this medicine. | A paper from the doctor that says which medicine you can buy.
+painkiller | /ˈpeɪnkɪlər/ | n | thuốc giảm đau | I took a painkiller for my headache. | A drug that stops something from hurting.
+antibiotic | /ˌæntibaɪˈɑːtɪk/ | n | thuốc kháng sinh | The doctor gave me antibiotics. | A drug that kills bacteria.
+dose | /doʊs/ | n | liều | Do not take more than the recommended dose. | The amount of a drug you take at one time.
+side effect | /ˈsaɪd ɪfekt/ | n | tác dụng phụ | Sleepiness is a common side effect. | An unwanted result of taking a drug.
+ointment | /ˈɔɪntmənt/ | n | thuốc mỡ | Put this ointment on the burn. | A soft cream with medicine that you rub on your skin.
+syrup | /ˈsɪrəp/ | n | si-rô | Give the child a spoon of cough syrup. | A sweet, thick liquid medicine for children.
+
+# Fit and Well | 🏃 | #4ade80 | health | A2 | Move, eat well, sleep well: build a healthy life step by step.
+## The Gym | 🏋️ | Music plays and machines hum.
+@ Trainer | 🧑‍🏫 | Ten more! You can do it!
+@ Beginner | 😓 | I think I am going to fall over.
+@@ Dumbbell | 🏋️ | Ten kilos each.
+exercise | /ˈeksərsaɪz/ | n | bài tập, sự tập thể dục | Swimming is good exercise. | Physical activity that keeps your body in shape.
+gym | /dʒɪm/ | n | phòng tập | I go to the gym three times a week. | A place with machines where people go to get stronger.
+work out | /wɜːrk aʊt/ | v | tập luyện | I work out every morning. | To train your body with weights and machines.
+stretch | /stretʃ/ | v | giãn cơ, duỗi | Stretch your legs before you run. | To pull your arms and legs long before a run.
+lift | /lɪft/ | v | nâng | He can lift 100 kilos. | To pick up something heavy and raise it.
+jog | /dʒɑːɡ/ | v | chạy bộ chậm | I jog in the park every morning. | To run slowly for a long time for your health.
+sweat | /swet/ | v | đổ mồ hôi | I sweat a lot when I run. | To have salty water come out of your skin when you are hot.
+in shape | /ɪn ʃeɪp/ | phr | có thể lực tốt, cân đối | He runs every day to stay in shape. | In good physical condition because you train often.
+energy | /ˈenərdʒi/ | n | năng lượng | I have no energy today. | The power in your body that lets you be active.
+warm up | /wɔːrm ʌp/ | v | khởi động | Always warm up before a game. | To do easy movements to get ready before hard sport.
+## Good Habits | 🥗 | A chart with green ticks.
+@ Health coach | 👩‍⚕️ | Small changes make a big difference.
+@ Office worker | 🧑‍💻 | I sit for ten hours a day.
+@@ Habit tracker | ✅ | Seven boxes for seven days.
+lifestyle | /ˈlaɪfstaɪl/ | n | lối sống | She has a very healthy lifestyle. | The way a person lives: what they eat, do and how they work.
+balanced | /ˈbælənst/ | adj | cân bằng | Eat a balanced diet. | Having the right amount of each kind of food.
+lose weight | /luːz weɪt/ | phr | giảm cân | I want to lose weight before summer. | To become thinner and lighter.
+gain weight | /ɡeɪn weɪt/ | phr | tăng cân | I always gain weight in winter. | To become heavier.
+give up | /ɡɪv ʌp/ | v | từ bỏ | He gave up sugar last year. | To stop doing a bad habit forever.
+smoke | /smoʊk/ | v | hút thuốc | Please do not smoke in here. | To breathe in the gas from a burning cigarette.
+alcohol | /ˈælkəhɔːl/ | n | rượu bia | He does not drink alcohol. | The substance in beer and wine that makes people drunk.
+avoid | /əˈvɔɪd/ | v | tránh | Avoid fried food if you can. | To stay away from something bad.
+harmful | /ˈhɑːrmfl/ | adj | có hại | Too much sun is harmful to your skin. | Causing damage to your health.
+benefit | /ˈbenɪfɪt/ | n | lợi ích | Walking has many health benefits. | A good result or advantage you get from something.
+## Mind and Rest | 🧘 | Soft mats and the sound of water.
+@ Yoga teacher | 🧘‍♀️ | Breathe in... and breathe out.
+@ Stressed manager | 😫 | I have not slept well for a month.
+@@ Yoga mat | 🧘 | Thin and purple.
+stress | /stres/ | n | sự căng thẳng | Exercise helps reduce stress. | Mental pressure from too much work and worry.
+meditate | /ˈmedɪteɪt/ | v | thiền | I meditate for ten minutes every morning. | To sit silently and empty your mind.
+yoga | /ˈjoʊɡə/ | n | môn yoga | She does yoga to relax. | Slow exercises from India with special body positions.
+sleep | /sliːp/ | n | giấc ngủ | You need eight hours of sleep. | What your body does in bed at night with eyes closed.
+mental | /ˈmentl/ | adj | thuộc về tinh thần | Mental health is as important as physical health. | Connected with the mind, not the body.
+physical | /ˈfɪzɪkl/ | adj | thuộc về thể chất | He does a lot of physical work. | Connected with the body, not the mind.
+peaceful | /ˈpiːsfl/ | adj | yên bình | The lake is so peaceful in the morning. | Calm and quiet, with no noise or worry.
+anxiety | /æŋˈzaɪəti/ | n | sự lo âu | She suffers from anxiety before exams. | A strong feeling of worry and fear about what may happen.
+depressed | /dɪˈprest/ | adj | trầm cảm, chán nản | He felt depressed after losing his job. | Very sad for a long time, with no hope or interest in life.
+therapy | /ˈθerəpi/ | n | liệu pháp, trị liệu | He goes to therapy once a week. | Regular meetings with a professional to treat problems of the mind.
+## Clean and Safe | 🧼 | A sink, a mirror and a row of bottles.
+@ School nurse | 👩‍⚕️ | Twenty seconds with soap, everybody!
+@ Muddy kid | 🧒 | But my hands are not that dirty...
+@@ Soap dispenser | 🧴 | Push for foam.
+hygiene | /ˈhaɪdʒiːn/ | n | vệ sinh | Good hygiene stops the spread of disease. | Keeping yourself and your home free of dirt and bacteria.
+shampoo | /ʃæmˈpuː/ | n | dầu gội | I need to buy some shampoo. | Liquid soap for your hair.
+toothpaste | /ˈtuːθpeɪst/ | n | kem đánh răng | Put some toothpaste on your brush. | The white cream you squeeze from a tube to clean your mouth.
+sunscreen | /ˈsʌnskriːn/ | n | kem chống nắng | Put on sunscreen before you go to the beach. | Cream that protects your skin from burning outdoors.
+mask | /mæsk/ | n | khẩu trang, mặt nạ | Please wear a mask in the hospital. | A cover for your nose and mouth.
+protect | /prəˈtekt/ | v | bảo vệ | A helmet protects your head. | To keep someone or something safe from harm.
+prevent | /prɪˈvent/ | v | ngăn ngừa | Washing your hands helps prevent illness. | To stop something bad before it happens.
+safe | /seɪf/ | adj | an toàn | Is the water safe to drink? | Not dangerous.
+dangerous | /ˈdeɪndʒərəs/ | adj | nguy hiểm | It is dangerous to swim here. | Likely to hurt or kill you.
+dentist | /ˈdentɪst/ | n | nha sĩ | I go to the dentist twice a year. | A doctor for your teeth.
+
+# The Five Senses | 👁️ | #a78bfa | health | A2 | See, hear, smell, taste and touch. Then move your whole body.
+## The Looking Room | 👀 | Windows, lenses and colored lights.
+@ Eye doctor | 🧑‍⚕️ | Read the letters on the wall, please.
+@ Bird watcher | 🔭 | Shh! Look over there!
+@@ Telescope | 🔭 | It points at the sky.
+see | /siː/ | v | nhìn thấy | I can see the sea from my window. | To notice things with your eyes.
+look | /lʊk/ | v | nhìn | Look at this picture. | To turn your eyes toward something on purpose.
+stare | /ster/ | v | nhìn chằm chằm | It is rude to stare at people. | To keep your eyes on someone for a long time without moving them.
+notice | /ˈnoʊtɪs/ | v | để ý thấy | Did you notice her new haircut? | To become aware of a small detail.
+glance | /ɡlæns/ | v | liếc nhìn | He glanced at his phone. | To take one very quick view of something.
+blink | /blɪŋk/ | v | chớp mắt | She blinked in the bright light. | To close and open both eyes very quickly.
+sight | /saɪt/ | n | thị lực, cảnh tượng | He lost his sight in an accident. | The ability to use your eyes.
+blind | /blaɪnd/ | adj | mù | The blind man has a guide dog. | Not able to use your eyes at all.
+visible | /ˈvɪzəbl/ | adj | có thể nhìn thấy | The mountain is visible from here. | Able to be noticed by the eyes; not hidden.
+view | /vjuː/ | n | quang cảnh | The room has a view of the sea. | Everything you can observe from a window or a hilltop.
+## The Sound Studio | 🎧 | Speakers, bells and soft walls.
+@ Sound engineer | 🎚️ | Put on the headphones.
+@ Grandpa | 👴 | Eh? What did you say?
+@@ Giant ear model | 👂 | You can walk inside it.
+hear | /hɪr/ | v | nghe thấy | Can you hear the birds? | To receive sounds with your ears.
+sound | /saʊnd/ | n | âm thanh | I love the sound of rain. | Anything that your ears can receive.
+noise | /nɔɪz/ | n | tiếng ồn | Stop making so much noise! | Loud and unpleasant sounds from traffic or machines.
+loud | /laʊd/ | adj | to, ồn | The music is too loud. | Making a lot of sound; easy to hear from far away.
+deaf | /def/ | adj | điếc | She has been deaf since birth. | Not able to receive any sounds with the ears.
+buzz | /bʌz/ | v | kêu vo vo, rung | My phone buzzed on the table. | To make a low continuous sound like a bee or a vibrating phone.
+bang | /bæŋ/ | n | tiếng nổ, tiếng sập mạnh | The door closed with a bang. | A sudden, very strong sound like a gun firing.
+echo | /ˈekoʊ/ | n | tiếng vang | We heard an echo in the cave. | Your own shout coming back to you from a mountain wall.
+volume | /ˈvɑːljuːm/ | n | âm lượng | Turn the volume down, please. | How strong the sound of a TV or radio is.
+silence | /ˈsaɪləns/ | n | sự im lặng | There was silence in the room. | A complete lack of any sound.
+## The Smell and Touch Lab | 👃 | Jars to sniff and boxes to put your hand in.
+@ Perfume maker | 👩‍🔬 | One drop is enough.
+@ Chef's dog | 🐕 | Sniff, sniff. Something is cooking!
+@@ Mystery box | 🎁 | Put your hand in. What is it?
+smell | /smel/ | v | ngửi | Smell these flowers! | To notice something with your nose.
+stink | /stɪŋk/ | v | bốc mùi hôi | These old socks stink! | To have a very bad odor.
+perfume | /pərˈfjuːm/ | n | nước hoa | She wears too much perfume. | A liquid people put on their skin to have a pleasant odor.
+touch | /tʌtʃ/ | v | chạm | Do not touch the hot plate. | To put your fingers lightly on something.
+rough | /rʌf/ | adj | thô ráp | A cat's tongue is rough. | Not even on the surface, like sandpaper.
+smooth | /smuːð/ | adj | mịn, nhẵn | The baby's skin is so smooth. | Completely even on the surface, like glass.
+sharp | /ʃɑːrp/ | adj | sắc, nhọn | Be careful. The knife is sharp. | Able to cut your finger easily.
+wet | /wet/ | adj | ướt | My shoes are wet from the rain. | Covered with water.
+scratch | /skrætʃ/ | v | gãi, cào | The cat scratched my hand. | To rub your skin with your nails.
+hold | /hoʊld/ | v | cầm, nắm | Hold my hand when we cross the road. | To keep something in your hand.
+## The Movement Hall | 🤸 | A big empty floor with soft mats.
+@ PE teacher | 🧑‍🏫 | Everybody up! Follow me!
+@ Sleepy student | 🥱 | Can we just sit today?
+@@ Whistle | 📯 | One blow means go!
+stand | /stænd/ | v | đứng | Please stand in a line. | To be on your feet, not on a chair.
+sit | /sɪt/ | v | ngồi | Sit down and open your books. | To rest your bottom on a chair.
+lie down | /laɪ daʊn/ | v | nằm xuống | I need to lie down for a while. | To put your whole body flat on a bed.
+bend | /bend/ | v | cúi, gập | Bend your knees when you lift. | To make your body or your knee curve.
+nod | /nɑːd/ | v | gật đầu | She nodded to say yes. | To move your head up and down to say yes.
+shake | /ʃeɪk/ | v | lắc, rung | He shook his head to say no. | To move something quickly from side to side.
+wave | /weɪv/ | v | vẫy tay | She waved goodbye from the train. | To move your hand in the air to say hello.
+point | /pɔɪnt/ | v | chỉ tay | Do not point at people. | To show where something is with one finger.
+clap | /klæp/ | v | vỗ tay | Everyone clapped at the end of the show. | To hit your two hands together to show you liked a show.
+kneel | /niːl/ | v | quỳ | He knelt down to tie his shoe. | To go down so your weight is on the middle joints of your legs.
+
+# Classroom Kit | 🎒 | #fbbf24 | school | A1 | Open your school bag and name everything inside and around you.
+## The Pencil Case | ✏️ | Zip it open and look inside.
+@ Deskmate | 🧒 | Can I use your red one?
+@ Art teacher | 👩‍🎨 | Sharp tools make neat work.
+@@ Pencil case | 🖍️ | Full of colors.
+pen | /pen/ | n | bút mực, bút bi | Can I use your pen? | You write in ink with it.
+pencil | /ˈpensl/ | n | bút chì | Write your name in pencil. | A wooden writing tool; you can rub out its marks.
+eraser | /ɪˈreɪsər/ | n | cục tẩy | I made a mistake. Where is my eraser? | A small piece of rubber that removes marks from paper.
+ruler | /ˈruːlər/ | n | cái thước | Use a ruler to draw the line. | A flat stick with centimeters for drawing straight lines.
+sharpener | /ˈʃɑːrpənər/ | n | cái gọt bút chì | My pencil is blunt. I need a sharpener. | A small tool that makes the tip of a writing stick pointed.
+marker | /ˈmɑːrkər/ | n | bút lông | The teacher writes with a blue marker. | A thick pen with a soft tip for writing on a whiteboard.
+crayon | /ˈkreɪɑːn/ | n | bút sáp màu | The child drew a sun with a yellow crayon. | A stick of colored wax for children's drawings.
+glue | /ɡluː/ | n | keo dán | Stick the picture down with glue. | A sticky liquid that joins two pieces of paper.
+tape | /teɪp/ | n | băng dính | Fix the torn page with tape. | A long sticky plastic strip on a roll.
+highlighter | /ˈhaɪlaɪtər/ | n | bút dạ quang | Mark the key words with a highlighter. | A bright yellow pen for marking important words in a text.
+## On the Desk | 📚 | Books and paper in neat piles.
+@ Class monitor | 🧑‍🎓 | Please pass these out to everyone.
+@ Forgetful boy | 😅 | I left everything at home again.
+@@ School bag | 🎒 | Heavy with books.
+book | /bʊk/ | n | quyển sách | I am reading a good book. | Many printed pages joined together inside a cover.
+textbook | /ˈtekstbʊk/ | n | sách giáo khoa | Open your textbook to page 20. | The official printed volume a class uses to study a subject.
+dictionary | /ˈdɪkʃəneri/ | n | từ điển | Look up the word in a dictionary. | It lists words from A to Z and explains their meanings.
+paper | /ˈpeɪpər/ | n | giấy | I need a piece of paper. | Thin white sheets that you write on.
+page | /peɪdʒ/ | n | trang | Turn to the next page. | One side of a sheet in a notebook.
+folder | /ˈfoʊldər/ | n | bìa hồ sơ | Keep your worksheets in a folder. | A cardboard cover for holding loose sheets together.
+backpack | /ˈbækpæk/ | n | ba lô | My backpack is too heavy. | A bag you carry on your shoulders behind you.
+calculator | /ˈkælkjuleɪtər/ | n | máy tính bỏ túi | You may use a calculator in this test. | A small machine that adds and multiplies numbers for you.
+worksheet | /ˈwɜːrkʃiːt/ | n | phiếu bài tập | Finish the worksheet at home. | A single sheet with exercises from the teacher.
+timetable | /ˈtaɪmteɪbl/ | n | thời khóa biểu | Check the timetable for today's classes. | A chart that shows the time of each class.
+## Around the Room | 🏫 | Posters on the walls and a big board at the front.
+@ Ms. Hoa | 👩‍🏫 | Eyes on the board, everyone.
+@ New student | 🧑 | Where should I sit?
+@@ Class poster | 🖼️ | The alphabet in bright colors.
+board | /bɔːrd/ | n | cái bảng | The teacher wrote the date on the board. | The large flat surface at the front that the teacher writes on.
+chalk | /tʃɔːk/ | n | phấn | The teacher has chalk on her hands. | A soft white stick for writing on a blackboard.
+projector | /prəˈdʒektər/ | n | máy chiếu | The teacher turned on the projector. | A machine that shows pictures from a computer on a wall.
+screen | /skriːn/ | n | màn hình | Look at the screen, please. | The flat surface where a film or computer image appears.
+globe | /ɡloʊb/ | n | quả địa cầu | Find Vietnam on the globe. | A round model of the Earth that you can spin.
+bell | /bel/ | n | cái chuông | The bell rings at the end of class. | It makes a "ding" sound to tell you class is over.
+locker | /ˈlɑːkər/ | n | tủ khóa cá nhân | I keep my books in my locker. | A small metal cupboard with a key for each student.
+uniform | /ˈjuːnɪfɔːrm/ | n | đồng phục | We wear a uniform at my school. | The same clothes that all students in a school must put on.
+row | /roʊ/ | n | hàng, dãy | I sit in the front row. | A line of seats side by side.
+poster | /ˈpoʊstər/ | n | tấm áp phích | There is a map poster on the wall. | A big printed picture you hang on a wall.
+## Class Actions | ✋ | Hands go up all over the room.
+@ Mr. Nam | 👨‍🏫 | Who can tell me the answer?
+@ Eager girl | 🙋‍♀️ | Me! Me! I know!
+@@ Hand-raising sign | ✋ | "Raise your hand to speak."
+read | /riːd/ | v | đọc | Read the text on page ten. | To look at words and understand them.
+write | /raɪt/ | v | viết | Write your name at the top. | To make letters and words with a pen.
+spell | /spel/ | v | đánh vần | How do you spell your name? | To say the letters of a word in order: C-A-T.
+draw | /drɔː/ | v | vẽ | Draw a picture of your family. | To make a picture with a pencil.
+count | /kaʊnt/ | v | đếm | Can you count to one hundred? | To say numbers in order: one, two, three...
+copy | /ˈkɑːpi/ | v | chép | Copy the sentences from the board. | To write exactly the same words that you see.
+raise your hand | /reɪz jʊr hænd/ | phr | giơ tay | Raise your hand if you have a question. | What you do in class to show that you want to speak.
+underline | /ˌʌndərˈlaɪn/ | v | gạch chân | Underline the verbs in each sentence. | To draw a line below a word.
+erase | /ɪˈreɪs/ | v | xóa, tẩy | Erase the board, please. | To remove pencil marks or chalk.
+practice | /ˈpræktɪs/ | v | luyện tập | Practice speaking English every day. | To do something again and again to get good at it.

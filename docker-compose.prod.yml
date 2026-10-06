@@ -1,0 +1,62 @@
+# Chạy thật trên mạng (VPS có Docker): web + API + MySQL + Caddy tự cấp HTTPS miễn phí.
+#   docker compose -f docker-compose.prod.yml up -d --build
+# Cần file .env (xem .env.example) với DOMAIN, DB_PASSWORD, DB_ROOT_PASSWORD, EDITOR_KEY.
+# Chỉ Caddy mở cổng ra ngoài (80/443); web, API và MySQL nằm trong mạng nội bộ của Docker.
+services:
+  db:
+    image: mysql:8.4
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: vocabworld
+      MYSQL_USER: vocab
+      MYSQL_PASSWORD: ${DB_PASSWORD:?Hãy đặt DB_PASSWORD trong file .env}
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:?Hãy đặt DB_ROOT_PASSWORD trong file .env}
+    command: --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    volumes:
+      - dbdata:/var/lib/mysql
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -u root -p$$MYSQL_ROOT_PASSWORD --silent"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  api:
+    build: ./server
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      NODE_ENV: production
+      DB_HOST: db
+      DB_USER: vocab
+      DB_NAME: vocabworld
+      DB_PASSWORD: ${DB_PASSWORD}
+      EDITOR_KEY: ${EDITOR_KEY:?Hãy đặt EDITOR_KEY để người lạ không sửa được nội dung}
+      TRUST_PROXY: "2"   # Caddy -> nginx -> API
+
+  web:
+    build: ./web
+    restart: unless-stopped
+    depends_on:
+      - api
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    depends_on:
+      - web
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      DOMAIN: ${DOMAIN:?Hãy đặt DOMAIN trong file .env}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  dbdata:
+  caddy_data:
+  caddy_config:

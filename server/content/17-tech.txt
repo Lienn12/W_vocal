@@ -1,0 +1,231 @@
+# Online World | 🌐 | #22d3ee | tech | A2 | Search, post, chat and stay safe on the internet.
+## The Browser Bar | 🔎 | A giant search box glows in the dark.
+@ Web guide | 🧑‍💻 | Type anything. Anything at all.
+@ Grandma online | 👵 | How do I find my recipe page again?
+@@ Search box | 🔍 | A blinking cursor waits.
+internet | /ˈɪntərnet/ | n | mạng internet | I found it on the internet. | The global network that links billions of machines.
+website | /ˈwebsaɪt/ | n | trang web | Visit our website for details. | A set of pages at one address beginning with "www".
+search engine | /ˈsɜːrtʃ endʒɪn/ | n | công cụ tìm kiếm | Google is a search engine. | A tool like Google that finds pages for you.
+browser | /ˈbraʊzər/ | n | trình duyệt | Which browser do you use? | A program like Chrome or Safari for viewing pages.
+link | /lɪŋk/ | n | đường liên kết | Click the link to see the video. | Blue underlined text that takes you to another page.
+online | /ˌɑːnˈlaɪn/ | adj | trực tuyến | I do my shopping online. | Connected to the net.
+offline | /ˌɔːfˈlaɪn/ | adj | ngoại tuyến | You can read it offline. | Not connected to the net.
+download | /ˌdaʊnˈloʊd/ | v | tải xuống | I downloaded the song. | To copy something from the net onto your own machine.
+upload | /ˌʌpˈloʊd/ | v | tải lên | She uploaded her photos. | To send something from your machine onto the net.
+connect | /kəˈnekt/ | v | kết nối | I cannot connect to the Wi-Fi. | To join two things or join a network.
+## Social Street | 📱 | Likes and hearts float in the air.
+@ Influencer | 🤳 | Hi guys, welcome back to my channel!
+@ Quiet user | 🙂 | I just look. I never post.
+@@ Like button | 👍 | It has been pressed a million times.
+social media | /ˌsoʊʃl ˈmiːdiə/ | n | mạng xã hội | She spends hours on social media. | Sites like Facebook and TikTok where people share their lives.
+post | /poʊst/ | v | đăng bài | He posted a photo of his lunch. | To publish something on your profile.
+comment | /ˈkɑːment/ | n | bình luận | Leave a comment below. | A short written reaction under a video or photo.
+share a photo | /ʃer ə ˈfoʊtoʊ/ | phr | chia sẻ ảnh | I will share a photo of the trip. | To let friends see a picture on your profile.
+follow someone | /ˈfɑːloʊ ˈsʌmwʌn/ | phr | theo dõi ai đó | I follow someone who posts recipes. | To subscribe to a person's updates.
+follower | /ˈfɑːloʊər/ | n | người theo dõi | She has ten thousand followers. | A person who subscribes to your profile.
+profile | /ˈproʊfaɪl/ | n | hồ sơ cá nhân | Update your profile picture. | Your personal page with your name and picture.
+inbox | /ˈɪnbɑːks/ | n | hộp thư đến | I have fifty unread emails in my inbox. | The place where your new emails arrive.
+viral | /ˈvaɪrəl/ | adj | lan truyền nhanh | The video went viral. | Spreading to millions of people in a few days.
+blog | /blɑːɡ/ | n | nhật ký mạng | She writes a travel blog. | A personal site where someone writes regular articles.
+## The Phone Booth | ☎️ | A wall of phones, old and new.
+@ Phone seller | 🧑‍💼 | This one has four cameras.
+@ Annoyed caller | 😤 | Can you hear me now?
+@@ Old flip phone | 📞 | It still works.
+smartphone | /ˈsmɑːrtfoʊn/ | n | điện thoại thông minh | Everyone has a smartphone now. | A mobile with a touch display and apps.
+call back | /kɔːl bæk/ | v | gọi lại | I will call you back in five minutes. | To phone someone who phoned you earlier.
+hang up | /hæŋ ʌp/ | v | cúp máy | Do not hang up! | To end a phone conversation.
+dial | /ˈdaɪəl/ | v | bấm số | Dial 115 for an ambulance. | To press the numbers to phone someone.
+signal | /ˈsɪɡnəl/ | n | sóng, tín hiệu | There is no signal in the mountains. | The bars at the top of your mobile show how strong this is.
+ringtone | /ˈrɪŋtoʊn/ | n | nhạc chuông | I changed my ringtone. | The tune your mobile plays for an incoming conversation.
+voicemail | /ˈvɔɪsmeɪl/ | n | hộp thư thoại | Leave a message on my voicemail. | A recorded spoken note left when you do not pick up.
+video call | /ˈvɪdioʊ kɔːl/ | n | cuộc gọi video | We have a video call with grandma every Sunday. | A conversation where you see each other on the display.
+charge | /tʃɑːrdʒ/ | v | sạc pin | I need to charge my phone. | To fill a battery with energy.
+touch screen | /ˈtʌtʃ skriːn/ | n | màn hình cảm ứng | The touch screen is cracked. | A display you control with your fingers.
+## Safe Surfing | 🔐 | A locked gate with a keypad.
+@ Security expert | 🕵️ | Never use "123456".
+@ Tricked user | 😖 | I clicked the wrong thing.
+@@ Padlock icon | 🔒 | Closed and green.
+privacy | /ˈpraɪvəsi/ | n | sự riêng tư | Protect your privacy online. | The right to keep your personal life secret.
+hacker | /ˈhækər/ | n | tin tặc | A hacker stole the data. | A person who breaks into systems illegally.
+scam | /skæm/ | n | trò lừa đảo | That email is a scam. | A dishonest trick to steal money.
+spam | /spæm/ | n | thư rác | My inbox is full of spam. | Unwanted advertising emails.
+username | /ˈjuːzərneɪm/ | n | tên đăng nhập | Choose a username. | The name you type to identify yourself on a site.
+log out | /lɔːɡ aʊt/ | v | đăng xuất | Log out when you finish. | To end your session on a site.
+unfollow | /ˌʌnˈfɑːloʊ/ | v | bỏ theo dõi | I unfollowed that page. | To stop subscribing to a person's updates.
+fake | /feɪk/ | adj | giả mạo | Do not believe fake news. | Not real; made to trick people.
+secure | /sɪˈkjʊr/ | adj | an toàn, bảo mật | Use a secure password. | Protected against attack.
+addicted | /əˈdɪktɪd/ | adj | nghiện | He is addicted to his phone. | Unable to stop doing something.
+
+# Science Lab | 🔬 | #a3e635 | tech | B1 | Atoms, forces and experiments in a real laboratory.
+## The Chemistry Bench | ⚗️ | Glass tubes bubble and steam.
+@ Chemist | 👩‍🔬 | Goggles on before we start.
+@ Lab assistant | 🧑‍🔬 | Is it supposed to smoke like that?
+@@ Test tubes | 🧪 | Blue, green and yellow liquids.
+chemical | /ˈkemɪkl/ | n | hóa chất | Do not touch that chemical. | A substance used or produced in a laboratory reaction.
+atom | /ˈætəm/ | n | nguyên tử | Everything is made of atoms. | The smallest unit of an element.
+molecule | /ˈmɑːlɪkjuːl/ | n | phân tử | A water molecule has three atoms. | Two or more of the smallest units joined, like H2O.
+element | /ˈelɪmənt/ | n | nguyên tố | Gold is a chemical element. | A pure substance like hydrogen or iron.
+acid | /ˈæsɪd/ | n | a-xít | Lemon juice contains acid. | A sour liquid that can burn holes in metal.
+solid | /ˈsɑːlɪd/ | n | chất rắn | Ice is a solid. | Matter that keeps its shape, like a rock.
+substance | /ˈsʌbstəns/ | n | chất | A sticky substance covered the floor. | Any kind of matter.
+mixture | /ˈmɪkstʃər/ | n | hỗn hợp | Air is a mixture of gases. | Several things combined together.
+dissolve | /dɪˈzɑːlv/ | v | hòa tan | Sugar dissolves in water. | To disappear into a liquid, as salt does.
+react | /riˈækt/ | v | phản ứng | The two liquids react quickly. | To change when combined with another material.
+## The Physics Corner | 🧲 | Magnets, springs and rolling balls.
+@ Physicist | 🧑‍🏫 | Watch what happens when I let go.
+@ Curious kid | 🧒 | Why does it always fall down?
+@@ Big magnet | 🧲 | Red at one end, blue at the other.
+force | /fɔːrs/ | n | lực | The force of the wind broke the window. | A push or a pull.
+magnet | /ˈmæɡnət/ | n | nam châm | The magnet picked up the pins. | A piece of iron that pulls other metal toward it.
+motion | /ˈmoʊʃn/ | n | chuyển động | The motion of the boat made me sick. | The act of moving.
+pressure | /ˈpreʃər/ | n | áp suất, áp lực | Check the pressure in the tires. | The strength with which something pushes on a surface.
+friction | /ˈfrɪkʃn/ | n | lực ma sát | Friction slows the wheel. | The resistance when two surfaces rub.
+electric | /ɪˈlektrɪk/ | adj | chạy bằng điện | He drives an electric car. | Powered by current, not by petrol.
+laser | /ˈleɪzər/ | n | tia la-de | Doctors use a laser for eye surgery. | A very narrow, powerful beam of light.
+vibrate | /ˈvaɪbreɪt/ | v | rung | My phone vibrated in my pocket. | To shake very quickly with small movements.
+expand | /ɪkˈspænd/ | v | giãn nở | Metal expands when it is hot. | To become larger.
+reflect | /rɪˈflekt/ | v | phản chiếu | The lake reflects the mountains. | To send light back, as a mirror does.
+## The Life Sciences Room | 🧬 | A skeleton and jars of specimens.
+@ Biologist | 🧑‍🔬 | Life is the best chemistry of all.
+@ Squeamish student | 🤢 | Do I have to look?
+@@ DNA model | 🧬 | A twisted ladder.
+cell | /sel/ | n | tế bào | The body has billions of cells. | The smallest living unit of a body.
+gene | /dʒiːn/ | n | gen | Eye color depends on your genes. | A unit of DNA passed from parents to children.
+bacteria | /bækˈtɪriə/ | n | vi khuẩn | Some bacteria are good for you. | Tiny one-celled organisms; some cause illness.
+organ | /ˈɔːrɡən/ | n | cơ quan (cơ thể) | The liver is a large organ. | The liver or the kidney, for example.
+skeleton | /ˈskelɪtn/ | n | bộ xương | The human skeleton has 206 bones. | All the bones of a body.
+evolve | /ɪˈvɑːlv/ | v | tiến hóa | Birds evolved from dinosaurs. | To develop slowly over millions of years.
+organism | /ˈɔːrɡənɪzəm/ | n | sinh vật | A tree is a living organism. | Any living thing, large or tiny.
+nutrient | /ˈnuːtriənt/ | n | chất dinh dưỡng | Plants take nutrients from the soil. | A substance that living things need to grow.
+digest | /daɪˈdʒest/ | v | tiêu hóa | It takes hours to digest meat. | To break food down in the stomach.
+fossil | /ˈfɑːsl/ | n | hóa thạch | They found a dinosaur fossil. | The shape of an ancient animal preserved in rock.
+## The Method Board | 📋 | A flow chart from question to answer.
+@ Research leader | 👩‍🏫 | A guess is not a result.
+@ Young researcher | 🧑‍🎓 | My numbers do not match!
+@@ Lab notebook | 📓 | Every step is written down.
+method | /ˈmeθəd/ | n | phương pháp | We used a new method. | A planned way of doing something.
+hypothesis | /haɪˈpɑːθəsɪs/ | n | giả thuyết | Our hypothesis was wrong. | An idea you test to see if it is right.
+evidence | /ˈevɪdəns/ | n | bằng chứng | There is no evidence for that claim. | Facts that show something is right.
+analyze | /ˈænəlaɪz/ | v | phân tích | We analyzed the water samples. | To study something closely, part by part.
+test | /test/ | v | kiểm tra, thử nghiệm | We tested the new drug on mice. | To try something to see if it works.
+record data | /rɪˈkɔːrd ˈdeɪtə/ | phr | ghi lại dữ liệu | Record data every five minutes. | To write down each measurement.
+accurate | /ˈækjərət/ | adj | chính xác | The results are accurate. | Exactly right, with no errors.
+microscope | /ˈmaɪkrəskoʊp/ | n | kính hiển vi | Look at the cell under a microscope. | An instrument that makes extremely tiny things look big.
+phenomenon | /fəˈnɑːmɪnən/ | n | hiện tượng | Lightning is a natural phenomenon. | Something that happens in nature and can be studied.
+researcher | /ˈriːsɜːrtʃər/ | n | nhà nghiên cứu | The researchers published their results. | A person who studies a problem scientifically.
+
+# Material World | 🧱 | #f59e0b | tech | A2 | Wood, glass, metal and cloth: what is everything made of?
+## The Metal Shop | ⚙️ | Sparks fly from a grinding wheel.
+@ Blacksmith | 🧑‍🏭 | Hot metal bends. Cold metal breaks.
+@ Jeweler | 💍 | I only work with the precious kind.
+@@ Anvil | 🔨 | Heavy and black.
+metal | /ˈmetl/ | n | kim loại | The gate is made of metal. | Iron, copper and aluminum are all kinds of...
+tin | /tɪn/ | n | thiếc | The roof is made of tin. | A soft silver-white element used to coat food cans.
+bronze | /brɑːnz/ | n | đồng thiếc | The statue is made of bronze. | A brown mix of copper and tin; third-place medals are made of it.
+platinum | /ˈplætɪnəm/ | n | bạch kim | Her ring is made of platinum. | A very expensive silver-white element, costlier than gold.
+copper | /ˈkɑːpər/ | n | đồng | Electric wires are made of copper. | A red-brown element used in electric cables.
+aluminum | /əˈluːmɪnəm/ | n | nhôm | Soda cans are made of aluminum. | A very light gray element used for drink cans.
+rust | /rʌst/ | n | gỉ sét | The old bike is covered in rust. | The red-brown layer that forms on wet iron.
+magnetic | /mæɡˈnetɪk/ | adj | có từ tính | Iron is magnetic. | Able to attract iron.
+heavy | /ˈhevi/ | adj | nặng | This box is too heavy to lift. | Weighing a lot.
+sturdy | /ˈstɜːrdi/ | adj | chắc chắn | The table is old but sturdy. | Strongly built and not easily broken.
+## The Fabric Room | 🧵 | Rolls of cloth in every color.
+@ Weaver | 🧶 | Feel this. Pure silk.
+@ Fashion student | 🧑‍🎓 | I need something that does not wrinkle.
+@@ Loom | 🪡 | Threads cross over and under.
+cotton | /ˈkɑːtn/ | n | vải bông | This shirt is 100 percent cotton. | A soft white plant fiber used for T-shirts.
+wool | /wʊl/ | n | len | The scarf is made of wool. | The soft hair of sheep.
+silk | /sɪlk/ | n | lụa | She wore a silk dress. | A smooth, shiny cloth made by worms.
+leather | /ˈleðər/ | n | da thuộc | He bought a leather jacket. | Animal skin used for shoes and belts.
+fabric | /ˈfæbrɪk/ | n | vải | This fabric feels soft. | Woven material for making clothes.
+nylon | /ˈnaɪlɑːn/ | n | ni lông | The tent is made of nylon. | A strong man-made fiber used for tights and ropes.
+waterproof | /ˈwɔːtərpruːf/ | adj | chống nước | Is your jacket waterproof? | Not letting rain through.
+stretchy | /ˈstretʃi/ | adj | co giãn | These jeans are stretchy. | Able to become longer when pulled.
+delicate | /ˈdelɪkət/ | adj | mỏng manh | Wash delicate clothes by hand. | Easily damaged; needing gentle care.
+durable | /ˈdʊrəbl/ | adj | bền | These boots are very durable. | Lasting a long time without breaking.
+## The Building Yard | 🪵 | Planks, panes and blocks.
+@ Timber seller | 🪓 | Oak is strong. Pine is cheap.
+@ Glassmaker | 🫧 | Careful! One slip and it is gone.
+@@ Stack of planks | 🪵 | They smell of the forest.
+crystal | /ˈkrɪstl/ | n | pha lê | The wine cups are made of crystal. | Very clear, sparkling, high-quality material for expensive wine cups.
+rubber | /ˈrʌbər/ | n | cao su | Tires are made of rubber. | A bouncy material from trees, used for tires.
+cardboard | /ˈkɑːrdbɔːrd/ | n | bìa các-tông | The box is made of cardboard. | Thick stiff paper used for boxes.
+marble | /ˈmɑːrbl/ | n | đá cẩm thạch | The floor is made of marble. | A smooth, cold, expensive stone for statues and floors.
+timber | /ˈtɪmbər/ | n | gỗ xây dựng | The house has a timber frame. | Trees cut into planks for building.
+material | /məˈtɪriəl/ | n | vật liệu | What material is this bag made of? | What something is made from.
+transparent | /trænsˈpærənt/ | adj | trong suốt | Glass is transparent. | Able to be seen through.
+fragile | /ˈfrædʒaɪl/ | adj | dễ vỡ | Be careful. That vase is fragile. | Easily broken.
+flexible | /ˈfleksəbl/ | adj | dẻo, linh hoạt | Rubber is flexible. | Able to bend without breaking.
+artificial | /ˌɑːrtɪˈfɪʃl/ | adj | nhân tạo | These flowers are artificial. | Made by people, not natural.
+## Properties Lab | 🧊 | Things to press, drop and pour.
+@ Materials scientist | 👩‍🔬 | Let us see which one breaks first.
+@ Clumsy helper | 🙈 | Oops. Sorry about that one.
+@@ Testing machine | 🗜️ | It squeezes until something cracks.
+texture | /ˈtekstʃər/ | n | kết cấu bề mặt | I like the texture of this paper. | How a surface feels when you run your fingers over it.
+hollow | /ˈhɑːloʊ/ | adj | rỗng | The tree trunk is hollow. | Empty inside.
+lightweight | /ˈlaɪtweɪt/ | adj | nhẹ | I need a lightweight suitcase. | Weighing very little.
+powder | /ˈpaʊdər/ | n | bột | Grind the rice into powder. | Dry material in very fine grains, like flour.
+layer | /ˈleɪər/ | n | lớp | A thin layer of dust covered the desk. | One level of material lying over another.
+crack | /kræk/ | v | nứt | The glass cracked in the heat. | To break so that a thin line appears.
+bendy | /ˈbendi/ | adj | dễ uốn | The straw is bendy. | Easy to curve with your hands.
+absorb | /əbˈzɔːrb/ | v | hấp thụ, thấm | The cloth absorbs water quickly. | To take in liquid, as a towel does.
+natural | /ˈnætʃrəl/ | adj | tự nhiên | Wood is a natural material. | Coming from the earth, not made by people.
+synthetic | /sɪnˈθetɪk/ | adj | tổng hợp | Nylon is a synthetic fiber. | Produced by chemistry, not found in the wild.
+
+# Future Lab | 🤖 | #c084fc | tech | B1 | Robots, inventions and big ideas about tomorrow.
+## The Invention Museum | 💡 | Old machines behind glass.
+@ Curator | 🧑‍🏫 | Every one of these changed the world.
+@ Schoolboy | 🧒 | People really lived without phones?
+@@ First light bulb | 💡 | It still glows a little.
+invention | /ɪnˈvenʃn/ | n | phát minh | The wheel was a great invention. | Something created for the first time, like the telephone.
+inventor | /ɪnˈventər/ | n | nhà phát minh | Edison was a famous inventor. | A person who creates new machines.
+develop | /dɪˈveləp/ | v | phát triển | They are developing a new vaccine. | To work on something so it grows and gets better.
+innovation | /ˌɪnəˈveɪʃn/ | n | sự đổi mới | The company is known for innovation. | The introduction of new ideas and methods.
+gadget | /ˈɡædʒɪt/ | n | đồ dùng công nghệ nhỏ | He loves new gadgets. | A small clever electronic tool.
+patent | /ˈpætnt/ | n | bằng sáng chế | She has a patent for her design. | The legal right to be the only one to make your creation.
+prototype | /ˈproʊtətaɪp/ | n | bản mẫu thử | They built a prototype of the car. | The first test model of a new product.
+breakthrough | /ˈbreɪkθruː/ | n | bước đột phá | It was a breakthrough in medicine. | A sudden important advance.
+outdated | /ˌaʊtˈdeɪtɪd/ | adj | lỗi thời | This software is outdated. | Old and no longer useful because newer versions exist.
+revolution | /ˌrevəˈluːʃn/ | n | cuộc cách mạng | The internet started a revolution. | A huge, complete change in how people live.
+## The Robot Workshop | 🦾 | Metal arms move on their own.
+@ Robot engineer | 👩‍🔧 | It learns from its mistakes.
+@ Friendly robot | 🤖 | Hello. How may I assist you?
+@@ Robot arm | 🦾 | It picks up an egg without breaking it.
+machine learning | /məˌʃiːn ˈlɜːrnɪŋ/ | n | học máy | The app uses machine learning. | The way software improves by studying examples.
+sensor | /ˈsensər/ | n | cảm biến | A sensor turns the light on. | A part that detects heat, light or movement.
+drone | /droʊn/ | n | máy bay không người lái | A drone filmed the wedding. | A small flying machine with no pilot.
+chip | /tʃɪp/ | n | vi mạch | The phone has a powerful chip. | The tiny electronic brain inside a phone.
+control | /kənˈtroʊl/ | v | điều khiển | You control the robot with an app. | To make a machine do what you want.
+automate | /ˈɔːtəmeɪt/ | v | tự động hóa | The factory automated its packing line. | To make machines do work that people used to do.
+virtual | /ˈvɜːrtʃuəl/ | adj | ảo | We took a virtual tour of the museum. | Existing on a computer, not in the real world.
+electronic | /ɪˌlekˈtrɑːnɪk/ | adj | điện tử | I read electronic books. | Using microchips and current.
+3D printer | /ˌθriː diː ˈprɪntər/ | n | máy in 3D | We made the part with a 3D printer. | A machine that builds solid objects layer by layer.
+self-driving | /ˌself ˈdraɪvɪŋ/ | adj | tự lái | Self-driving cars are being tested. | Able to travel on roads with no person steering.
+## Tomorrow's City | 🌆 | A model city with flying taxis.
+@ Urban planner | 🧑‍💼 | No traffic, no smoke. That is the dream.
+@ Doubtful citizen | 🤨 | I will believe it when I see it.
+@@ City model | 🏙️ | Tiny lights in tiny towers.
+smart home | /ˌsmɑːrt ˈhoʊm/ | n | nhà thông minh | In a smart home, lights turn on by voice. | A house where devices are connected and obey spoken orders.
+wireless | /ˈwaɪərləs/ | adj | không dây | I bought wireless headphones. | Working without cables.
+network | /ˈnetwɜːrk/ | n | mạng lưới | The city has a fast 5G network. | A system of connected machines or roads.
+high-tech | /ˌhaɪ ˈtek/ | adj | công nghệ cao | It is a high-tech hospital. | Using the most advanced engineering.
+predict | /prɪˈdɪkt/ | v | dự đoán | Nobody can predict the future. | To say what will happen before it happens.
+replace humans | /rɪˈpleɪs ˈhjuːmənz/ | phr | thay thế con người | Will robots replace humans at work? | To take over the jobs that people do.
+impact | /ˈɪmpækt/ | n | tác động | Phones have had a huge impact on our lives. | A strong effect on something.
+convenience | /kənˈviːniəns/ | n | sự tiện lợi | People pay more for convenience. | The quality of making life easier.
+advantage | /ədˈvæntɪdʒ/ | n | ưu điểm | Speed is the main advantage. | A good point; something that helps you.
+disadvantage | /ˌdɪsədˈvæntɪdʒ/ | n | nhược điểm | The main disadvantage is the cost. | A bad point; something that makes things harder.
+## The Think Tank | 🧪 | A round table and a wall of sticky notes.
+@ Futurist | 🔮 | In fifty years, this will be normal.
+@ Ethics professor | 👩‍🏫 | Just because we can, should we?
+@@ Sticky-note wall | 🗒️ | Hundreds of ideas.
+possibility | /ˌpɑːsəˈbɪləti/ | n | khả năng (xảy ra) | There is a possibility of life on Mars. | Something that may happen.
+potential | /pəˈtenʃl/ | n | tiềm năng | This idea has great potential. | The hidden ability to become something great.
+concept | /ˈkɑːnsept/ | n | khái niệm | It is a simple concept. | A general idea.
+improve lives | /ɪmˈpruːv laɪvz/ | phr | cải thiện cuộc sống | Science can improve lives. | To make people's days healthier and easier.
+complex | /kəmˈpleks/ | adj | phức tạp | The brain is very complex. | Having many connected parts; hard to understand.
+practical | /ˈpræktɪkl/ | adj | thiết thực | We need a practical solution. | Useful in real situations, not just in theory.
+ethical | /ˈeθɪkl/ | adj | có đạo đức | Is it ethical to test on animals? | Morally right.
+unknown | /ˌʌnˈnoʊn/ | adj | chưa biết | The cause is still unknown. | Not yet discovered or understood.
+forever | /fərˈevər/ | adv | mãi mãi | Nothing lasts forever. | For all time, without end.
+someday | /ˈsʌmdeɪ/ | adv | một ngày nào đó | Someday we will live on Mars. | At an uncertain point in the years ahead.

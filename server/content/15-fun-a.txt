@@ -1,0 +1,231 @@
+# Sports Arena | ⚽ | #22c55e | fun | A1 | Kick, throw, run and cheer in the biggest arena in town.
+## The Ball Courts | 🏀 | Balls bounce in every direction.
+@ Coach | 🧑‍🏫 | Pass! Pass! Now shoot!
+@ Team captain | 🧒 | We need one more player.
+@@ Scoreboard | 🔢 | Home 2, Away 1.
+football | /ˈfʊtbɔːl/ | n | bóng đá | We play football after school. | The game where eleven players kick a round ball into a net.
+basketball | /ˈbæskɪtbɔːl/ | n | bóng rổ | He is tall and good at basketball. | The game where you throw a ball through a high hoop.
+volleyball | /ˈvɑːlibɔːl/ | n | bóng chuyền | We played volleyball on the beach. | The game where two teams hit a ball over a high net with their hands.
+tennis | /ˈtenɪs/ | n | quần vợt | She plays tennis every Sunday. | The game where two players hit a small yellow ball over a low net.
+badminton | /ˈbædmɪntən/ | n | cầu lông | Badminton is popular in Vietnam. | The game where you hit a shuttlecock with a light racket.
+table tennis | /ˈteɪbl tenɪs/ | n | bóng bàn | We play table tennis at lunch. | Ping-pong.
+baseball | /ˈbeɪsbɔːl/ | n | bóng chày | Baseball is popular in Japan. | The game where you hit a small hard ball with a bat and run.
+golf | /ɡɑːlf/ | n | môn gôn | My boss plays golf on weekends. | The game where you hit a tiny white ball into eighteen holes.
+ball | /bɔːl/ | n | quả bóng | Throw me the ball! | A round object you kick or throw in games.
+net | /net/ | n | lưới | The ball hit the net. | The mesh in the middle of a court or behind a goalkeeper.
+## The Track and Pool | 🏃 | A red track around a blue pool.
+@ Sprinter | 🏃‍♂️ | On your marks...
+@ Swim coach | 🏊 | Kick harder!
+@@ Starting blocks | 🏁 | Ready, set...
+run | /rʌn/ | v | chạy | I run five kilometers every morning. | To move on your legs faster than walking.
+jump | /dʒʌmp/ | v | nhảy | How high can you jump? | To push yourself off the ground into the air.
+swimming | /ˈswɪmɪŋ/ | n | môn bơi lội | Swimming is good for your back. | The sport you do in a pool.
+cycling | /ˈsaɪklɪŋ/ | n | môn đạp xe | Cycling is a great way to keep fit. | The sport of riding a bike.
+race | /reɪs/ | n | cuộc đua | She won the 100-meter race. | A competition to see who is fastest.
+marathon | /ˈmærəθɑːn/ | n | cuộc chạy ma-ra-tông | He ran his first marathon last year. | A running event of 42 kilometers.
+gymnastics | /dʒɪmˈnæstɪks/ | n | thể dục dụng cụ | She has done gymnastics since she was five. | A sport of flips, balance and jumps on bars and mats.
+skating | /ˈskeɪtɪŋ/ | n | môn trượt băng | We went skating on the lake. | Moving across ice on thin metal blades.
+skiing | /ˈskiːɪŋ/ | n | môn trượt tuyết | They go skiing every winter. | Sliding down snowy mountains on two long boards.
+boxing | /ˈbɑːksɪŋ/ | n | môn quyền anh | Boxing is a tough sport. | A sport where two people hit each other with big gloves.
+## Match Day | 🏟️ | The crowd roars as the players come out.
+@ Referee | 🧑‍⚖️ | Play fair, everyone.
+@ Super fan | 📣 | Come on, you reds!
+@@ Trophy | 🏆 | Gold and shining.
+match | /mætʃ/ | n | trận đấu | Did you watch the match last night? | A game between two teams or players.
+player | /ˈpleɪər/ | n | cầu thủ, người chơi | He is the best player on the team. | A person who takes part in a game.
+referee | /ˌrefəˈriː/ | n | trọng tài | The referee blew his whistle. | The person who controls a game and enforces fair play.
+score | /skɔːr/ | v | ghi bàn, ghi điểm | He scored two goals. | To get a point or a goal.
+win | /wɪn/ | v | thắng | Our team won the game. | To be the best or first in a game.
+lose | /luːz/ | v | thua | We lost three to one. | To be beaten in a game.
+penalty | /ˈpenəlti/ | n | quả phạt đền | He scored from a penalty. | A free shot at goal given after a foul.
+champion | /ˈtʃæmpiən/ | n | nhà vô địch | She is the world champion. | The person or side that is the best of all.
+medal | /ˈmedl/ | n | huy chương | He won a gold medal. | A round piece of metal given to the top three athletes.
+supporter | /səˈpɔːrtər/ | n | cổ động viên | The supporters sang all through the game. | A person who loves and follows a club.
+## Training Ground | 🥅 | Cones on the grass and a bag of balls.
+@ Fitness coach | 💪 | Again! Faster this time!
+@ Injured player | 🤕 | I will be back next month.
+@@ Water bottles | 🚰 | A row of them on the bench.
+kick | /kɪk/ | v | đá | Kick the ball to me! | To hit something with your foot.
+throw | /θroʊ/ | v | ném | Throw the ball as far as you can. | To send something through the air with your arm.
+catch the ball | /kætʃ ðə bɔːl/ | phr | bắt bóng | Can you catch the ball with one hand? | To stop a flying round object with your hands.
+hit | /hɪt/ | v | đánh | He hit the ball over the fence. | To strike something with a bat or your hand.
+coach | /koʊtʃ/ | v | huấn luyện | He coaches the school team. | To teach and prepare athletes for competition.
+athlete | /ˈæθliːt/ | n | vận động viên | She is a professional athlete. | A person who is very good at sports.
+teammate | /ˈtiːmmeɪt/ | n | đồng đội | He passed to his teammate. | A person who plays on the same side as you.
+opponent | /əˈpoʊnənt/ | n | đối thủ | Our opponent was very strong. | The person or side you play against.
+competition | /ˌkɑːmpəˈtɪʃn/ | n | cuộc thi đấu | She entered a swimming competition. | An event where people try to be the best.
+goalkeeper | /ˈɡoʊlkiːpər/ | n | thủ môn | The goalkeeper saved the shot. | The only footballer allowed to use hands.
+
+# Hobby House | 🎲 | #f59e0b | fun | A2 | Games, collections and crafts for every rainy afternoon.
+## The Game Room | 🎮 | Screens, boards and friendly shouting.
+@ Gamer | 🎮 | One more round!
+@ Grandpa | 👴 | In my day we played with real cards.
+@@ Game shelf | 🎲 | Boxes stacked to the ceiling.
+game | /ɡeɪm/ | n | trò chơi | Let us play a game. | An activity with rules that you do for fun.
+play | /pleɪ/ | v | chơi | The children play in the garden. | To do something for fun, as children do.
+toy | /tɔɪ/ | n | đồ chơi | The baby has a new toy. | An object for a child to have fun with.
+puzzle | /ˈpʌzl/ | n | trò xếp hình, câu đố | This puzzle has 1,000 pieces. | A picture cut into many pieces that you put together.
+chess | /tʃes/ | n | cờ vua | My grandfather taught me chess. | A board game with kings, queens and knights.
+cards | /kɑːrdz/ | n | bài (lá) | We played cards all night. | Fifty-two pieces of stiff paper with hearts and spades.
+board game | /ˈbɔːrd ɡeɪm/ | n | trò chơi trên bàn cờ | Monopoly is a famous board game. | Monopoly or Scrabble, for example.
+video game | /ˈvɪdioʊ ɡeɪm/ | n | trò chơi điện tử | He plays video games after homework. | Electronic entertainment on a console or computer.
+dice | /daɪs/ | n | xúc xắc | Roll the dice to start. | Small cubes with one to six dots.
+roll the dice | /roʊl ðə daɪs/ | phr | tung xúc xắc | Roll the dice to see who starts. | What you do with two small cubes to get a number.
+## The Collector's Attic | 🗃️ | Shelves of stamps, coins and old dolls.
+@ Collector | 🧐 | This one is from 1890!
+@ Niece | 👧 | Can I touch it?
+@@ Stamp album | 📒 | Tiny pictures from every country.
+hobby | /ˈhɑːbi/ | n | sở thích | My hobby is fishing. | An activity you do regularly for pleasure in your spare hours.
+collect | /kəˈlekt/ | v | sưu tầm | I collect old coins. | To gather many similar things because you like them.
+collection | /kəˈlekʃn/ | n | bộ sưu tập | He has a large stamp collection. | A group of similar objects gathered over time.
+free time | /ˌfriː ˈtaɪm/ | n | thời gian rảnh | What do you do in your free time? | The hours when you do not have to work or study.
+doll | /dɑːl/ | n | búp bê | She plays with her doll. | A small model of a person for a child.
+kite | /kaɪt/ | n | con diều | We flew a kite on the beach. | Paper on a string that flies in the wind.
+model | /ˈmɑːdl/ | n | mô hình | He builds model planes. | A small copy of a ship or plane.
+magic trick | /ˈmædʒɪk trɪk/ | n | trò ảo thuật | He showed us a magic trick. | Making a coin disappear, for example.
+antique | /ænˈtiːk/ | n | đồ cổ | She collects antiques. | A valuable object that is more than a hundred years old.
+valuable | /ˈvæljuəbl/ | adj | có giá trị | This stamp is very valuable. | Worth a great deal of money.
+## The Craft Table | ✂️ | Glue, wool and bits of colored paper.
+@ Craft teacher | 🧑‍🎨 | There is no wrong way to do it.
+@ Knitting grandma | 🧶 | One more row and it is done.
+@@ Sewing box | 🧵 | Needles and buttons inside.
+craft | /kræft/ | n | nghề thủ công | She sells her crafts at the market. | Making pretty things with your hands.
+sew | /soʊ/ | v | may, khâu | Can you sew a button on? | To join cloth with a needle and thread.
+knit | /nɪt/ | v | đan | My grandma knits scarves. | To make clothes from wool with two long needles.
+thread | /θred/ | n | sợi chỉ | I need a needle and thread. | A long, very thin string for joining cloth.
+button | /ˈbʌtn/ | n | cái cúc áo | A button fell off my shirt. | A small round thing that fastens a shirt.
+cloth | /klɔːθ/ | n | vải | She bought some cloth to make a dress. | Material made of cotton or wool.
+pottery | /ˈpɑːtəri/ | n | đồ gốm | Bat Trang is famous for pottery. | Bowls and vases made from clay.
+carve | /kɑːrv/ | v | chạm khắc | He carved a bird from wood. | To cut a figure out of wood or stone.
+handmade | /ˌhændˈmeɪd/ | adj | làm bằng tay | I bought a handmade bag. | Not produced by a machine.
+origami | /ˌɔːrɪˈɡɑːmi/ | n | nghệ thuật gấp giấy | She made an origami bird. | The Japanese art of folding paper into shapes.
+## Weekend Fun | 🎡 | A fair with lights and a big wheel.
+@ Ticket seller | 🎟️ | Three rides for five dollars!
+@ Thrill seeker | 🤩 | The roller coaster first!
+@@ Ferris wheel | 🎡 | It turns slowly above the fair.
+amusement park | /əˈmjuːzmənt pɑːrk/ | n | công viên giải trí | We spent the day at the amusement park. | A place with roller coasters and rides.
+picnic | /ˈpɪknɪk/ | n | buổi dã ngoại | We had a picnic by the lake. | A meal eaten outdoors on a blanket.
+go fishing | /ɡoʊ ˈfɪʃɪŋ/ | phr | đi câu cá | My dad and I go fishing on Sundays. | To sit by a river with a rod and line.
+gardening | /ˈɡɑːrdnɪŋ/ | n | việc làm vườn | Gardening helps me relax. | Growing flowers and vegetables as a pastime.
+hiking | /ˈhaɪkɪŋ/ | n | đi bộ đường dài | We went hiking in the mountains. | Taking long walks in the hills.
+entertainment | /ˌentərˈteɪnmənt/ | n | giải trí | The hotel offers live entertainment. | Shows, films and music that people enjoy.
+fun | /fʌn/ | n | niềm vui | We had a lot of fun at the party. | Enjoyment; a good time.
+boring | /ˈbɔːrɪŋ/ | adj | nhàm chán | The film was long and boring. | Not interesting at all.
+exciting | /ɪkˈsaɪtɪŋ/ | adj | thú vị, gay cấn | It was an exciting game. | Making you feel very interested and full of energy.
+spare | /sper/ | adj | rảnh; dự phòng | I read in my spare hours. | Extra; not being used for work.
+
+# Music Hall | 🎵 | #a78bfa | fun | A2 | Instruments, concerts and songs that stay in your head.
+## The Instrument Room | 🎸 | Shiny instruments wait on their stands.
+@ Music teacher | 👩‍🏫 | Pick one and make some noise!
+@ Shy student | 🧑 | I have never touched one before.
+@@ Music stand | 🎼 | Sheets of notes.
+instrument | /ˈɪnstrəmənt/ | n | nhạc cụ | Can you play an instrument? | A violin, a trumpet or a drum is a musical...
+guitar | /ɡɪˈtɑːr/ | n | đàn ghi-ta | He plays the guitar in a band. | It has six strings and a long neck.
+piano | /piˈænoʊ/ | n | đàn piano | She has piano lessons on Fridays. | It has 88 black and white keys.
+violin | /ˌvaɪəˈlɪn/ | n | đàn vi-ô-lông | The violin sounds so sad. | A small wooden one held under the chin and played with a bow.
+flute | /fluːt/ | n | sáo | She plays the flute in the school band. | A thin metal pipe you hold sideways and blow across.
+trumpet | /ˈtrʌmpɪt/ | n | kèn trumpet | He plays the trumpet in a jazz band. | A loud brass one with three buttons.
+keyboard | /ˈkiːbɔːrd/ | n | đàn phím điện tử; bàn phím | He plays keyboard in the band. | An electronic version of the one with black and white keys.
+string | /strɪŋ/ | n | dây đàn | One string on my guitar broke. | A thin wire on a guitar.
+tune | /tuːn/ | n | giai điệu | I cannot get that tune out of my head. | A series of notes that is pleasant and easy to remember.
+rhythm | /ˈrɪðəm/ | n | nhịp điệu | I love the rhythm of this song. | The regular beat you tap your foot to.
+## The Concert Stage | 🎤 | Lights, speakers and a waiting crowd.
+@ Lead singer | 🧑‍🎤 | Are you ready to rock?
+@ Roadie | 🧰 | Testing, one, two, three.
+@@ Spotlight | 🔦 | A circle of white light.
+concert | /ˈkɑːnsərt/ | n | buổi hòa nhạc | We went to a rock concert. | A live show by a band or orchestra.
+band | /bænd/ | n | ban nhạc | My brother plays in a band. | A small group of people who perform songs together.
+stage | /steɪdʒ/ | n | sân khấu | The singer walked onto the stage. | The raised floor where performers stand.
+audience | /ˈɔːdiəns/ | n | khán giả | The audience clapped for five minutes. | All the people watching a show.
+perform | /pərˈfɔːrm/ | v | biểu diễn | The band will perform tonight. | To sing, act or play in front of people.
+sing | /sɪŋ/ | v | hát | She sings in the shower. | To make music with your voice.
+orchestra | /ˈɔːrkɪstrə/ | n | dàn nhạc giao hưởng | She plays in the city orchestra. | A large group with violins, flutes and many more.
+conductor | /kənˈdʌktər/ | n | nhạc trưởng | The conductor raised his arms. | The person who stands in front and directs with a stick.
+choir | /ˈkwaɪər/ | n | dàn hợp xướng | I sing in the school choir. | A large group of people who use their voices together.
+live music | /ˌlaɪv ˈmjuːzɪk/ | n | nhạc sống | The bar has live music on Fridays. | Songs performed in front of you now, not recorded.
+## The Record Shop | 💿 | Old records and new playlists.
+@ Shop owner | 🧔 | Vinyl sounds warmer, trust me.
+@ Teen with headphones | 🎧 | I only stream.
+@@ Record player | 📀 | A black disc spins.
+song | /sɔːŋ/ | n | bài hát | This is my favorite song. | A short piece of music with words.
+lyrics | /ˈlɪrɪks/ | n | lời bài hát | I know all the lyrics. | The words of a piece of music.
+album | /ˈælbəm/ | n | album nhạc | Her new album has twelve songs. | A set of ten or twelve tracks released together.
+chorus | /ˈkɔːrəs/ | n | điệp khúc | Everyone sang the chorus. | The part of a track that is repeated after each verse.
+pop | /pɑːp/ | n | nhạc pop | She listens to pop all day. | Modern commercial music for young people.
+jazz | /dʒæz/ | n | nhạc jazz | They play jazz at this café. | A style born in New Orleans, with saxophones and improvising.
+classical | /ˈklæsɪkl/ | adj | cổ điển | I relax with classical music. | In the serious style of Mozart and Beethoven.
+headphones | /ˈhedfoʊnz/ | n | tai nghe | Put on your headphones. | You wear them over your ears to listen privately.
+melody | /ˈmelədi/ | n | giai điệu chính | The melody is simple and sweet. | The main line of notes in a piece, which the lead voice carries.
+playlist | /ˈpleɪlɪst/ | n | danh sách phát | I made a playlist for the trip. | A list of tracks you choose to hear one after another.
+## The Dance Floor | 💃 | A mirror ball throws dots of light.
+@ DJ | 🎧 | Put your hands up!
+@ Two left feet | 😅 | I really cannot dance.
+@@ Mirror ball | 🪩 | It turns and sparkles.
+dancer | /ˈdænsər/ | n | vũ công | She is a ballet dancer. | A person who moves to music as a job.
+ballet | /bæˈleɪ/ | n | múa ba lê | We saw a ballet at the opera house. | A graceful classical style performed on the toes.
+beat | /biːt/ | n | nhịp | Clap to the beat. | The steady pulse of a piece of music.
+hum | /hʌm/ | v | ngân nga | She hummed while she worked. | To make a tune with your lips closed.
+whistle | /ˈwɪsl/ | v | huýt sáo | He whistled a happy tune. | To make a high sound by blowing through your lips.
+record | /rɪˈkɔːrd/ | v | thu âm | The band recorded a new song. | To store sounds so they can be heard later.
+compose | /kəmˈpoʊz/ | v | sáng tác | Mozart composed music as a child. | To write a new piece of music.
+karaoke | /ˌkæriˈoʊki/ | n | hát karaoke | We sang karaoke until midnight. | Singing along to a track while reading words on a screen.
+talent show | /ˈtælənt ʃoʊ/ | n | cuộc thi tài năng | She won the school talent show. | A contest where people sing, dance or do tricks.
+rehearse | /rɪˈhɜːrs/ | v | diễn tập | The band rehearses every Tuesday. | To practice a show before the real night.
+
+# Movie Studio | 🎬 | #f43f5e | fun | A2 | Lights, camera, action! Films, series and life on screen.
+## The Ticket Lobby | 🍿 | Posters and the smell of butter.
+@ Ticket clerk | 🎟️ | Which film, and how many seats?
+@ Film buff | 🤓 | I have seen this one seven times.
+@@ Movie poster | 🖼️ | A hero stands in front of an explosion.
+movie | /ˈmuːvi/ | n | bộ phim | Let us watch a movie tonight. | A story told with moving pictures, shown in a cinema.
+comedy | /ˈkɑːmədi/ | n | phim hài | I want to watch a comedy. | A film that makes you laugh.
+horror | /ˈhɔːrər/ | n | phim kinh dị | I never watch horror films alone. | A film with ghosts and monsters that frightens you.
+cartoon | /kɑːrˈtuːn/ | n | phim hoạt hình | Kids love cartoons. | A film made of drawings, like Tom and Jerry.
+documentary | /ˌdɑːkjuˈmentri/ | n | phim tài liệu | We watched a documentary about whales. | A film about real facts and real life.
+action | /ˈækʃn/ | n | phim hành động | He loves action films. | The film type with car chases and fights.
+drama | /ˈdrɑːmə/ | n | phim chính kịch, kịch | It is a drama about a family. | A serious film about feelings and problems.
+science fiction | /ˌsaɪəns ˈfɪkʃn/ | n | khoa học viễn tưởng | Star Wars is science fiction. | Stories about the future, robots and other planets.
+subtitles | /ˈsʌbtaɪtlz/ | n | phụ đề | I watch English films with subtitles. | Words at the bottom of the screen that translate the speech.
+trailer | /ˈtreɪlər/ | n | đoạn giới thiệu phim | Have you seen the trailer? | A two-minute preview of a coming film.
+## On Set | 🎥 | Cables on the floor and a chair marked "Director".
+@ Director | 🎬 | Quiet on set! And... action!
+@ Stunt double | 🤸 | I do the dangerous parts.
+@@ Clapperboard | 🎬 | Scene 12, take 5.
+director | /dəˈrektər/ | n | đạo diễn | The director shouted "Cut!" | The person who tells the actors what to do.
+actress | /ˈæktrəs/ | n | nữ diễn viên | She is a famous actress. | A woman who plays roles on screen.
+role | /roʊl/ | n | vai diễn | He played the role of a doctor. | The part a performer plays in a film.
+scene | /siːn/ | n | cảnh phim | The last scene made me cry. | One short part of a film in one place.
+script | /skrɪpt/ | n | kịch bản | The actors read the script. | The written text of a film.
+film | /fɪlm/ | v | quay phim | They filmed the scene in Hoi An. | To record moving pictures with a camera.
+play the lead | /pleɪ ðə liːd/ | phr | đóng vai chính | She plays the lead in a new comedy. | To be the main performer in a film.
+plot | /plɑːt/ | n | cốt truyện | The plot is hard to follow. | The series of events that make up a story.
+hero | /ˈhɪroʊ/ | n | người hùng | The hero saves the city. | The brave main person who wins in a story.
+villain | /ˈvɪlən/ | n | kẻ phản diện | The villain wants to rule the world. | The bad person in a story.
+## The TV Lounge | 📺 | A sofa, a remote and endless channels.
+@ Couch potato | 🛋️ | Just one more episode.
+@ Remote hog | 🙅 | No, I am watching this!
+@@ Remote control | 🎛️ | Fifty buttons.
+television | /ˈtelɪvɪʒn/ | n | ti vi | We bought a new television. | The full word for "TV".
+channel | /ˈtʃænl/ | n | kênh | Change the channel, please. | A TV station with its own number.
+program | /ˈproʊɡræm/ | n | chương trình | My favorite program is on at eight. | A show that is broadcast on TV or radio.
+series | /ˈsɪriːz/ | n | phim nhiều tập | I am watching a new series. | A set of shows with the same people and a continuing story.
+episode | /ˈepɪsoʊd/ | n | tập phim | The last episode was amazing. | One part of a continuing TV story.
+remote control | /rɪˌmoʊt kənˈtroʊl/ | n | điều khiển từ xa | Where is the remote control? | The small device you point at the TV.
+broadcast | /ˈbrɔːdkæst/ | v | phát sóng | The match is broadcast live. | To send out on TV or radio.
+commercial | /kəˈmɜːrʃl/ | n | quảng cáo trên TV | I hate the commercials. | A short ad between shows.
+viewer | /ˈvjuːər/ | n | khán giả xem TV | The show has two million viewers. | A person watching TV at home.
+celebrity | /səˈlebrəti/ | n | người nổi tiếng | Many celebrities came to the party. | A famous person, often seen in magazines.
+## The Critics' Corner | ⭐ | A wall of star ratings.
+@ Film critic | 🧐 | Two stars. The ending was terrible.
+@ Big fan | 😍 | It was the best film ever!
+@@ Award statue | 🏆 | Small, gold and heavy.
+award | /əˈwɔːrd/ | n | giải thưởng | The film won three awards. | An Oscar, for example.
+ending | /ˈendɪŋ/ | n | kết thúc | The film has a happy ending. | The last part of a story.
+scary | /ˈskeri/ | adj | đáng sợ | That was a scary film. | Making you feel afraid.
+hilarious | /hɪˈleriəs/ | adj | cực kỳ hài hước | The new comedy is hilarious. | Extremely funny.
+touching | /ˈtʌtʃɪŋ/ | adj | cảm động | It is a touching story about a dog. | Making you feel sympathy and soft sadness.
+predictable | /prɪˈdɪktəbl/ | adj | dễ đoán | The story was too predictable. | Easy to guess in advance.
+realistic | /ˌriːəˈlɪstɪk/ | adj | chân thực | The special effects look realistic. | Seeming like real life.
+special effects | /ˌspeʃl ɪˈfekts/ | n | kỹ xảo | The special effects were amazing. | Computer tricks that create explosions and dragons on screen.
+soundtrack | /ˈsaʊndtræk/ | n | nhạc phim | I love the soundtrack of that film. | All the music used in a film.
+entertaining | /ˌentərˈteɪnɪŋ/ | adj | có tính giải trí | It was an entertaining evening. | Enjoyable to watch.

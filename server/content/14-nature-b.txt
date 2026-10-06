@@ -1,0 +1,231 @@
+# Sky, Bugs and Sea | 🦋 | #22d3ee | nature | A2 | Birds above, insects around and strange creatures under the waves.
+## The Bird Tower | 🐦 | A wooden tower above the treetops.
+@ Bird watcher | 🔭 | Shh. There is a rare one on that branch.
+@ Park keeper | 🧑‍🌾 | Please do not feed them bread.
+@@ Bird feeder | 🪶 | Seeds for hungry visitors.
+bird | /bɜːrd/ | n | con chim | A bird is singing outside my window. | A creature with feathers and two wings.
+eagle | /ˈiːɡl/ | n | đại bàng | An eagle flew high above the mountain. | A very large hunting bird with sharp eyes.
+owl | /aʊl/ | n | con cú | The owl hunts at night. | A night bird with big round eyes that says "hoo".
+pigeon | /ˈpɪdʒɪn/ | n | chim bồ câu | Pigeons eat crumbs in the square. | A gray bird very common in city squares.
+swan | /swɑːn/ | n | thiên nga | A white swan swam across the lake. | A large white water bird with a long curved neck.
+penguin | /ˈpeŋɡwɪn/ | n | chim cánh cụt | Penguins cannot fly. | A black and white bird that swims and lives on ice.
+crow | /kroʊ/ | n | con quạ | A black crow sat on the fence. | A big, clever, completely black bird.
+peacock | /ˈpiːkɑːk/ | n | con công | The peacock opened its tail. | A bird with a huge blue-green fan of a tail.
+feather | /ˈfeðər/ | n | lông vũ | I found a white feather. | One of the light soft things that cover a bird.
+nest | /nest/ | n | cái tổ | The bird built a nest in the tree. | The home a bird makes from twigs for its eggs.
+## The Bug Garden | 🐞 | Tiny creatures crawl and buzz everywhere.
+@ Insect expert | 🧑‍🔬 | They are more useful than you think!
+@ Screaming boy | 😱 | There is one on my arm!
+@@ Magnifying glass | 🔍 | Small things become big.
+insect | /ˈɪnsekt/ | n | côn trùng | An ant is an insect. | A tiny creature with six legs.
+bee | /biː/ | n | con ong | A bee is sitting on the flower. | A yellow and black flying bug that makes honey.
+butterfly | /ˈbʌtərflaɪ/ | n | con bướm | A butterfly landed on my hand. | A flying bug with large, colorful wings.
+ant | /ænt/ | n | con kiến | Ants are carrying food to their home. | A tiny bug that lives in huge groups and works hard.
+dragonfly | /ˈdræɡənflaɪ/ | n | con chuồn chuồn | A dragonfly hovered over the pond. | A long thin bug with four clear wings that hovers over ponds.
+mosquito | /məˈskiːtoʊ/ | n | con muỗi | A mosquito bit me last night. | A small bug that drinks your blood and leaves an itchy bump.
+spider | /ˈspaɪdər/ | n | con nhện | The spider made a web. | A creature with eight legs that makes a web.
+worm | /wɜːrm/ | n | con sâu, giun | Birds eat worms. | A long, soft, pink creature with no legs that lives in the earth.
+cockroach | /ˈkɑːkroʊtʃ/ | n | con gián | I saw a cockroach in the kitchen. | A brown bug that runs fast across dirty kitchens at night.
+sting | /stɪŋ/ | v | đốt, chích | A bee stung me on the arm. | What a wasp does to you with its sharp point.
+## Under the Sea | 🐠 | Blue light and bubbles.
+@ Diver | 🤿 | It is another world down here.
+@ Mermaid statue | 🧜‍♀️ | I have watched the fish for a hundred years.
+@@ Treasure chest | 🪙 | Covered in seaweed.
+whale | /weɪl/ | n | cá voi | The blue whale is the largest animal. | The biggest sea mammal; it blows water from its head.
+shark | /ʃɑːrk/ | n | cá mập | Sharks have very sharp teeth. | A large, dangerous hunter of the sea with a triangle fin.
+dolphin | /ˈdɑːlfɪn/ | n | cá heo | Dolphins jumped beside the boat. | A friendly, clever sea mammal that jumps and "smiles".
+octopus | /ˈɑːktəpəs/ | n | con bạch tuộc | An octopus has eight arms. | A soft sea creature with eight arms.
+jellyfish | /ˈdʒelifɪʃ/ | n | con sứa | Do not touch the jellyfish. | A soft, clear sea creature like an umbrella that can burn your skin.
+seal | /siːl/ | n | hải cẩu | A seal lay on the rock. | A sea mammal with flippers that claps and eats herring.
+starfish | /ˈstɑːrfɪʃ/ | n | sao biển | We found a starfish on the beach. | A sea creature with five arms like a shape in the night sky.
+coral | /ˈkɔːrəl/ | n | san hô | The coral is pink and orange. | Colorful rock-like forms built by tiny sea creatures.
+seaweed | /ˈsiːwiːd/ | n | rong biển | Seaweed is used in sushi. | Green plants that grow in the ocean.
+lobster | /ˈlɑːbstər/ | n | tôm hùm | Lobster is very expensive. | A large red shellfish with two big claws and a long body.
+## Creature Features | 🐸 | A wet room with ponds and glass tanks.
+@ Reptile keeper | 🦎 | They are not slimy. Touch one!
+@ Frog fan | 🐸 | Ribbit!
+@@ Glass tank | 🪟 | Something moves under a leaf.
+frog | /frɔːɡ/ | n | con ếch | A frog jumped into the pond. | A small green jumping creature that says "ribbit".
+lizard | /ˈlɪzərd/ | n | con thằn lằn | A lizard sat on the warm wall. | A small reptile with four legs and a long tail.
+snail | /sneɪl/ | n | con ốc sên | The snail moves very slowly. | A slow creature that carries a spiral shell.
+bat | /bæt/ | n | con dơi | Bats sleep upside down. | A night creature like a mouse with wings.
+mouse | /maʊs/ | n | con chuột | The cat caught a mouse. | A tiny gray creature that loves cheese.
+squirrel | /ˈskwɜːrəl/ | n | con sóc | A squirrel ran up the tree. | A small creature with a bushy tail that collects nuts.
+creature | /ˈkriːtʃər/ | n | sinh vật | Strange creatures live deep in the sea. | Any living thing that is not a plant.
+lay eggs | /leɪ eɡz/ | phr | đẻ trứng | Turtles lay eggs on the beach. | What a hen does every morning.
+hatch | /hætʃ/ | v | nở (trứng) | The chicks hatched this morning. | When a baby bird breaks out of its shell.
+species | /ˈspiːʃiːz/ | n | loài | There are thousands of species of fish. | A group of plants or creatures of the same kind.
+
+# The Botanic Garden | 🌷 | #f472b6 | nature | A2 | Flowers, trees and vegetable beds: learn to grow things.
+## The Flower Beds | 🌹 | Colors and sweet smells in neat rows.
+@ Florist | 💐 | A dozen for your sweetheart?
+@ Bride-to-be | 👰 | I need white ones for my wedding.
+@@ Watering can | 🚿 | Full and heavy.
+flower | /ˈflaʊər/ | n | bông hoa | She picked a flower for her mother. | The colorful, sweet-smelling part of a plant.
+rose | /roʊz/ | n | hoa hồng | He gave her a red rose. | A red blossom with thorns; the symbol of love.
+sunflower | /ˈsʌnflaʊər/ | n | hoa hướng dương | Sunflowers turn toward the light. | A tall yellow blossom with a big brown center.
+lotus | /ˈloʊtəs/ | n | hoa sen | The lotus is the national flower of Vietnam. | A pink blossom that floats on ponds; Vietnam's symbol.
+daisy | /ˈdeɪzi/ | n | hoa cúc | She made a chain of daisies. | A small white blossom with a yellow center.
+tulip | /ˈtuːlɪp/ | n | hoa tu-líp | Holland is famous for its tulips. | A cup-shaped spring blossom from Holland.
+orchid | /ˈɔːrkɪd/ | n | hoa lan | She grows orchids at home. | An elegant, expensive tropical blossom.
+petal | /ˈpetl/ | n | cánh hoa | A petal fell on the table. | One of the soft colored parts of a blossom.
+bouquet | /buˈkeɪ/ | n | bó hoa | He bought a bouquet for his wife. | A bunch of blossoms tied together as a gift.
+blossom | /ˈblɑːsəm/ | n | hoa (trên cây ăn quả) | The peach blossom is pink. | The flowers on a fruit tree in spring.
+## The Tree Walk | 🌳 | Giant trees with name tags.
+@ Tree doctor | 🧑‍🔬 | This oak is 300 years old.
+@ Climbing kid | 🧒 | I can see my house from up here!
+@@ Name plate | 🏷️ | Each tree has its Latin name.
+tree | /triː/ | n | cái cây | We sat under a big tree. | A tall plant with a trunk, branches and leaves.
+bush | /bʊʃ/ | n | bụi cây | The cat is hiding in the bush. | A low plant with many thin branches.
+pine | /paɪn/ | n | cây thông | Da Lat is full of pine trees. | An evergreen with needles; used at Christmas.
+palm tree | /ˈpɑːm triː/ | n | cây cọ, cây dừa | Palm trees line the beach. | A tall tropical plant with big leaves only at the top.
+bamboo | /ˌbæmˈbuː/ | n | cây tre | The house is made of bamboo. | A very tall, hollow, fast-growing grass eaten by pandas.
+oak | /oʊk/ | n | cây sồi | The old oak fell in the storm. | A large strong tree that produces acorns.
+twig | /twɪɡ/ | n | cành con | Birds build nests from twigs. | A very small, thin stick from a tree.
+stem | /stem/ | n | thân (cây nhỏ), cuống | Cut the stems before you put them in water. | The long thin part that holds up a flower.
+thorn | /θɔːrn/ | n | cái gai | Roses have thorns. | A sharp point on the stalk of a rose.
+evergreen | /ˈevərɡriːn/ | adj | thường xanh | Pines are evergreen trees. | Keeping its leaves all year.
+## The Vegetable Patch | 🥬 | Brown earth and green shoots.
+@ Old gardener | 👨‍🌾 | Patience. Plants do not hurry.
+@ City volunteer | 🧑 | Is this a weed or a carrot?
+@@ Wheelbarrow | 🛒 | Full of earth.
+gardener | /ˈɡɑːrdnər/ | n | người làm vườn | The gardener cuts the grass. | A person who looks after flowers and lawns.
+dig up | /dɪɡ ʌp/ | v | đào lên | We dug up the potatoes. | To take something out of the ground with a spade.
+weed | /wiːd/ | n | cỏ dại | The garden is full of weeds. | A wild plant growing where you do not want it.
+flowerpot | /ˈflaʊərpɑːt/ | n | chậu hoa | Put the plant in a bigger flowerpot. | A round container of clay for a house plant.
+greenhouse | /ˈɡriːnhaʊs/ | n | nhà kính | Tomatoes grow well in a greenhouse. | A glass building that keeps plants warm.
+hose | /hoʊz/ | n | vòi nước | Water the garden with a hose. | A long rubber tube for watering.
+rake | /reɪk/ | n | cái cào | Gather the leaves with a rake. | A long handle with metal teeth for collecting leaves.
+spade | /speɪd/ | n | cái thuổng | Turn the soil with a spade. | A flat-bladed digging implement you push with your foot.
+fertilizer | /ˈfɜːrtəlaɪzər/ | n | phân bón | Add fertilizer to help the plants grow. | Something you add to the earth to feed plants.
+lawn | /lɔːn/ | n | bãi cỏ | The children are playing on the lawn. | An area of short, cut green in front of a house.
+## Growing Things | 🌱 | Small pots on a sunny windowsill.
+@ Science teacher | 👩‍🔬 | Light, water, air. That is all they need.
+@ Proud child | 🧒 | Look! Mine has a leaf!
+@@ Seed packet | 🌰 | A picture of what it will become.
+seedling | /ˈsiːdlɪŋ/ | n | cây con | Water the seedlings every morning. | A very young green shoot just up from the earth.
+sprout | /spraʊt/ | v | nảy mầm | The beans sprouted after three days. | To begin to grow out of a seed.
+pick | /pɪk/ | v | hái | We picked apples from the tree. | To take a fruit or flower off with your fingers.
+bud | /bʌd/ | n | nụ hoa, chồi | The rose has three buds. | A flower that has not opened yet.
+pollen | /ˈpɑːlən/ | n | phấn hoa | Pollen makes me sneeze. | The yellow powder inside a flower that bees carry.
+sunlight | /ˈsʌnlaɪt/ | n | ánh sáng mặt trời | Plants need sunlight to grow. | The natural brightness of the day.
+wither | /ˈwɪðər/ | v | héo | The flowers withered in the heat. | To dry up and die, as a flower does without water.
+fruit | /fruːt/ | n | trái cây, quả | The tree is full of fruit. | The sweet part of a plant with seeds, like an apple.
+vine | /vaɪn/ | n | cây leo, dây nho | Grapes grow on a vine. | A climbing plant with long thin stems.
+herb | /ɜːrb/ | n | rau thơm, thảo mộc | Basil is my favorite herb. | A small leafy plant like mint used to flavor food.
+
+# Green Planet | ♻️ | #10b981 | nature | B1 | Pollution, recycling and energy: how to take care of the Earth.
+## The Problem Wall | 🏭 | Photos of smoke, trash and dry rivers.
+@ Activist | ✊ | We do not have a planet B!
+@ Factory owner | 🧑‍💼 | We are trying to do better.
+@@ Smoke stack photo | 📸 | Black smoke against a gray sky.
+environment | /ɪnˈvaɪrənmənt/ | n | môi trường | We must protect the environment. | The natural world of air, water and land around us.
+pollute | /pəˈluːt/ | v | gây ô nhiễm | Factories pollute the river. | To make air or water dirty and unsafe.
+trash | /træʃ/ | n | rác | Pick up your trash. | Things you throw away; American word for rubbish.
+litter | /ˈlɪtər/ | n | rác vứt bừa bãi | The park is full of litter. | Paper and bottles dropped on the ground in public.
+smog | /smɑːɡ/ | n | khói bụi | Smog covers the city in winter. | Dirty brown air over a big city.
+global warming | /ˌɡloʊbl ˈwɔːrmɪŋ/ | n | sự nóng lên toàn cầu | Global warming is melting the ice. | The slow rise in the Earth's temperature.
+greenhouse gas | /ˈɡriːnhaʊs ɡæs/ | n | khí nhà kính | Cars produce greenhouse gases. | CO2 or methane that traps warmth around the Earth.
+deforestation | /ˌdiːˌfɔːrɪˈsteɪʃn/ | n | nạn phá rừng | Deforestation destroys animal homes. | The cutting down of huge areas of trees.
+extinct | /ɪkˈstɪŋkt/ | adj | tuyệt chủng | Dinosaurs are extinct. | No longer existing anywhere, like the dodo.
+toxic | /ˈtɑːksɪk/ | adj | độc hại | The factory produces toxic waste. | Poisonous.
+## The Recycling Center | ♻️ | Colored bins and a moving belt.
+@ Recycling worker | 🧑‍🔧 | Glass here, paper there.
+@ School group leader | 👩‍🏫 | Watch how a bottle becomes a jacket.
+@@ Colored bins | 🗑️ | Blue, green and yellow.
+reuse | /ˌriːˈjuːz/ | v | tái sử dụng | Reuse your shopping bags. | To use something again and not throw it away.
+plastic | /ˈplæstɪk/ | n | nhựa | The sea is full of plastic. | A light man-made material used for bottles and bags.
+sewage | /ˈsuːɪdʒ/ | n | nước thải | The factory dumps sewage in the river. | Dirty water from toilets and drains, carried away in pipes.
+rubbish | /ˈrʌbɪʃ/ | n | rác (Anh) | Put the rubbish in the bin. | The British word for things you throw away.
+sort | /sɔːrt/ | v | phân loại | We sort our trash into three bins. | To put things into groups by type.
+landfill | /ˈlændfɪl/ | n | bãi chôn lấp rác | Most of our trash goes to landfill. | A huge hole in the ground where a city buries what it throws away.
+compost | /ˈkɑːmpoʊst/ | n | phân hữu cơ | We make compost from kitchen scraps. | Old food and leaves that turn into rich earth.
+disposable | /dɪˈspoʊzəbl/ | adj | dùng một lần | Avoid disposable cups. | Made to be used once and thrown away.
+packaging | /ˈpækɪdʒɪŋ/ | n | bao bì | Too much packaging ends up in the sea. | The boxes and wrapping that products are sold in.
+container | /kənˈteɪnər/ | n | hộp đựng, thùng chứa | Bring your own food container. | A box or bottle that holds something.
+## The Energy Hall | ⚡ | Wind turbines and shiny panels.
+@ Engineer | 👷‍♀️ | The wind is free. Let us use it.
+@ Homeowner | 🏠 | My roof makes my own power now.
+@@ Solar panel | 🔆 | Dark blue and shiny.
+electricity | /ɪˌlekˈtrɪsəti/ | n | điện | The storm cut off the electricity. | The power that runs your lights and fridge.
+power | /ˈpaʊər/ | n | năng lượng, điện năng | The village has no power tonight. | Energy that makes machines go.
+solar | /ˈsoʊlər/ | adj | thuộc mặt trời | We have solar panels on the roof. | Coming from the star at the center of our system.
+renewable | /rɪˈnuːəbl/ | adj | tái tạo được | Wind is a renewable source of energy. | Never running out, like wind or sunshine.
+coal | /koʊl/ | n | than đá | Coal is a dirty fuel. | A black rock that is burned for energy.
+gas | /ɡæs/ | n | khí đốt | We cook with gas. | An invisible fuel for a stove; neither solid nor liquid.
+nuclear | /ˈnuːkliər/ | adj | hạt nhân | France uses nuclear power. | Using energy from splitting atoms.
+generate | /ˈdʒenəreɪt/ | v | tạo ra (điện) | The dam generates electricity. | To produce energy.
+conserve | /kənˈsɜːrv/ | v | bảo tồn, tiết kiệm | We must conserve water. | To use as little as possible so it lasts.
+efficient | /ɪˈfɪʃnt/ | adj | hiệu quả | LED bulbs are very efficient. | Working well without using much energy or time.
+## Acting Green | 🌱 | A community garden with bikes parked outside.
+@ Volunteer leader | 🙋 | Many small steps make a big change.
+@ Kid with a seedling | 🧒 | I planted this one myself.
+@@ Pledge board | 📝 | "I promise to..."
+planet | /ˈplænɪt/ | n | hành tinh | We have only one planet. | A huge round body in space, like Mars or Earth.
+resource | /ˈriːsɔːrs/ | n | tài nguyên | Water is a precious resource. | Something useful a country has, such as oil or wood.
+volunteer | /ˌvɑːlənˈtɪr/ | v | tình nguyện | I volunteer at a beach clean-up. | To offer to do a job without being paid.
+campaign | /kæmˈpeɪn/ | n | chiến dịch | They started a campaign to save the forest. | A planned series of actions to reach a social goal.
+sustainable | /səˈsteɪnəbl/ | adj | bền vững | We need sustainable farming. | Able to continue for a long time without harming nature.
+eco-friendly | /ˌiːkoʊ ˈfrendli/ | adj | thân thiện với môi trường | We use eco-friendly soap. | Not harmful to nature.
+carbon footprint | /ˌkɑːrbən ˈfʊtprɪnt/ | n | dấu chân các-bon | Flying increases your carbon footprint. | The amount of CO2 one person's activities produce.
+damage | /ˈdæmɪdʒ/ | v | gây hại | Plastic damages sea life. | To harm or spoil something.
+solve the problem | /sɑːlv ðə ˈprɑːbləm/ | phr | giải quyết vấn đề | We must work together to solve the problem. | To find the answer to a difficulty.
+awareness | /əˈwernəs/ | n | nhận thức | The film raised awareness of ocean plastic. | Knowing that something exists and is important.
+
+# Space Station | 🚀 | #818cf8 | nature | B1 | Float among planets, stars and rockets.
+## The Observatory | 🔭 | A dome opens to the night sky.
+@ Astronomer | 👩‍🔬 | Look through here. That is Saturn.
+@ Stargazing kid | 🧒 | How many are there?
+@@ Giant telescope | 🔭 | It points at the darkness.
+space | /speɪs/ | n | vũ trụ, không gian | He wants to travel into space. | The dark emptiness beyond the Earth's air.
+star | /stɑːr/ | n | ngôi sao | The sky is full of stars. | A tiny bright point in the night sky.
+moon | /muːn/ | n | mặt trăng | The moon is full tonight. | The round white body that shines at night.
+Earth | /ɜːrθ/ | n | Trái Đất | The Earth goes around the sun. | Our home; the third rock from the sun.
+universe | /ˈjuːnɪvɜːrs/ | n | vũ trụ | The universe is very old. | Everything that exists: all galaxies together.
+galaxy | /ˈɡæləksi/ | n | thiên hà | Our galaxy is called the Milky Way. | A system of billions of suns, like the Milky Way.
+telescope | /ˈtelɪskoʊp/ | n | kính thiên văn | I looked at Mars through a telescope. | An instrument that makes far objects in the sky look bigger.
+comet | /ˈkɑːmɪt/ | n | sao chổi | A comet appeared in the sky. | A ball of ice and dust with a long bright tail.
+orbit | /ˈɔːrbɪt/ | v | quay quanh | The moon orbits the Earth. | To travel in a circle around a larger body.
+astronomy | /əˈstrɑːnəmi/ | n | thiên văn học | He studies astronomy at university. | The science of everything beyond our atmosphere.
+## The Solar System | 🪐 | Model planets hang from the ceiling.
+@ Museum guide | 🧑‍🏫 | Eight planets, one sun.
+@ Curious visitor | 🙋‍♂️ | Which one has the rings?
+@@ Planet model | 🪐 | It turns slowly.
+solar system | /ˈsoʊlər sɪstəm/ | n | hệ mặt trời | There are eight planets in our solar system. | Our sun and everything that travels around it.
+Mars | /mɑːrz/ | n | sao Hỏa | Mars is called the red planet. | The red world, fourth from the sun.
+Venus | /ˈviːnəs/ | n | sao Kim | Venus is the hottest planet. | The second world from the sun, bright in the evening sky.
+Jupiter | /ˈdʒuːpɪtər/ | n | sao Mộc | Jupiter is the largest planet. | The largest world in our system, with a big red spot.
+Saturn | /ˈsætɜːrn/ | n | sao Thổ | Saturn has beautiful rings. | The world famous for its rings.
+gravity | /ˈɡrævəti/ | n | trọng lực | Gravity keeps us on the ground. | The force that pulls things down.
+atmosphere | /ˈætməsfɪr/ | n | bầu khí quyển | The Earth's atmosphere protects us. | The layer of gases around a world.
+surface | /ˈsɜːrfɪs/ | n | bề mặt | The surface of the moon is dusty. | The outside or top layer of something.
+eclipse | /ɪˈklɪps/ | n | nhật thực, nguyệt thực | We watched the eclipse with special glasses. | When the moon passes in front of the sun and day goes dark.
+meteor | /ˈmiːtiər/ | n | sao băng, thiên thạch | A meteor crossed the sky. | A rock from beyond that burns brightly as it drops; a "shooting star".
+## The Launch Pad | 🚀 | A rocket stands ready. Ten, nine, eight...
+@ Mission control | 🎧 | All systems are go.
+@ Astronaut | 🧑‍🚀 | See you in six months!
+@@ Countdown clock | ⏱️ | 00:00:10
+rocket | /ˈrɑːkɪt/ | n | tên lửa | The rocket took off at dawn. | A tall vehicle that shoots up with fire below it.
+astronaut | /ˈæstrənɔːt/ | n | phi hành gia | The astronaut walked on the moon. | A person who travels beyond the atmosphere.
+spaceship | /ˈspeɪsʃɪp/ | n | tàu vũ trụ | The spaceship landed on Mars. | A vehicle for traveling between worlds.
+satellite | /ˈsætəlaɪt/ | n | vệ tinh | The satellite sends TV signals. | A machine circling the Earth that sends signals.
+mission | /ˈmɪʃn/ | n | sứ mệnh, nhiệm vụ | The mission to Mars will take two years. | An important trip with a special goal.
+countdown | /ˈkaʊntdaʊn/ | n | sự đếm ngược | The countdown has begun. | Ten, nine, eight... before liftoff.
+oxygen | /ˈɑːksɪdʒən/ | n | khí ô-xy | There is no oxygen in space. | The gas we need to breathe.
+alien | /ˈeɪliən/ | n | người ngoài hành tinh | Do you believe in aliens? | A being from another world.
+float in space | /floʊt ɪn speɪs/ | phr | lơ lửng trong không gian | Astronauts float in space. | To drift weightless far above the Earth.
+explorer | /ɪkˈsplɔːrər/ | n | nhà thám hiểm | He was a famous explorer. | A person who travels to unknown places.
+## Light and Dark | 🌌 | A black room with glowing dots.
+@ Physicist | 🧑‍🔬 | Nothing travels faster.
+@ Dreamer | 😌 | It makes me feel so small.
+@@ Glowing map | 🌠 | Constellations in blue light.
+shine | /ʃaɪn/ | v | chiếu sáng | The stars shine at night. | To give out brightness.
+darkness | /ˈdɑːrknəs/ | n | bóng tối | We sat in darkness. | A complete lack of brightness.
+distant | /ˈdɪstənt/ | adj | xa xôi | We saw a distant star. | Very far away.
+vast | /væst/ | adj | bao la | Space is vast. | Extremely large and wide.
+invisible | /ɪnˈvɪzəbl/ | adj | vô hình | Air is invisible. | Impossible to see.
+mysterious | /mɪˈstɪriəs/ | adj | bí ẩn | Black holes are mysterious. | Strange and hard to explain.
+discovery | /dɪˈskʌvəri/ | n | khám phá, phát hiện | It was the discovery of the century. | The finding of something for the first time.
+observe | /əbˈzɜːrv/ | v | quan sát | Scientists observe the stars every night. | To watch something carefully to learn about it.
+exist | /ɪɡˈzɪst/ | v | tồn tại | Does life exist on other planets? | To be real; to be present in the world.
+infinite | /ˈɪnfɪnət/ | adj | vô tận | The universe may be infinite. | Without any end or limit.

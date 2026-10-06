@@ -1,0 +1,231 @@
+// Mở rộng 5 thế giới gốc lên 40 từ mỗi thế giới (thêm 4 cảnh mới, mỗi cảnh 7 từ).
+// Tên thế giới phải trùng tên thế giới gốc; phần mô tả/màu/emoji ở dòng "#" không được dùng.
+# At Home | 🏠 | #f59e0b | life | A1 | extend
+## The Living Room | 🛋️ | A cozy room with a big TV and soft cushions.
+@ Grandpa | 👴 | I am watching my favorite show. Sit with me!
+@@ Remote control | 📺 | Where did it go this time?
+@@ Window | 🪟 | Sunlight comes through the glass.
+couch | /kaʊtʃ/ | n | ghế sofa dài | We all sat on the couch to watch the movie. | Three people can sit side by side on this soft seat in the living room.
+remote | /rɪˈmoʊt/ | n | điều khiển từ xa | Dad cannot find the remote. | You press its buttons to change the TV channel without getting up.
+rug | /rʌɡ/ | n | tấm thảm nhỏ | The cat is sleeping on the rug. | A small, soft mat that lies on the floor in front of the sofa.
+wallpaper | /ˈwɔːlpeɪpər/ | n | giấy dán tường | The wallpaper in her room has pink flowers. | Pretty paper with patterns that you glue on a wall.
+vase | /veɪs/ | n | bình hoa | She put the roses in a glass vase. | A tall container that holds flowers and water.
+bulb | /bʌlb/ | n | bóng đèn | The bulb is broken, so the room is dark. | The small glass part inside a lamp that gives light.
+socket | /ˈsɑːkɪt/ | n | ổ cắm điện | Plug the charger into the socket. | The hole in the wall where you put an electric plug.
+## The Kitchen Corner | 🍞 | Small machines are lined up next to the sink.
+@ Aunt Lan | 👩 | Breakfast first, then chores!
+@@ Toaster | 🍞 | Pop! Two slices jump up.
+@@ Blender | 🥤 | It is very loud in the morning.
+kettle | /ˈketl/ | n | ấm đun nước | Put the kettle on and make some tea. | You heat water in this metal pot to make tea.
+toaster | /ˈtoʊstər/ | n | máy nướng bánh mì | The toaster popped up two slices of bread. | A machine that makes slices of bread brown and crispy.
+blender | /ˈblendər/ | n | máy xay sinh tố | She used the blender to make a banana shake. | A machine with sharp blades that mixes fruit into a drink.
+dishwasher | /ˈdɪʃwɑːʃər/ | n | máy rửa chén | Please put the cups in the dishwasher. | A machine that cleans plates and glasses for you.
+teapot | /ˈtiːpɑːt/ | n | ấm trà | Grandma poured tea from the teapot. | A pot with a spout and a lid, used to serve hot tea.
+faucet | /ˈfɔːsɪt/ | n | vòi nước | Turn off the faucet when you brush your teeth. | You turn this to make water come out of the sink.
+coaster | /ˈkoʊstər/ | n | tấm lót ly | Put your glass on the coaster, please. | A small mat that protects the table from a wet cup.
+## The Bedroom Closet | 🧦 | Clothes, pillows and a very messy floor.
+@ Little Sister | 👧 | I cannot find my other sock!
+@@ Wardrobe | 🚪 | A tall cupboard with two doors.
+@@ Hairbrush | 💇 | It has long hair stuck in it.
+duvet | /ˈduːveɪ/ | n | chăn lông, ruột chăn | The duvet keeps me warm in winter. | A thick, soft cover filled with feathers that you sleep under.
+pajamas | /pəˈdʒɑːməz/ | n | đồ ngủ | He changed into his pajamas and went to bed. | You wear these soft clothes at night when you sleep.
+slipper | /ˈslɪpər/ | n | dép đi trong nhà | One slipper is under the bed. | A soft shoe that you wear only inside the house.
+hairbrush | /ˈherbrʌʃ/ | n | lược chải tóc | She keeps a hairbrush in her bag. | You use this to make your hair smooth in the morning.
+razor | /ˈreɪzər/ | n | dao cạo | Dad uses a razor to shave his face. | A sharp tool that removes hair from a man's face.
+staircase | /ˈsterkeɪs/ | n | cầu thang | Our bedroom is at the top of the staircase. | A set of steps that takes you up to the next floor.
+doormat | /ˈdɔːrmæt/ | n | thảm chùi chân | Wipe your shoes on the doormat. | A rough mat in front of the door where you clean your feet.
+## The Garden | 🌳 | A small garden with a green fence and a hammock.
+@ Grandma | 👵 | The roses love the morning sun.
+@@ Hammock | 🛌 | A net bed that swings between two trees.
+@@ Sprinkler | 💦 | Water goes tick, tick, tick, around and around.
+porch | /pɔːrtʃ/ | n | hiên nhà | We drink tea on the porch in the evening. | A small covered area at the front of a house, just outside the door.
+driveway | /ˈdraɪvweɪ/ | n | đường dẫn vào nhà | Dad parked the car in the driveway. | A short private road between the street and your garage.
+hedge | /hedʒ/ | n | hàng rào cây | He cuts the hedge every summer. | A line of bushes that grow close together like a green wall.
+sprinkler | /ˈsprɪŋklər/ | n | vòi tưới phun | The sprinkler waters the grass every morning. | A garden machine that sprays water in a circle on the grass.
+hammock | /ˈhæmək/ | n | võng | I took a nap in the hammock. | A bed made of net or cloth that you hang between two trees.
+dustpan | /ˈdʌstpæn/ | n | cái hốt rác | Sweep the leaves into the dustpan. | A flat tray that you use with a broom to pick up dirt.
+ladle | /ˈleɪdl/ | n | cái muôi, vá múc canh | Mom filled my bowl with a ladle of soup. | A big spoon with a deep end, used to serve soup.
+
+# At the Café | ☕ | #b45309 | food | A1 | extend
+## The Coffee Bar | ☕ | Steam rises from the machine and the barista smiles.
+@ Barista Tom | 🧑 | What can I get started for you?
+@@ Coffee machine | ☕ | It hisses and gurgles.
+@@ Tip jar | 🫙 | A small glass jar full of coins.
+barista | /bəˈriːstə/ | n | người pha cà phê | The barista drew a heart in my coffee. | The person who makes your coffee behind the counter.
+latte | /ˈlɑːteɪ/ | n | cà phê sữa (latte) | I would like a large latte with extra milk. | A coffee drink with lots of hot milk and a little foam.
+espresso | /eˈspresoʊ/ | n | cà phê espresso | He drinks a small, strong espresso after lunch. | A very small, very strong coffee served in a tiny cup.
+cappuccino | /ˌkæpəˈtʃiːnoʊ/ | n | cà phê cappuccino | She likes a cappuccino with chocolate on top. | A coffee drink with a thick layer of milk foam.
+mocha | /ˈmoʊkə/ | n | cà phê mocha | A mocha tastes like coffee and chocolate together. | A sweet coffee drink that has chocolate in it.
+counter | /ˈkaʊntər/ | n | quầy | Please pay at the counter. | You stand at this long table to order and pay.
+takeout | /ˈteɪkaʊt/ | n | đồ mang đi | Can I get a takeout cup, please? | You say this when you want your food or drink to go, not eat here.
+## The Pastry Case | 🥐 | Golden croissants and tiny cakes behind the glass.
+@ Baker Mia | 👩 | Everything here is baked fresh today!
+@@ Pastry case | 🍰 | Rows of sweet treats shine under the light.
+@@ Cake stand | 🎂 | A round plate on a tall leg.
+croissant | /krəˈsɑːnt/ | n | bánh sừng bò | I had a croissant and jam for breakfast. | A French pastry shaped like a crescent moon, soft and buttery.
+muffin | /ˈmʌfɪn/ | n | bánh nướng nhỏ (muffin) | She baked a blueberry muffin. | A small round cake baked in a paper cup, often with fruit inside.
+cupcake | /ˈkʌpkeɪk/ | n | bánh cupcake | The cupcake had pink cream on top. | A tiny cake with colorful cream, perfect for a birthday party.
+brownie | /ˈbraʊni/ | n | bánh brownie | A warm brownie with ice cream is my favorite dessert. | A dark, soft square cake made with lots of chocolate.
+bagel | /ˈbeɪɡl/ | n | bánh mì vòng (bagel) | He ate a bagel with cream cheese. | A round bread with a hole in the middle.
+scone | /skoʊn/ | n | bánh scone | Try the scone with jam and butter. | A small, crumbly British cake that you eat with jam and cream.
+pastry | /ˈpeɪstri/ | n | bánh ngọt, bánh nướng | The bakery sells fresh pastry every morning. | A general word for sweet baked goods made with butter and flour.
+## The Sweet Menu | 🧁 | A chalkboard lists tastes you have never tried.
+@ Waitress Joy | 👩 | Do you prefer something sweet or something light?
+@@ Chalkboard | 📝 | Today's specials in pretty handwriting.
+@@ Sugar bowl | 🍬 | Little white cubes sit inside.
+cinnamon | /ˈsɪnəmən/ | n | quế | The apple pie smells like cinnamon. | A brown, sweet spice that comes from tree bark.
+vanilla | /vəˈnɪlə/ | n | vani | I would like vanilla ice cream, please. | The most popular ice cream flavor, pale yellow and sweet.
+caramel | /ˈkærəməl/ | n | caramel, đường thắng | The cake has a layer of caramel on top. | A sticky, golden-brown sweet made from melted sugar.
+pancake | /ˈpænkeɪk/ | n | bánh kếp | We had pancakes with honey on Sunday. | A flat, round breakfast food cooked in a pan and often eaten with syrup.
+waffle | /ˈwɑːfl/ | n | bánh quế (waffle) | A waffle has little squares to hold the syrup. | A crispy breakfast cake with a pattern of small squares.
+teabag | /ˈtiːbæɡ/ | n | túi trà lọc | Leave the teabag in the hot water for three minutes. | A small paper bag of dry leaves that you put in hot water.
+gulp | /ɡʌlp/ | v | uống ừng ực | He was so thirsty that he took a big gulp of water. | You do this when you drink very fast, in big mouthfuls.
+## The Cozy Corner | 🛋️ | A quiet corner for friends, books and slow afternoons.
+@ Student Ken | 🧑‍🎓 | Is this seat free? I need to study.
+@@ Bookshelf | 📚 | Old novels you can read for free.
+@@ Wi-Fi sign | 📶 | The password is written on a card.
+waitress | /ˈweɪtrəs/ | n | nữ phục vụ bàn | The waitress brought our drinks on a tray. | A woman who brings food to the tables in a café.
+saucer | /ˈsɔːsər/ | n | đĩa lót tách | She put the cup back on the saucer. | A small plate that sits under a tea cup.
+stool | /stuːl/ | n | ghế đẩu | We sat on high stools at the bar. | A seat with no back and no arms.
+booth | /buːθ/ | n | ghế ngồi kiểu buồng | Let's sit in the booth by the window. | A private table with high seats on each side, often by a wall.
+patio | /ˈpætioʊ/ | n | sân hiên ngoài trời | We ate lunch outside on the patio. | An outdoor area next to a café with tables under the sky.
+wifi | /ˈwaɪfaɪ/ | n | wifi | Is there free wifi here? | You ask for this to connect your phone to the internet.
+aroma | /əˈroʊmə/ | n | hương thơm | I love the aroma of fresh coffee. | A strong, pleasant smell, like fresh bread or coffee.
+
+# Shopping | 🛍️ | #ec4899 | life | A1 | extend
+## The Fashion Floor | 👗 | Bright clothes hang in neat rows.
+@ Stylist Anna | 👩 | Let me show you our new collection.
+@@ Mannequin | 🧍 | It is wearing the newest style.
+@@ Hanger rack | 👗 | Colorful clothes in every size.
+hoodie | /ˈhʊdi/ | n | áo hoodie | I wear a warm hoodie when it is cold. | A soft sweatshirt with a cap for your head attached to it.
+cardigan | /ˈkɑːrdɪɡən/ | n | áo len cài khuy | She put on a cardigan because the room was cold. | A knitted sweater that opens at the front with buttons.
+blouse | /blaʊs/ | n | áo sơ mi nữ | She wore a white blouse to the interview. | A light shirt for women, often made of silk or cotton.
+vest | /vest/ | n | áo gi-lê, áo ba lỗ | He wore a vest under his jacket. | A short piece of clothing without sleeves, worn over a shirt.
+leggings | /ˈleɡɪŋz/ | n | quần legging | These leggings are comfortable for yoga. | Tight, stretchy trousers that fit close to your legs.
+swimsuit | /ˈswɪmsuːt/ | n | đồ bơi | Don't forget your swimsuit for the pool. | You wear this in the water when you swim.
+raincoat | /ˈreɪnkoʊt/ | n | áo mưa | Take your raincoat; it will rain this afternoon. | A waterproof coat that keeps you dry in a storm.
+## The Shoe Corner | 👟 | Boxes of shoes are stacked up to the ceiling.
+@ Salesman Ben | 🧔 | These shoes are very light, you will see.
+@@ Shoe wall | 👟 | Hundreds of pairs, all in different colors.
+@@ Shoe box | 📦 | The size is written on the side.
+heels | /hiːlz/ | n | giày cao gót | She wore red heels to the party. | Women's shoes with a high, thin back part, worn at parties.
+loafers | /ˈloʊfərz/ | n | giày lười | He bought brown leather loafers for work. | Smart flat shoes that you slip on without laces.
+buckle | /ˈbʌkl/ | n | khóa thắt lưng | The buckle on his belt is made of silver. | The metal part that you close to hold a belt or strap.
+hem | /hem/ | n | gấu áo, gấu quần | The hem of these jeans is too long for me. | The bottom edge of a skirt or trousers that is folded and sewn.
+denim | /ˈdenɪm/ | n | vải denim, vải bò | These jeans are made of strong blue denim. | The strong blue cloth used to make jeans.
+velvet | /ˈvelvɪt/ | n | vải nhung | The red velvet dress felt soft and smooth. | A very soft, smooth cloth that looks rich and shiny.
+purse | /pɜːrs/ | n | ví nhỏ, túi xách nhỏ | She took some coins from her purse. | A small bag for money and cards, often carried by women.
+## The Special Shops | 💐 | A little street with many tiny shops.
+@ Florist Rose | 👩 | Fresh flowers arrived this morning!
+@@ Flower bucket | 🪣 | Tulips and roses stand in cool water.
+@@ Meat counter | 🥩 | A cold glass case full of fresh meat.
+boutique | /buːˈtiːk/ | n | cửa hàng thời trang nhỏ | She bought the dress at a boutique in the old town. | A small, stylish shop that sells fashionable clothes.
+butcher | /ˈbʊtʃər/ | n | người bán thịt | The butcher cut two pieces of beef for us. | The person who cuts and sells meat in a shop.
+florist | /ˈflɔːrɪst/ | n | người bán hoa | I bought roses from the florist. | The person who sells flowers.
+shopkeeper | /ˈʃɑːpkiːpər/ | n | chủ cửa hàng | The shopkeeper said hello to every customer. | The person who owns a small shop and works in it every day.
+vendor | /ˈvendər/ | n | người bán hàng rong | A street vendor sold hot corn near the station. | A person who sells things outside, from a cart or a stand.
+parcel | /ˈpɑːrsl/ | n | bưu kiện, gói hàng | A parcel arrived at my door this morning. | A box wrapped in paper that you send or receive by post.
+fashion | /ˈfæʃn/ | n | thời trang | She loves fashion and reads magazines about it. | Clothes and styles that are popular at a certain time.
+## The Bargain Corner | 🏷️ | Red signs shout about big savings.
+@ Cashier Lily | 👩 | You can use your voucher at the counter.
+@@ Price tag | 🏷️ | The old price is crossed out.
+@@ Sale sign | 📢 | Everything must go!
+tag | /tæɡ/ | n | thẻ giá, nhãn | The tag says this jacket costs twenty dollars. | A small label attached to clothes that shows the price.
+clearance | /ˈklɪrəns/ | n | đợt xả hàng, hàng thanh lý | The winter coats are on clearance this week. | A sale to get rid of old goods at very low prices.
+voucher | /ˈvaʊtʃər/ | n | phiếu quà tặng, phiếu giảm giá | I have a voucher for ten dollars. | A paper that you can use instead of money in a shop.
+warranty | /ˈwɔːrənti/ | n | giấy bảo hành | The phone has a one-year warranty. | A promise from the shop to fix the product for free if it breaks.
+trendy | /ˈtrendi/ | adj | hợp thời trang | Those sneakers look very trendy. | Something that is modern and popular right now.
+rack | /ræk/ | n | giá treo, kệ | The shirts are on the rack by the door. | A metal stand where shops hang their clothes.
+jewelry | /ˈdʒuːəlri/ | n | đồ trang sức | She keeps her jewelry in a small wooden box. | Rings, necklaces and bracelets together are called this.
+
+# School | 🏫 | #3b82f6 | school | A1 | extend
+## The Corridor | 🚪 | Lockers line the walls and bells ring all day.
+@ Principal Green | 👨‍💼 | Walk, please. Do not run in the corridor!
+@@ Lockers | 🗄️ | Rows of blue metal doors.
+@@ School bell | 🔔 | It rings at the end of every lesson.
+corridor | /ˈkɔːrɪdɔːr/ | n | hành lang | The students walked down the long corridor. | A long hallway inside a school with many classroom doors.
+cloakroom | /ˈkloʊkruːm/ | n | phòng để áo khoác | Hang your wet coat in the cloakroom. | A small room near the entrance where you leave coats and bags.
+principal | /ˈprɪnsəpl/ | n | hiệu trưởng | The principal gave a speech to the students. | The head of the school, the boss of all the teachers.
+assembly | /əˈsembli/ | n | buổi họp toàn trường | The whole school met in the hall for assembly. | A big meeting where all the students listen to announcements.
+attendance | /əˈtendəns/ | n | sự có mặt, điểm danh | The teacher checks attendance every morning. | The teacher reads your name to see if you came to school.
+pupil | /ˈpjuːpl/ | n | học sinh | Each pupil must wear a uniform. | A child who studies at a school (a word often used in Britain).
+campus | /ˈkæmpəs/ | n | khuôn viên trường | The university campus has a big park. | All the land and buildings of a school or university.
+## The Art and Math Room | 🎨 | Paint on the walls and numbers on the board.
+@ Art teacher Ms. Fox | 👩‍🎨 | Colors can tell stories, children.
+@@ Easel | 🖼️ | A wooden stand for a big painting.
+@@ Blackboard | 🧑‍🏫 | White dust still hangs in the air.
+blackboard | /ˈblækbɔːrd/ | n | bảng đen | The teacher wrote the date on the blackboard. | The dark board where a teacher writes with chalk.
+easel | /ˈiːzl/ | n | giá vẽ | She set up her easel by the window. | A stand that holds a canvas while an artist paints.
+palette | /ˈpælət/ | n | bảng pha màu | He mixed blue and yellow on his palette. | A thin board where an artist mixes paints.
+lunchbox | /ˈlʌntʃbɑːks/ | n | hộp cơm trưa | Mom packed a sandwich in my lunchbox. | A small box with your food that you carry to school.
+protractor | /proʊˈtræktər/ | n | thước đo góc | Use a protractor to measure the angle. | A half-circle ruler used in math class to measure angles.
+angle | /ˈæŋɡl/ | n | góc | A square has four right angles. | The shape where two lines meet at a corner.
+multiply | /ˈmʌltɪplaɪ/ | v | nhân | Multiply four by five and you get twenty. | Do this in math when you want to make a number several times bigger.
+## The Lab and the Library | 🔬 | Microscopes, maps and heavy books.
+@ Mr. Park | 🧑‍🔬 | Please do not touch anything until I say so.
+@@ Atlas | 🗺️ | A big book of maps of every country.
+@@ Microscope stand | 🔬 | It makes tiny things look huge.
+lab | /læb/ | n | phòng thí nghiệm | We did a science experiment in the lab. | A room where students do science experiments.
+atlas | /ˈætləs/ | n | tập bản đồ | I looked for Canada in the atlas. | A book full of maps of the world.
+geometry | /dʒiˈɑːmətri/ | n | hình học | In geometry we learn about triangles and circles. | The part of math about shapes, lines and angles.
+algebra | /ˈældʒɪbrə/ | n | đại số | Algebra uses letters like x and y instead of numbers. | A kind of math that uses letters to stand for unknown numbers.
+spelling | /ˈspelɪŋ/ | n | chính tả, cách viết chữ | There is a spelling test on Friday. | The correct order of letters in a word.
+syllabus | /ˈsɪləbəs/ | n | đề cương môn học | The syllabus lists every lesson of the course. | A paper that tells you what the class will teach all year.
+curriculum | /kəˈrɪkjələm/ | n | chương trình học | The school's curriculum includes art and music. | All the subjects that a school teaches.
+## Sports Day | 🏅 | Flags, whistles and a hot, sunny field.
+@ Coach Dave | 🧑‍🏫 | Stretch first, then run!
+@@ Trophy | 🏆 | A shiny cup for the winning team.
+@@ Starting line | 🏁 | Everyone is ready to run.
+trophy | /ˈtroʊfi/ | n | cúp | Our team won the trophy this year. | A golden cup that you get when you win a competition.
+relay | /ˈriːleɪ/ | n | chạy tiếp sức | Four runners passed the stick in the relay. | A race where each runner in a team runs one part, then passes a stick.
+hurdle | /ˈhɜːrdl/ | n | rào chạy vượt | She jumped over each hurdle without falling. | A low fence that runners jump over in a race.
+graduation | /ˌɡrædʒuˈeɪʃn/ | n | lễ tốt nghiệp | My parents came to my graduation. | The big ceremony when you finish school and get your certificate.
+workshop | /ˈwɜːrkʃɑːp/ | n | buổi thực hành, xưởng | We joined a painting workshop on Saturday. | A short class where you learn by doing, not just listening.
+cafeteria | /ˌkæfəˈtɪriə/ | n | căng tin | After the race we ate lunch in the cafeteria. | A big room in a school where students buy and eat their lunch.
+tutor | /ˈtuːtər/ | n | gia sư | My tutor helps me with math after school. | A teacher who helps one student at a time, often at home.
+
+# Travel | ✈️ | #10b981 | travel | A1 | extend
+## The Plane Cabin | 💺 | Rows of seats and a smiling crew.
+@ Steward Max | 🧑‍✈️ | Please sit down and follow the signs.
+@@ Overhead lockers | 🧳 | Bags are packed in tightly.
+@@ Window | 🪟 | White clouds float below.
+seatbelt | /ˈsiːtbelt/ | n | dây an toàn | Please fasten your seatbelt. | A strap across your waist that keeps you safe in your seat.
+cabin | /ˈkæbɪn/ | n | khoang hành khách | The cabin was quiet because everyone was sleeping. | The inside part of a plane where passengers sit.
+steward | /ˈstuːərd/ | n | tiếp viên (nam) | The steward brought me a glass of juice. | A man who looks after the passengers on a plane.
+takeoff | /ˈteɪkɔːf/ | n | cất cánh | The takeoff was smooth and fast. | The moment when a plane leaves the ground and goes up.
+landing | /ˈlændɪŋ/ | n | hạ cánh | The landing was a little bumpy. | The moment when a plane comes down and touches the runway.
+armrest | /ˈɑːrmrest/ | n | tay vịn ghế | He put his arm on the armrest. | The part of a seat where you can rest your arm.
+lifejacket | /ˈlaɪfdʒækɪt/ | n | áo phao | The lifejacket is under your seat. | You wear this orange jacket to float if you fall in water.
+## The Arrival Hall | 🛄 | Tired people wait for their bags and a ride.
+@ Interpreter Sam | 🧑‍💼 | I can help you speak with the officer.
+@@ Baggage belt | 🔄 | Suitcases go round and round.
+@@ Information screen | 📺 | Flight times flash in white letters.
+stopover | /ˈstɑːpoʊvər/ | n | điểm dừng giữa chặng | We have a two-hour stopover in Dubai. | A short stop in another city between two flights.
+transit | /ˈtrænzɪt/ | n | quá cảnh | We stayed in the transit area for three hours. | You are in this area when you change planes and do not leave the airport.
+overbooked | /ˌoʊvərˈbʊkt/ | adj | bán vé quá số chỗ | The flight was overbooked, so I got a later one. | The airline sold more tickets than there are seats.
+carousel | /ˌkærəˈsel/ | n | băng chuyền hành lý | We waited at the carousel for our bags. | The moving belt in an airport where your suitcase comes out.
+valet | /vælˈeɪ/ | n | nhân viên đỗ xe | A valet parked our car at the hotel. | A person who drives and parks cars for guests.
+interpreter | /ɪnˈtɜːrprɪtər/ | n | phiên dịch viên | The interpreter told us what the guide said. | A person who translates speech from one language to another.
+translator | /trænzˈleɪtər/ | n | người dịch, máy dịch | She works as a translator of French books. | Someone who changes the words of a book into another language.
+## The Hostel | 🛏️ | Bunk beds, backpacks and many languages.
+@ Concierge Lu | 🧑‍💼 | Do you need a map or a restaurant tip?
+@@ Key rack | 🔑 | Numbered keys hang on little hooks.
+@@ Notice board | 📌 | Tours, parties and lost socks.
+hostel | /ˈhɑːstl/ | n | nhà trọ giá rẻ | A bed in a hostel costs only ten dollars. | A cheap place to sleep where travelers share rooms.
+dormitory | /ˈdɔːrmətɔːri/ | n | phòng ngủ tập thể | Eight people sleep in the dormitory. | A big bedroom with many beds for a group of people.
+concierge | /ˌkɑːnsiˈerʒ/ | n | nhân viên hỗ trợ khách | The concierge booked us a taxi. | The hotel worker who helps guests with tickets, taxis and tips.
+bellhop | /ˈbelhɑːp/ | n | nhân viên xách hành lý | The bellhop carried our bags to the room. | A hotel worker who carries your suitcases upstairs.
+doorman | /ˈdɔːrmæn/ | n | người gác cửa khách sạn | The doorman opened the door for us. | A man in uniform who stands at a hotel entrance and opens doors.
+brochure | /broʊˈʃʊr/ | n | tờ rơi, sách giới thiệu | I picked up a brochure about city tours. | A thin booklet with pictures that tells you about a place.
+phrasebook | /ˈfreɪzbʊk/ | n | sách cụm từ du lịch | He used a phrasebook to order food in Italy. | A small book with useful sentences in another language.
+## The Old Harbor | ⚓ | Boats, gulls and a white tower on the rocks.
+@ Captain Joe | 👨‍✈️ | The sea is calm today. Let's go!
+@@ Lighthouse | 🗼 | Its light turns slowly in the night.
+@@ Ticket gate | 🚧 | A bar spins once for every ticket.
+metro | /ˈmetroʊ/ | n | tàu điện ngầm | We took the metro to the museum. | A fast train that runs under the ground in a big city.
+monorail | /ˈmɑːnoʊreɪl/ | n | tàu một ray | The monorail goes above the streets. | A train that runs on a single rail high above the city.
+harbor | /ˈhɑːrbər/ | n | bến cảng | Many fishing boats stay in the harbor at night. | A protected area of water where ships can stop safely.
+lighthouse | /ˈlaɪthaʊs/ | n | ngọn hải đăng | The lighthouse shows ships where the rocks are. | A tall tower by the sea with a big light that guides boats.
+excursion | /ɪkˈskɜːrʒn/ | n | chuyến tham quan ngắn | We took a day excursion to the island. | A short trip that people take for fun, usually for one day.
+turnstile | /ˈtɜːrnstaɪl/ | n | cổng xoay | Pass through the turnstile after you scan your ticket. | A gate that turns around so people go in one at a time.
+pier | /pɪr/ | n | cầu tàu | We walked to the end of the pier and watched the boats. | A long wooden platform that goes out into the sea.

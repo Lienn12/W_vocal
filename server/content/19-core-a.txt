@@ -1,0 +1,173 @@
+# Verb Village | 🏃‍♀️ | #34d399 | core | A1 | The small, powerful verbs you need in every sentence.
+## Come and Go Street | 🚶 | People walk in and out of every door.
+@ Postman | 📮 | I am on my feet all day long.
+@ Busy mom | 👩 | In, out, in, out. I never stop!
+@@ Revolving door | 🚪 | It turns and turns.
+go | /ɡoʊ/ | v | đi | I go to school by bus. | To move from here to another place: "Let us ... to the park."
+come | /kʌm/ | v | đến, tới | Come here, please. | To move toward the speaker: "... here!"
+walk | /wɔːk/ | v | đi bộ | I walk to work every day. | To move on your feet at a normal speed.
+leave | /liːv/ | v | rời đi | The bus leaves at six. | To exit a place and not remain there.
+enter | /ˈentər/ | v | đi vào | Knock before you enter the room. | To step into a room.
+bring | /brɪŋ/ | v | mang đến | Bring your book to class tomorrow. | To carry something with you to the place where the speaker is.
+take | /teɪk/ | v | cầm, lấy, mang đi | Take an umbrella with you. | To get hold of something and carry it away with you.
+carry | /ˈkæri/ | v | mang, vác | Can you carry this bag for me? | To hold something in your arms and move it.
+visit | /ˈvɪzɪt/ | v | thăm | We visit our grandparents every Sunday. | To spend an afternoon at a relative's house.
+travel | /ˈtrævl/ | v | du lịch, đi lại | I want to travel around Asia. | To make long trips to other cities and countries.
+## Give and Get Market | 🎁 | Things change hands at every stall.
+@ Generous aunt | 👩‍🦱 | Here, this is for you.
+@ Trader | 🧔 | You hand me that, I hand you this.
+@@ Lost-and-found box | 📦 | Gloves, keys and one shoe.
+give | /ɡɪv/ | v | cho, đưa | Give me your hand. | To hand something to another person to have.
+get | /ɡet/ | v | nhận được, lấy | I got a letter today. | To receive or obtain something.
+have | /hæv/ | v | có | I have two brothers. | To own or hold something: "I ... a red bike."
+want | /wɑːnt/ | v | muốn | I want a glass of water. | To wish for something: "I ... an ice cream!"
+need | /niːd/ | v | cần | I need your help. | To require something because you cannot do without it.
+keep | /kiːp/ | v | giữ | You can keep the pen. | To continue to hold something and not hand it back.
+find | /faɪnd/ | v | tìm thấy | I cannot find my keys. | To discover something you were looking for.
+show | /ʃoʊ/ | v | cho xem, chỉ | Show me your new phone. | To let someone look at something.
+put | /pʊt/ | v | đặt, để | Put the books on the table. | To place something somewhere.
+use | /juːz/ | v | dùng | Can I use your pen? | To do a job with a tool: "I ... a knife to cut bread."
+## Start and Stop Square | 🚦 | A big green light and a big red light.
+@ Race starter | 🏁 | Ready... steady...
+@ Traffic warden | 🧑‍✈️ | Halt! Not one more step!
+@@ Big red button | 🔴 | Do not press it.
+start | /stɑːrt/ | v | bắt đầu | The film starts at eight. | To do the first part of an action; the usual everyday word.
+stop | /stɑːp/ | v | dừng lại | Stop talking, please. | To not move or not do something anymore.
+begin | /bɪˈɡɪn/ | v | bắt đầu (trang trọng hơn) | Let us begin the lesson. | A slightly more formal word for doing the first part of something.
+finish | /ˈfɪnɪʃ/ | v | hoàn thành | I finished my homework. | To complete something so nothing more is left to do.
+try | /traɪ/ | v | cố gắng, thử | Try to open this jar. | To make an effort to do something.
+continue | /kənˈtɪnjuː/ | v | tiếp tục | Please continue reading. | To keep doing something without a pause.
+happen | /ˈhæpən/ | v | xảy ra | What happened last night? | To take place: "What will ... next?"
+become | /bɪˈkʌm/ | v | trở thành | She wants to become a doctor. | To grow or change into something: "He will ... a pilot."
+let | /let/ | v | để cho, cho phép | Let me help you. | To allow: "... me try!"
+end | /end/ | v | kết thúc | The class ends at four. | To reach the last moment: "The film will ... at ten."
+## Like and Do Lane | ❤️ | Small houses, each with a busy person inside.
+@ Cheerful baker | 🧑‍🍳 | I really enjoy my job.
+@ Grumpy cat | 😾 | I dislike everything.
+@@ To-do list | 📝 | Half the boxes are ticked.
+like | /laɪk/ | v | thích | I like chocolate. | To think something is nice: "I ... pizza."
+hate | /heɪt/ | v | ghét | I hate getting up early. | To dislike something very strongly.
+do | /duː/ | v | làm | What are you doing? | To perform an action: "What are you ...ing this weekend?"
+make | /meɪk/ | v | làm ra, tạo ra | I will make a cake. | To produce or build something: "Let us ... a sandwich."
+work | /wɜːrk/ | v | làm việc | My mother works in a bank. | To do a job for money.
+live | /lɪv/ | v | sống | I live in Hanoi. | To have your home in a place.
+join | /dʒɔɪn/ | v | tham gia | Would you like to join our club? | To become a member of a group.
+seem | /siːm/ | v | có vẻ | You seem tired today. | To appear to be: "She ...s happy."
+belong | /bɪˈlɔːŋ/ | v | thuộc về | This book belongs to me. | To be owned by someone: "That bag ...s to her."
+depend | /dɪˈpend/ | v | phụ thuộc | It depends on the weather. | To be decided by something else: "It ...s on the price."
+
+# Motion Park | 🤸 | #fb923c | core | A2 | Hop, slide, grab and toss: verbs for every way a body can move.
+## The Footpath | 👣 | Footprints of every kind cover the ground.
+@ Drill sergeant | 🪖 | Left, right, left, right!
+@ Sneaky cat | 🐈 | Nobody hears me coming.
+@@ Stepping stones | 🪨 | Flat rocks across a stream.
+step | /step/ | v | bước | Step back from the edge. | To lift one foot and put it down in a new place.
+march | /mɑːrtʃ/ | v | diễu hành, bước đều | The soldiers marched through the town. | To walk like soldiers, all in time together.
+rush | /rʌʃ/ | v | lao đi, vội vàng | She rushed to the hospital. | To go somewhere in a great hurry.
+wander | /ˈwɑːndər/ | v | đi lang thang | We wandered around the old town. | To walk slowly with no special aim or direction.
+hop | /hɑːp/ | v | nhảy lò cò | Can you hop on one leg? | To move in small bounds on one foot.
+leap | /liːp/ | v | nhảy vọt | The cat leaped onto the wall. | To make one very long, high bound through the air.
+dash | /dæʃ/ | v | lao vụt đi | He dashed across the road. | To sprint a short way very suddenly.
+creep | /kriːp/ | v | rón rén | She crept past the sleeping dog. | To move very slowly and silently so nobody notices.
+stumble | /ˈstʌmbl/ | v | vấp | I stumbled on a stone. | To hit your foot on something and almost go down.
+tiptoe | /ˈtɪptoʊ/ | v | đi nhón chân | He tiptoed out of the baby's room. | To walk on the front ends of your feet to be silent.
+## Slides and Spins | 🎠 | A playground full of moving things.
+@ Playground kid | 🧒 | Higher! Push me higher!
+@ Dizzy dad | 😵 | I need to sit for a minute.
+@@ Merry-go-round | 🎠 | Round and round it goes.
+slide | /slaɪd/ | v | trượt | The children slide down the hill. | To move smoothly over a wet or icy surface on purpose.
+slip | /slɪp/ | v | trượt chân | I slipped on the wet floor. | To lose your footing by accident on something wet.
+roll | /roʊl/ | v | lăn | The ball rolled under the car. | To move by turning over and over, like a ball.
+spin | /spɪn/ | v | quay tròn | The dancer spun around. | To turn around and around very fast on one spot.
+swing | /swɪŋ/ | v | đu, lắc lư | The monkey swings from tree to tree. | To move backward and forward while hanging.
+bounce | /baʊns/ | v | nảy lên | The ball bounced twice. | To spring back up after hitting the ground.
+lean | /liːn/ | v | dựa, nghiêng | Do not lean on the door. | To rest your weight against a wall.
+shrug | /ʃrʌɡ/ | v | nhún vai | He just shrugged and walked away. | To lift your shoulders to say "I do not know".
+dodge | /dɑːdʒ/ | v | né | He dodged the snowball. | To move quickly aside to avoid being hit.
+tumble | /ˈtʌmbl/ | v | ngã lộn nhào | The child tumbled down the hill. | To go down suddenly, turning over and over.
+## The Grab Zone | ✋ | Things to pick, press and tap.
+@ Juggler | 🤹 | Three, four, five in the air!
+@ Door-to-door seller | 🧑‍💼 | Is anybody home?
+@@ Punching bag | 🥊 | It swings back at you.
+grab | /ɡræb/ | v | chộp lấy | He grabbed my arm. | To take hold of something suddenly and roughly.
+drop | /drɑːp/ | v | làm rơi | Careful! Do not drop the plates. | To let something go from your hand by accident.
+toss | /tɔːs/ | v | tung, quăng nhẹ | Toss me the keys. | To send something lightly through the air with your hand.
+drag | /dræɡ/ | v | kéo lê | He dragged the heavy bag across the floor. | To move a heavy thing along the ground behind you.
+poke | /poʊk/ | v | chọc | Stop poking me with your pencil! | To push a finger or stick quickly into something.
+tap | /tæp/ | v | gõ nhẹ | She tapped me on the shoulder. | To hit something very lightly and quickly with a finger.
+knock | /nɑːk/ | v | gõ (cửa) | Someone is knocking on the door. | To hit a door with your hand so people inside hear you.
+rub | /rʌb/ | v | xoa, chà | He rubbed his tired eyes. | To move your hand back and forth on a surface.
+pat | /pæt/ | v | vỗ nhẹ | She patted the dog on the head. | To touch an animal gently several times with a flat hand.
+rip | /rɪp/ | v | xé toạc | I ripped my jeans on the fence. | To pull cloth or paper apart with force.
+## The Loading Dock | 📦 | Boxes, sacks and a parked truck.
+@ Dock worker | 🧑‍🏭 | Heavy ones at the bottom!
+@ Pirate ghost | 🏴‍☠️ | My gold is under the old tree...
+@@ Wooden crate | 📦 | Nailed tight.
+tie | /taɪ/ | v | buộc | Tie your shoes. | To fasten with a knot.
+untie | /ʌnˈtaɪ/ | v | cởi nút | I cannot untie this knot. | To open a knot.
+fill | /fɪl/ | v | đổ đầy | Fill the bottle with water. | To put liquid into a cup up to the top.
+shut | /ʃʌt/ | v | đóng lại | Shut the door, please. | To close; the opposite of "open".
+lay | /leɪ/ | v | đặt nằm xuống | She laid the baby on the bed. | To put something down flat and carefully.
+bury | /ˈberi/ | v | chôn | The dog buried a bone in the garden. | To put something in a hole in the ground and cover it.
+pile | /paɪl/ | v | chất đống | He piled the books on the desk. | To put many things loosely one on top of another.
+stack | /stæk/ | v | xếp chồng gọn | Stack the chairs after the meeting. | To arrange things neatly one on top of another.
+load | /loʊd/ | v | chất hàng lên | They loaded the truck with boxes. | To put goods onto a vehicle.
+unload | /ˌʌnˈloʊd/ | v | dỡ hàng xuống | Help me unload the car. | To take goods off a vehicle.
+
+# Opposites Palace | ⚖️ | #a78bfa | core | A1 | Good and bad, fast and slow: adjectives that come in pairs.
+## The Hall of Good and Bad | 👍 | One wall is gold, the other is gray.
+@ Cheerful critic | 😀 | I loved every minute of it!
+@ Gloomy critic | 😒 | It was the worst thing I have ever seen.
+@@ Thumbs statue | 👍 | One up, one down.
+good | /ɡʊd/ | adj | tốt | She is a good student. | The basic word for something positive; the opposite of "bad".
+bad | /bæd/ | adj | xấu, tệ | The weather is bad today. | The basic word for something negative.
+great | /ɡreɪt/ | adj | tuyệt vời, rất tốt | We had a great time. | Much better than just "good"; a short, very common word of praise.
+terrible | /ˈterəbl/ | adj | tồi tệ | The food was terrible. | Extremely bad; it begins with "t".
+wonderful | /ˈwʌndərfl/ | adj | tuyệt diệu | What a wonderful surprise! | So fine that it fills you with delight; "full of wonder".
+awful | /ˈɔːfl/ | adj | kinh khủng | The smell was awful. | Extremely bad; it begins with "a".
+perfect | /ˈpɜːrfɪkt/ | adj | hoàn hảo | Your English is perfect. | With no faults at all; one hundred out of one hundred.
+nice | /naɪs/ | adj | dễ chịu, tử tế | It is nice to meet you. | Pleasant; the word in "Have a ... day!"
+lovely | /ˈlʌvli/ | adj | đáng yêu, đẹp | What a lovely garden! | Beautiful and pleasant; it has "love" inside it.
+horrible | /ˈhɔːrəbl/ | adj | khủng khiếp | I had a horrible dream. | Extremely unpleasant; it begins with "h" like a scary film type.
+## The Easy-Hard Staircase | 🪜 | One side is a gentle ramp, the other a steep climb.
+@ Patient tutor | 🧑‍🏫 | One step at a time.
+@ Speedy kid | 🏃 | Too slow! Catch me!
+@@ Snail and rabbit statue | 🐌 | A race in stone.
+easy | /ˈiːzi/ | adj | dễ | The test was easy. | Not hard to do.
+difficult | /ˈdɪfɪkəlt/ | adj | khó | This question is difficult. | Hard to do or understand.
+simple | /ˈsɪmpl/ | adj | đơn giản | The rules are simple. | Having few parts; not complicated.
+fast | /fæst/ | adj | nhanh | He is a fast runner. | Moving at high speed.
+slow | /sloʊ/ | adj | chậm | The bus is very slow. | Moving at low speed.
+new | /nuː/ | adj | mới | I bought a new phone. | Just made or just bought; the opposite of "old".
+important | /ɪmˈpɔːrtnt/ | adj | quan trọng | This is an important meeting. | Having great value or effect; you must not miss it.
+useful | /ˈjuːsfl/ | adj | hữu ích | A dictionary is very useful. | Helping you to do something.
+useless | /ˈjuːsləs/ | adj | vô dụng | This broken umbrella is useless. | Not helping at all.
+necessary | /ˈnesəseri/ | adj | cần thiết | Is it necessary to book? | Needed; you cannot do without it.
+## The High-Low Tower | 🗼 | A lift goes up to the clouds and down to a pool.
+@ Lift operator | 🧑‍✈️ | Going up? Going down?
+@ Diver | 🤿 | It is dark at the bottom.
+@@ Depth gauge | 📏 | Numbers in meters.
+high | /haɪ/ | adj | cao (vị trí) | The shelf is too high for me. | Far above the ground.
+low | /loʊ/ | adj | thấp | The ceiling is very low. | Near the ground; not far up.
+deep | /diːp/ | adj | sâu | The lake is very deep. | Going a long way down from the top, like the ocean.
+shallow | /ˈʃæloʊ/ | adj | nông | The water is shallow here. | Not going far down; the water only reaches your ankles.
+same | /seɪm/ | adj | giống nhau | We are wearing the same shirt. | Not different at all.
+real | /ˈriːəl/ | adj | thật | Is that a real diamond? | Not false or imagined; actually existing.
+ready | /ˈredi/ | adj | sẵn sàng | Dinner is ready. | Prepared and able to start now.
+sure | /ʃʊr/ | adj | chắc chắn | Are you sure about that? | Having no doubt: "I am ... I locked the door."
+strange | /streɪndʒ/ | adj | kỳ lạ | I heard a strange noise. | Unusual in a way that surprises or worries you.
+normal | /ˈnɔːrml/ | adj | bình thường | It is normal to feel nervous. | As expected; nothing odd about it.
+## The Common Room | 🛋️ | Everyday things on one side, oddities on the other.
+@ Museum keeper | 🧑‍🏫 | Most of these you see every day.
+@ Trivia fan | 🤓 | Did you know this one is one of a kind?
+@@ Display case | 🗄️ | An ordinary spoon next to a golden one.
+common | /ˈkɑːmən/ | adj | phổ biến, thường gặp | Smith is a common name. | Found in many places; happening often.
+unusual | /ʌnˈjuːʒuəl/ | adj | khác thường | It is unusual to see snow here. | Not happening often; different from what is expected.
+ordinary | /ˈɔːrdneri/ | adj | bình thường, tầm thường | It was just an ordinary day. | Not special in any way; plain and everyday.
+typical | /ˈtɪpɪkl/ | adj | điển hình | This is a typical Vietnamese breakfast. | Being a good example of its kind.
+familiar | /fəˈmɪliər/ | adj | quen thuộc | Your face looks familiar. | Well known to you because you have seen it before.
+recent | /ˈriːsnt/ | adj | gần đây | I read it in a recent article. | Happening only a short while back.
+previous | /ˈpriːviəs/ | adj | trước đó | I saw her the previous day. | Coming just before this one.
+final | /ˈfaɪnl/ | adj | cuối cùng | This is the final episode. | Coming at the very end; there are no more.
+sudden | /ˈsʌdn/ | adj | đột ngột | There was a sudden noise. | Happening quickly and without warning.
+basic | /ˈbeɪsɪk/ | adj | cơ bản | I know some basic French. | At the simplest, first level.

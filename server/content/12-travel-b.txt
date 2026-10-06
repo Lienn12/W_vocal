@@ -1,0 +1,231 @@
+# Airport Express | ✈️ | #818cf8 | travel | A2 | Check in, go through security and fly away.
+## Check-in Hall | 🛄 | Long lines and rolling suitcases.
+@ Check-in agent | 👩‍✈️ | Window or aisle, sir?
+@ Family of five | 👨‍👩‍👧‍👦 | Does anyone have the baby's bottle?
+@@ Baggage scale | ⚖️ | 23 kilos maximum.
+airport | /ˈerpɔːrt/ | n | sân bay | We arrived at the airport two hours early. | The place where planes take off and land.
+airline | /ˈerlaɪn/ | n | hãng hàng không | Which airline are you flying with? | A company that carries passengers by plane.
+check in | /tʃek ɪn/ | v | làm thủ tục | You must check in two hours before the flight. | To show your ticket at the desk and register that you have arrived.
+suitcase | /ˈsuːtkeɪs/ | n | va li | My suitcase is too heavy. | A large rectangular case with a handle for your clothes on a trip.
+baggage | /ˈbæɡɪdʒ/ | n | hành lý | Please collect your baggage here. | All the cases and bags a traveler carries.
+boarding pass | /ˈbɔːrdɪŋ pæs/ | n | thẻ lên máy bay | Show your boarding pass at the gate. | The card that lets you get on the plane.
+terminal | /ˈtɜːrmɪnl/ | n | nhà ga sân bay | International flights leave from terminal two. | One of the big passenger buildings at a place for planes.
+departure | /dɪˈpɑːrtʃər/ | n | sự khởi hành | The departure time is 9:40. | The act of leaving on a trip.
+arrival | /əˈraɪvl/ | n | sự đến nơi | The arrival was delayed by fog. | The act of reaching your destination.
+carry-on | /ˈkæri ɑːn/ | n | hành lý xách tay | I only have a carry-on. | A small case you take into the cabin with you.
+## Security | 🛂 | Trays, scanners and serious faces.
+@ Security officer | 👮 | Laptops out, shoes off, please.
+@ Forgetful traveler | 😬 | Oh no, there is water in my bag.
+@@ X-ray machine | 📺 | Bags roll through one by one.
+security | /sɪˈkjʊrəti/ | n | an ninh | Security is very strict at this airport. | The checks that keep a place free from danger.
+customs | /ˈkʌstəmz/ | n | hải quan | We had nothing to declare at customs. | The place where officers check what you bring into a country.
+visa | /ˈviːzə/ | n | thị thực | Do I need a visa for Japan? | An official stamp that allows you to enter a country.
+immigration | /ˌɪmɪˈɡreɪʃn/ | n | khu xuất nhập cảnh | The line at immigration was very long. | The desk where officers examine your travel papers when you enter.
+declare | /dɪˈkler/ | v | khai báo | Do you have anything to declare? | To tell an officer officially what goods you are carrying.
+liquid | /ˈlɪkwɪd/ | n | chất lỏng | You cannot take liquids over 100 ml. | Something like water or oil that flows.
+allow | /əˈlaʊ/ | v | cho phép | Smoking is not allowed here. | To say that someone may do something.
+forbidden | /fərˈbɪdn/ | adj | bị cấm | Knives are forbidden on the plane. | Not permitted at all.
+identity | /aɪˈdentəti/ | n | danh tính | Please show proof of identity. | Who a person is: their name and details.
+search | /sɜːrtʃ/ | v | lục soát, tìm kiếm | The officer searched my bag. | To look carefully through a bag to find something.
+## On Board | 💺 | Rows of seats and a small round window.
+@ Flight attendant | 🧑‍✈️ | Chicken or fish?
+@ Nervous flyer | 😨 | Was that noise normal?
+@@ Safety card | 📄 | Pictures of exits and life vests.
+board the plane | /bɔːrd ðə pleɪn/ | phr | lên máy bay | We will board the plane in ten minutes. | To walk through the gate and find your seat on the aircraft.
+take off | /teɪk ɔːf/ | v | cất cánh | The plane will take off soon. | When a plane leaves the ground and goes up.
+land | /lænd/ | v | hạ cánh | We landed in Paris at noon. | When a plane comes down and touches the ground.
+window seat | /ˈwɪndoʊ siːt/ | n | ghế cạnh cửa sổ | I always ask for a window seat. | The place on a plane where you can look outside.
+aisle seat | /ˈaɪl siːt/ | n | ghế cạnh lối đi | An aisle seat gives you more leg room. | The place on a plane beside the walkway.
+crew | /kruː/ | n | phi hành đoàn | The crew welcomed us on board. | All the people working on a plane or ship.
+turbulence | /ˈtɜːrbjələns/ | n | sự nhiễu động | We hit some turbulence over the sea. | Sudden shaking of a plane caused by moving air.
+fasten | /ˈfæsn/ | v | thắt, cài | Please fasten your seat belts. | To close or join the two ends of a strap.
+overhead | /ˌoʊvərˈhed/ | adj | phía trên đầu | Put your bag in the overhead locker. | Above where you are sitting.
+jet lag | /ˈdʒet læɡ/ | n | mệt do lệch múi giờ | I had terrible jet lag after the trip. | Tiredness after flying across many time zones.
+## Arrivals | 🛬 | A crowd waits with signs and flowers.
+@ Taxi tout | 🚖 | Taxi? Good price, my friend!
+@ Waiting grandma | 👵 | My grandson is coming home today!
+@@ Baggage belt | 🔄 | Bags go round and round.
+baggage claim | /ˈbæɡɪdʒ kleɪm/ | n | khu nhận hành lý | Meet me at baggage claim. | The area where you collect your cases after flying.
+destination | /ˌdestɪˈneɪʃn/ | n | điểm đến | We reached our destination at midnight. | The place you are traveling to.
+delayed | /dɪˈleɪd/ | adj | bị hoãn | Our flight is delayed by two hours. | Later than the planned time.
+on time | /ɑːn taɪm/ | phr | đúng giờ | The plane landed on time. | Not late and not early.
+connection | /kəˈnekʃn/ | n | chuyến nối | I missed my connection in Singapore. | A second plane you must change to on a long trip.
+layover | /ˈleɪoʊvər/ | n | thời gian quá cảnh | We have a three-hour layover in Dubai. | A wait between two planes on one trip.
+abroad | /əˈbrɔːd/ | adv | ở nước ngoài | She studied abroad for two years. | In or to another country.
+domestic | /dəˈmestɪk/ | adj | nội địa | Domestic flights leave from terminal one. | Inside one country, not international.
+international | /ˌɪntərˈnæʃnəl/ | adj | quốc tế | It is an international airport. | Involving more than one country.
+pick up | /pɪk ʌp/ | v | đón | I will pick you up at the airport. | To go and collect someone in your car.
+
+# Grand Hotel | 🏨 | #fbbf24 | travel | A2 | Book a room, call room service and enjoy the pool.
+## The Lobby | 🛎️ | Marble floors and a golden bell.
+@ Front desk clerk | 🧑‍💼 | Welcome to the Grand Hotel!
+@ Bellboy | 🧳 | May I take your bags, madam?
+@@ Desk bell | 🛎️ | Ding!
+hotel | /hoʊˈtel/ | n | khách sạn | We stayed at a hotel near the beach. | A building where travelers pay to sleep.
+lobby | /ˈlɑːbi/ | n | sảnh | I will wait for you in the lobby. | The large entrance area of a big building with sofas.
+reception | /rɪˈsepʃn/ | n | quầy lễ tân | Leave your key at reception. | The front desk where guests arrive.
+check out | /tʃek aʊt/ | v | trả phòng | We have to check out by noon. | To pay and leave when your stay ends.
+stay | /steɪ/ | v | ở lại | We stayed for three nights. | To live in a place for a short time as a visitor.
+single room | /ˌsɪŋɡl ˈruːm/ | n | phòng đơn | I would like a single room, please. | A bedroom for one person.
+double room | /ˌdʌbl ˈruːm/ | n | phòng đôi | A double room costs 80 dollars. | A bedroom for two people with one big bed.
+key card | /ˈkiː kɑːrd/ | n | thẻ từ mở cửa | I lost my key card. | A plastic rectangle that opens your bedroom door.
+luggage cart | /ˈlʌɡɪdʒ kɑːrt/ | n | xe đẩy hành lý | The porter loaded the luggage cart. | A frame on wheels for moving many cases.
+porter | /ˈpɔːrtər/ | n | nhân viên khuân vác | The porter carried our bags upstairs. | A person whose job is to carry travelers' bags.
+## The Room | 🛏️ | Clean sheets and a view of the sea.
+@ Housekeeper | 🧹 | Shall I clean your room now?
+@ Tired traveler | 😴 | Finally, a real bed.
+@@ "Do not disturb" sign | 🚪 | It hangs on the door handle.
+room service | /ˈruːm sɜːrvɪs/ | n | dịch vụ phòng | We ordered dinner from room service. | Food brought to your bedroom when you phone for it.
+housekeeping | /ˈhaʊskiːpɪŋ/ | n | bộ phận dọn phòng | Call housekeeping for more towels. | The team that makes the beds and tidies the bedrooms.
+minibar | /ˈmɪnibɑːr/ | n | tủ lạnh mini | Drinks from the minibar are not free. | A small fridge with drinks and snacks in your bedroom.
+air conditioning | /ˈer kəndɪʃnɪŋ/ | n | hệ thống điều hòa | Does the room have air conditioning? | The system that keeps a building cool.
+sea view | /ˈsiː vjuː/ | n | tầm nhìn ra biển | We have a room with a sea view. | What you get from a window that faces the ocean.
+suite | /swiːt/ | n | phòng hạng sang | They stayed in a suite on the top floor. | A set of connected luxury rooms for one visitor.
+safety deposit box | /ˈseɪfti dɪpɑːzɪt bɑːks/ | n | két an toàn | Keep your passport in the safety deposit box. | A strong locked metal container with a code for valuables.
+disturb | /dɪˈstɜːrb/ | v | làm phiền | Please do not disturb. | To interrupt someone who is resting.
+complimentary | /ˌkɑːmplɪˈmentri/ | adj | miễn phí (kèm theo) | Breakfast is complimentary. | Given without charge as part of the service.
+wake-up call | /ˈweɪk ʌp kɔːl/ | n | cuộc gọi báo thức | I asked for a wake-up call at six. | The front desk phones you in the morning so you get up.
+## Hotel Services | 🏊 | A blue pool and a quiet spa.
+@ Pool attendant | 🏖️ | Towels are over there.
+@ Spa therapist | 💆‍♀️ | Just relax and close your eyes.
+@@ Service menu | 📋 | Laundry, massage, tours...
+swimming pool | /ˈswɪmɪŋ puːl/ | n | hồ bơi | The hotel has a swimming pool on the roof. | A large tank of water for people to swim in.
+spa | /spɑː/ | n | spa | She spent the afternoon at the spa. | A place for massage and beauty treatments.
+massage | /məˈsɑːʒ/ | n | mát-xa | I had a back massage. | Rubbing and pressing the body to relax the muscles.
+facilities | /fəˈsɪlətiz/ | n | tiện nghi, cơ sở vật chất | The hotel has excellent facilities. | The gym, pool and other services a building offers.
+buffet | /bəˈfeɪ/ | n | tiệc tự chọn | Breakfast is a buffet. | A meal where you take food yourself from a long table.
+Wi-Fi | /ˈwaɪ faɪ/ | n | mạng không dây | Is there free Wi-Fi in the room? | A wireless internet connection.
+laundry service | /ˈlɔːndri sɜːrvɪs/ | n | dịch vụ giặt là | The laundry service takes one day. | The staff wash and iron your clothes for a fee.
+shuttle | /ˈʃʌtl/ | n | xe đưa đón | A free shuttle goes to the airport. | A small bus that goes back and forth between two places.
+included | /ɪnˈkluːdɪd/ | adj | đã bao gồm | Breakfast is included in the price. | Already part of the total cost.
+extra | /ˈekstrə/ | adj | thêm, phụ | Can I have an extra pillow? | One more than usual.
+## Problems and Reviews | ⭐ | A guest book and a tablet for ratings.
+@ Hotel manager | 👨‍💼 | I am terribly sorry about that.
+@ Angry guest | 😠 | There is no hot water in my room!
+@@ Guest book | 📖 | Comments from around the world.
+book in advance | /bʊk ɪn ədˈvæns/ | phr | đặt trước | It is cheaper if you book in advance. | To reserve something weeks before you need it.
+fully booked | /ˌfʊli ˈbʊkt/ | adj | kín phòng | Sorry, we are fully booked this weekend. | Having no free rooms left.
+vacant | /ˈveɪkənt/ | adj | còn trống | Are there any vacant rooms? | Not being used by anyone.
+confirm | /kənˈfɜːrm/ | v | xác nhận | Please confirm your booking by email. | To say that an arrangement is definite.
+recommendation | /ˌrekəmenˈdeɪʃn/ | n | lời giới thiệu | We chose this hotel on a friend's recommendation. | Advice telling someone that a place is good.
+rating | /ˈreɪtɪŋ/ | n | xếp hạng | It has a five-star rating. | A score that shows how good something is.
+convenient | /kənˈviːniənt/ | adj | tiện lợi | The hotel is in a convenient location. | Easy to use or close to what you need.
+disappointing | /ˌdɪsəˈpɔɪntɪŋ/ | adj | đáng thất vọng | The breakfast was disappointing. | Not as good as you had hoped.
+upgrade | /ˈʌpɡreɪd/ | n | sự nâng hạng | We got a free upgrade to a suite. | A move to a better room or seat.
+hospitality | /ˌhɑːspɪˈtæləti/ | n | lòng hiếu khách | Thank you for your hospitality. | Friendly and generous treatment of visitors.
+
+# Holiday Island | 🏝️ | #2dd4bf | travel | A2 | Pack your bag, take photos and explore a sunny island.
+## Packing | 🧳 | An open suitcase on the bed.
+@ Travel buddy | 🧑‍🤝‍🧑 | You are taking how many shoes?
+@ Mom | 👩 | Did you pack your toothbrush?
+@@ Packing list | 📝 | Half the items are ticked.
+vacation | /veɪˈkeɪʃn/ | n | kỳ nghỉ | We are going on vacation next week. | Time away from work or school when you travel for fun.
+trip | /trɪp/ | n | chuyến đi | We took a trip to Da Lat. | A short visit to a place and back again.
+pack | /pæk/ | v | xếp đồ | I need to pack my suitcase tonight. | To put your clothes into a case before traveling.
+tourist | /ˈtʊrɪst/ | n | khách du lịch | The city is full of tourists in summer. | A person who visits a place for pleasure.
+guidebook | /ˈɡaɪdbʊk/ | n | sách hướng dẫn du lịch | The guidebook recommends this café. | A volume full of information for visitors to a country.
+camera | /ˈkæmərə/ | n | máy ảnh | I forgot to bring my camera. | A device for taking photos.
+souvenir | /ˌsuːvəˈnɪr/ | n | quà lưu niệm | I bought a souvenir for my mom. | A small object you bring home to remember a place.
+travel agency | /ˈtrævl eɪdʒənsi/ | n | công ty du lịch | We booked the tour at a travel agency. | A business that arranges flights and hotels for you.
+backpacker | /ˈbækpækər/ | n | khách du lịch ba lô | The hostel is full of backpackers. | A young person who goes around the world cheaply with one big bag.
+adventure | /ədˈventʃər/ | n | cuộc phiêu lưu | The trip was a real adventure. | An exciting and unusual experience.
+## Sightseeing | 🗿 | An old castle on a hill.
+@ Local guide | 🧑‍🏫 | This castle is 800 years old.
+@ Photographer tourist | 📸 | Just one more photo!
+@@ Entrance ticket | 🎟️ | Valid for one day.
+sightseeing | /ˈsaɪtsiːɪŋ/ | n | việc tham quan | We spent the day sightseeing. | Visiting the famous places of a city.
+tour | /tʊr/ | n | chuyến tham quan | We took a walking tour of the old town. | An organized visit around a place with someone explaining.
+attraction | /əˈtrækʃn/ | n | điểm thu hút khách | The temple is the main tourist attraction. | A famous place that many visitors come to see.
+castle | /ˈkæsl/ | n | lâu đài | A king lived in this castle. | A big stone home with towers, built for a king long ago.
+palace | /ˈpæləs/ | n | cung điện | The queen lives in a palace. | A huge, beautiful home for a royal family.
+monument | /ˈmɑːnjumənt/ | n | đài tưởng niệm | The monument honors the soldiers. | A structure built to remember an important person or event.
+ruins | /ˈruːɪnz/ | n | tàn tích | We visited the ruins of an old temple. | The broken parts that are left of a very old structure.
+explore | /ɪkˈsplɔːr/ | v | khám phá | Let us explore the old town. | To travel around a new place to learn about it.
+take a photo | /teɪk ə ˈfoʊtoʊ/ | phr | chụp ảnh | Can you take a photo of us? | To press the button on your phone to save a picture.
+famous | /ˈfeɪməs/ | adj | nổi tiếng | Ha Long Bay is famous around the world. | Known by a great many people.
+## The Beach | 🏖️ | White sand, blue water, coconut trees.
+@ Surfer | 🏄 | The waves are perfect today!
+@ Ice cream seller | 🍦 | Ice cream! Cold drinks!
+@@ Beach umbrella | ⛱️ | Striped red and white.
+beach | /biːtʃ/ | n | bãi biển | We spent the day at the beach. | A strip of sand beside the sea.
+sand | /sænd/ | n | cát | The kids are playing in the sand. | Tiny yellow grains that cover the seashore.
+tide | /taɪd/ | n | thủy triều | The tide is coming in. | The regular rise and fall of the sea each day.
+island | /ˈaɪlənd/ | n | hòn đảo | Phu Quoc is a beautiful island. | A piece of land with water all around it.
+coast | /koʊst/ | n | bờ biển | We drove along the coast. | The land along the edge of the sea.
+sunbathe | /ˈsʌnbeɪð/ | v | tắm nắng | She likes to sunbathe by the pool. | To lie outside to get a tan.
+swim | /swɪm/ | v | bơi | Can you swim? | To move through water using your arms and legs.
+dive | /daɪv/ | v | lặn | We dived to see the coral. | To go deep under the water.
+sunburn | /ˈsʌnbɜːrn/ | n | cháy nắng | I got a bad sunburn on my back. | Red, painful skin from staying outside too long.
+resort | /rɪˈzɔːrt/ | n | khu nghỉ dưỡng | We stayed at a beach resort. | A holiday place with hotels, pools and restaurants together.
+## Travel Tales | 📮 | A café where travelers write postcards.
+@ World traveler | 🧔 | I have been to sixty countries.
+@ Homesick tourist | 🥲 | I miss my mom's cooking.
+@@ Postcard rack | 🖼️ | Pictures of beaches and temples.
+postcard | /ˈpoʊstkɑːrd/ | n | bưu thiếp | I sent a postcard to my family. | A picture you mail with a short greeting on the back.
+foreigner | /ˈfɔːrənər/ | n | người nước ngoài | Many foreigners visit Hoi An. | A person from another country.
+overseas | /ˌoʊvərˈsiːz/ | adv | ở hải ngoại | She has worked overseas for years. | Across the ocean in another land.
+memorable | /ˈmemərəbl/ | adj | đáng nhớ | It was a memorable trip. | So special that you will never forget it.
+relaxing | /rɪˈlæksɪŋ/ | adj | thư giãn | We had a relaxing week by the sea. | Making you feel calm and rested.
+off-season | /ˌɔːf ˈsiːzn/ | n | mùa thấp điểm | Hotels are cheaper in the off-season. | The quiet months when few visitors come.
+peak season | /ˈpiːk siːzn/ | n | mùa cao điểm | Prices double in peak season. | The busiest months of the year for hotels.
+cruise | /kruːz/ | n | chuyến du thuyền | We went on a cruise in Ha Long Bay. | A holiday on a big ship that stops at several places.
+hitchhike | /ˈhɪtʃhaɪk/ | v | đi nhờ xe | He hitchhiked across Europe. | To get free rides from passing drivers by holding out your thumb.
+itinerary | /aɪˈtɪnəreri/ | n | lịch trình chuyến đi | Our itinerary includes three cities. | A day-by-day plan of where you will go.
+
+# Around the World | 🌍 | #34d399 | travel | A2 | Continents, oceans, mountains and the people who live there.
+## The Giant Globe | 🌐 | A globe as big as a house turns slowly.
+@ Geography teacher | 👩‍🏫 | Seven continents, five oceans.
+@ Sailor | ⚓ | I have crossed every one of them.
+@@ Spinning globe | 🌍 | Blue for water, green for land.
+world | /wɜːrld/ | n | thế giới | I want to travel around the world. | The planet we live on and everything on it.
+country | /ˈkʌntri/ | n | đất nước | Vietnam is a beautiful country. | A nation with its own government and borders.
+continent | /ˈkɑːntɪnənt/ | n | châu lục | Asia is the biggest continent. | One of the seven huge land masses of the Earth.
+ocean | /ˈoʊʃn/ | n | đại dương | The Pacific is the largest ocean. | An enormous body of salt water, like the Atlantic.
+sea | /siː/ | n | biển | We swam in the sea. | Salt water that covers most of the planet.
+capital | /ˈkæpɪtl/ | n | thủ đô | Hanoi is the capital of Vietnam. | The city where a nation's government sits.
+border | /ˈbɔːrdər/ | n | biên giới | We crossed the border into Laos. | The line that separates two nations.
+flag | /flæɡ/ | n | lá cờ | The flag of Vietnam is red with a yellow star. | A piece of colored cloth that is the symbol of a nation.
+nation | /ˈneɪʃn/ | n | quốc gia, dân tộc | The whole nation watched the match. | A large group of people with one government.
+nationality | /ˌnæʃəˈnæləti/ | n | quốc tịch | What is your nationality? | What your passport says you are: Vietnamese, French...
+## Land Forms | 🏔️ | A model with mountains, rivers and deserts.
+@ Mountaineer | 🧗‍♂️ | I have climbed the highest ones.
+@ River guide | 🛶 | Follow the water and you find the sea.
+@@ Relief map | 🗺️ | You can feel the mountains with your fingers.
+mountain | /ˈmaʊntn/ | n | núi | Fansipan is the highest mountain in Vietnam. | A very high piece of land, much bigger than a hill.
+hill | /hɪl/ | n | đồi | The house stands on a hill. | A raised piece of land, smaller than a mountain.
+valley | /ˈvæli/ | n | thung lũng | A river runs through the valley. | The low land between two mountains.
+river | /ˈrɪvər/ | n | con sông | The Mekong is a long river. | A long line of fresh water flowing to the sea.
+lake | /leɪk/ | n | hồ | We went fishing on the lake. | A large area of fresh water with land all around.
+desert | /ˈdezərt/ | n | sa mạc | It rarely rains in the desert. | A hot, dry place with sand and almost no rain.
+forest | /ˈfɔːrɪst/ | n | khu rừng | We walked through the forest. | A large area covered with trees.
+jungle | /ˈdʒʌŋɡl/ | n | rừng rậm nhiệt đới | Tigers live in the jungle. | A thick tropical woodland, hot and wet.
+waterfall | /ˈwɔːtərfɔːl/ | n | thác nước | We swam under a waterfall. | A place where a stream drops from a high cliff.
+cave | /keɪv/ | n | hang động | Son Doong is the world's largest cave. | A big hole in the side of a mountain or under the ground.
+## Peoples and Languages | 🗣️ | Flags and greetings in many languages.
+@ Interpreter | 🧑‍💼 | I speak nine languages.
+@ Pen pal | ✉️ | I write to friends in five countries.
+@@ Wall of hellos | 👋 | "Xin chào", "Hello", "Bonjour"...
+Asia | /ˈeɪʒə/ | n | châu Á | Vietnam is in Southeast Asia. | The continent where China, Japan and India are.
+Europe | /ˈjʊrəp/ | n | châu Âu | France is in Europe. | The continent where Germany, Italy and Spain are.
+Africa | /ˈæfrɪkə/ | n | châu Phi | Lions live in Africa. | The continent where Egypt, Kenya and Nigeria are.
+America | /əˈmerɪkə/ | n | châu Mỹ; nước Mỹ | He moved to America ten years ago. | The land Columbus reached in 1492; also a common name for the USA.
+English | /ˈɪŋɡlɪʃ/ | n | tiếng Anh | I am learning English. | The tongue of Shakespeare, used all over the planet.
+Vietnamese | /ˌviːetnəˈmiːz/ | n | tiếng Việt, người Việt | Vietnamese has six tones. | The tongue spoken in Hanoi and Ho Chi Minh City.
+Chinese | /ˌtʃaɪˈniːz/ | n | tiếng Trung, người Trung Quốc | Chinese is hard to write. | The tongue spoken in Beijing.
+Japanese | /ˌdʒæpəˈniːz/ | n | tiếng Nhật, người Nhật | She speaks Japanese fluently. | The tongue spoken in Tokyo.
+French | /frentʃ/ | n | tiếng Pháp, người Pháp | French is spoken in many countries. | The tongue spoken in Paris.
+Korean | /kəˈriːən/ | n | tiếng Hàn, người Hàn | I am learning Korean from dramas. | The tongue spoken in Seoul.
+## Global Life | 🤝 | People from everywhere share one long table.
+@ Diplomat | 🧑‍💼 | We have more in common than you think.
+@ Volunteer | 🙋‍♀️ | I teach English in a mountain village.
+@@ World clock | 🕰️ | Ten cities, ten different times.
+global | /ˈɡloʊbl/ | adj | toàn cầu | Climate change is a global problem. | Affecting the whole planet.
+region | /ˈriːdʒən/ | n | vùng, khu vực | This region is famous for its tea. | A large area of a nation with its own character.
+province | /ˈprɑːvɪns/ | n | tỉnh | Vietnam has many provinces. | One of the main administrative parts of a nation like Vietnam.
+countryside | /ˈkʌntrisaɪd/ | n | vùng nông thôn | I love the peace of the countryside. | Land with fields and farms, away from cities.
+urban | /ˈɜːrbən/ | adj | thuộc thành thị | Urban life is fast and busy. | Connected with cities.
+rural | /ˈrʊrəl/ | adj | thuộc nông thôn | She teaches in a rural school. | Connected with farms and villages.
+time zone | /ˈtaɪm zoʊn/ | n | múi giờ | Vietnam and Thailand share a time zone. | An area where all clocks show the same hour.
+immigrant | /ˈɪmɪɡrənt/ | n | người nhập cư | His parents were immigrants from Italy. | A person who comes to live permanently in a new nation.
+emigrate | /ˈemɪɡreɪt/ | v | di cư ra nước ngoài | They emigrated to Canada in 1990. | To leave your homeland to live somewhere else forever.
+hometown | /ˈhoʊmtaʊn/ | n | quê hương | My hometown is Hue. | The place where you were born and grew up.

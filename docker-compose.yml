@@ -1,0 +1,43 @@
+services:
+  db:
+    image: mysql:8.4
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: vocabworld
+      MYSQL_USER: vocab
+      MYSQL_PASSWORD: ${DB_PASSWORD:?Hãy đặt DB_PASSWORD trong file .env}
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:?Hãy đặt DB_ROOT_PASSWORD trong file .env}
+    command: --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci
+    volumes:
+      - dbdata:/var/lib/mysql
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h 127.0.0.1 -u root -p$$MYSQL_ROOT_PASSWORD --silent"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  api:
+    build: ./server
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      NODE_ENV: production
+      DB_HOST: db
+      DB_USER: vocab
+      DB_NAME: vocabworld
+      DB_PASSWORD: ${DB_PASSWORD}
+      EDITOR_KEY: ${EDITOR_KEY:-}
+      TRUST_PROXY: ${TRUST_PROXY:-1}
+
+  web:
+    build: ./web
+    restart: unless-stopped
+    depends_on:
+      - api
+    ports:
+      - "${WEB_PORT:-8080}:80"
+
+volumes:
+  dbdata:

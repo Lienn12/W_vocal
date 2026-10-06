@@ -1,0 +1,231 @@
+# Downtown | 🏙️ | #38bdf8 | travel | A1 | Find the bank, the park and the post office in the middle of the city.
+## Main Square | ⛲ | A fountain, pigeons and a clock tower.
+@ Tour guide | 🧑‍✈️ | Welcome to the heart of our city!
+@ Pigeon feeder | 🧓 | I come here every morning.
+@@ City map board | 🗺️ | A red dot says "You are here".
+city | /ˈsɪti/ | n | thành phố | Ho Chi Minh City is a big city. | A very large town with millions of people.
+town | /taʊn/ | n | thị trấn | I grew up in a small town. | A place bigger than a village but smaller than a metropolis.
+village | /ˈvɪlɪdʒ/ | n | ngôi làng | My grandparents live in a village. | A very small group of houses in the countryside.
+plaza | /ˈplɑːzə/ | n | quảng trường | Let us meet in the main plaza. | A big open public space in the center, surrounded by buildings.
+street | /striːt/ | n | đường phố | I live on a quiet street. | A public way in a town with houses on both sides.
+building | /ˈbɪldɪŋ/ | n | tòa nhà | That tall building is a hotel. | A structure with walls and a roof, like a house or tower.
+park | /pɑːrk/ | n | công viên | We had a picnic in the park. | A public green area with trees where children play.
+fountain | /ˈfaʊntn/ | n | đài phun nước | Kids are playing near the fountain. | Water shoots up into the air from it in a public place.
+statue | /ˈstætʃuː/ | n | bức tượng | There is a statue of a king in the square. | A figure of a person made of stone or metal.
+bridge | /brɪdʒ/ | n | cây cầu | We walked across the bridge. | A structure that lets you cross over a river.
+## Useful Places | 📮 | Each door has a different sign above it.
+@ Postal worker | 📬 | Next, please!
+@ Newcomer | 🧑 | I just moved here. Where is everything?
+@@ Street signs | 🪧 | Arrows point to every service.
+post office | /ˈpoʊst ɔːfɪs/ | n | bưu điện | I need to send a package at the post office. | The place where you mail letters and packages.
+police station | /pəˈliːs steɪʃn/ | n | đồn cảnh sát | He reported the theft at the police station. | The building where officers in uniform work.
+fire station | /ˈfaɪər steɪʃn/ | n | trạm cứu hỏa | The fire station is next to the school. | The building where red trucks with ladders wait.
+gas station | /ˈɡæs steɪʃn/ | n | trạm xăng | We stopped at a gas station. | The place where you fill up your car with fuel.
+bus stop | /ˈbʌs stɑːp/ | n | trạm xe buýt | Wait for me at the bus stop. | The place on the roadside where you wait for public transport.
+museum | /mjuˈziːəm/ | n | bảo tàng | The museum has old paintings. | A building where you look at old and valuable objects.
+cinema | /ˈsɪnəmə/ | n | rạp chiếu phim | Let us go to the cinema tonight. | A building where you watch films on a big screen.
+theater | /ˈθiːətər/ | n | nhà hát | We saw a play at the theater. | A building with a stage where actors perform plays.
+stadium | /ˈsteɪdiəm/ | n | sân vận động | The stadium holds 40,000 fans. | A huge place with seats around a sports field.
+zoo | /zuː/ | n | sở thú | We saw lions at the zoo. | A place where you can see wild animals in cages.
+## City Life | 🚦 | Traffic, noise and crowds.
+@ Commuter | 🧑‍💼 | Rush hour again!
+@ Street cleaner | 🧹 | This city never sleeps.
+@@ Traffic light | 🚥 | Red, yellow, green.
+traffic | /ˈtræfɪk/ | n | giao thông | The traffic is terrible this morning. | All the cars and bikes moving on the roads.
+noisy | /ˈnɔɪzi/ | adj | ồn ào | The city center is very noisy. | Full of loud sounds.
+pollution | /pəˈluːʃn/ | n | sự ô nhiễm | Air pollution is a big problem here. | Dirty air and water caused by cars and factories.
+modern | /ˈmɑːdərn/ | adj | hiện đại | The city has many modern buildings. | New and using the latest ideas.
+skyscraper | /ˈskaɪskreɪpər/ | n | tòa nhà chọc trời | New York is famous for its skyscrapers. | An extremely tall tower with fifty floors or more.
+sidewalk | /ˈsaɪdwɔːk/ | n | vỉa hè | Walk on the sidewalk, not on the road. | The raised path for people on foot beside a road.
+citizen | /ˈsɪtɪzn/ | n | công dân, người dân | The citizens voted for a new mayor. | A person who belongs to a country or lives in a town.
+suburb | /ˈsʌbɜːrb/ | n | vùng ngoại ô | They live in a quiet suburb. | An area of houses at the edge of a metropolis.
+downtown | /ˌdaʊnˈtaʊn/ | adv | ở trung tâm thành phố | I work downtown. | In the central business part of a metropolis.
+population | /ˌpɑːpjuˈleɪʃn/ | n | dân số | The city has a population of two million. | The number of people who live in a place.
+## Night in the City | 🌃 | Neon signs and street food smells.
+@ Street vendor | 🧑‍🍳 | Hot noodles! Come and get them!
+@ Night owl | 🦉 | The city is best after dark.
+@@ Neon sign | 💡 | It blinks "OPEN".
+night market | /ˈnaɪt mɑːrkɪt/ | n | chợ đêm | We ate at the night market. | An outdoor place with food and clothes stalls after dark.
+street food | /ˈstriːt fuːd/ | n | đồ ăn đường phố | Vietnam is famous for its street food. | Cheap, tasty meals sold from carts on the roadside.
+nightlife | /ˈnaɪtlaɪf/ | n | cuộc sống về đêm | This area has great nightlife. | Bars, clubs and entertainment after dark.
+bar | /bɑːr/ | n | quán bar | They met at a bar after work. | A place where adults go to have alcoholic drinks.
+club | /klʌb/ | n | câu lạc bộ | They danced at a club until 2 a.m. | A place with loud music where people go dancing late.
+lively | /ˈlaɪvli/ | adj | sôi động | It is a lively street full of cafés. | Full of energy, people and activity.
+streetlight | /ˈstriːtlaɪt/ | n | đèn đường | The streetlights come on at six. | A tall lamp beside the road.
+neighborhood | /ˈneɪbərhʊd/ | n | khu phố | This is a safe neighborhood. | The small area of a town around your home.
+local | /ˈloʊkl/ | adj | thuộc địa phương | Try the local food. | Belonging to the particular area where you are.
+stall | /stɔːl/ | n | quầy hàng, sạp | She has a fruit stall at the market. | A small open table where someone sells things outdoors.
+
+# Which Way? | 🧭 | #a3e635 | travel | A1 | Left, right, straight ahead: never get lost again.
+## The Crossroads | ✖️ | Four streets meet under a traffic light.
+@ Helpful local | 🙋‍♀️ | Are you looking for something?
+@ Lost tourist | 😵‍💫 | I have walked in circles for an hour.
+@@ Signpost | 🪧 | Four arrows, four directions.
+left | /left/ | adv | bên trái | Turn left at the bank. | The side of your body where your heart is.
+right | /raɪt/ | adv | bên phải | The shop is on the right. | The opposite side from your heart.
+straight ahead | /streɪt əˈhed/ | adv | thẳng phía trước | Go straight ahead for two blocks. | Forward, without turning.
+turn | /tɜːrn/ | v | rẽ | Turn right at the lights. | To change direction at a corner.
+cross | /krɔːs/ | v | băng qua | Cross the street carefully. | To go from one side of a road to the other.
+junction | /ˈdʒʌŋkʃn/ | n | giao lộ, chỗ giao nhau | Turn right at the next junction. | A general word for any point where a side road joins a main one, such as a T-shape.
+block | /blɑːk/ | n | dãy nhà, khối phố | The station is three blocks away. | The area of buildings between two streets.
+crossroads | /ˈkrɔːsroʊdz/ | n | ngã tư | Turn left at the crossroads. | A place where two roads meet and form an X.
+direction | /dəˈrekʃn/ | n | phương hướng | Which direction is the beach? | North, south, east or west.
+way | /weɪ/ | n | đường đi, lối | Can you tell me the way to the station? | The route you take to reach a place.
+## Where Is It? | 📍 | A street of small shops side by side.
+@ Shopkeeper | 🧑‍🦳 | The bakery? It is very close.
+@ Delivery rider | 🛵 | I am looking for number 42.
+@@ House numbers | 🔢 | Odd on one side, even on the other.
+next to | /ˈnekst tə/ | prep | bên cạnh | The bank is next to the post office. | Right beside something.
+opposite | /ˈɑːpəzɪt/ | prep | đối diện | The school is opposite the park. | On the other side of the street, facing something.
+between | /bɪˈtwiːn/ | prep | ở giữa (hai thứ) | The café is between the bank and the hotel. | In the middle of two things.
+behind | /bɪˈhaɪnd/ | prep | phía sau | The parking lot is behind the store. | At the back of something.
+in front of | /ɪn ˈfrʌnt əv/ | prep | phía trước | Meet me in front of the cinema. | Before the face of a building.
+near | /nɪr/ | prep | gần | Is there a bank near here? | Not far from something.
+far | /fɑːr/ | adv | xa | The airport is far from the city. | A long distance away.
+across | /əˈkrɔːs/ | prep | bên kia, ngang qua | The pharmacy is across the street. | On the other side of a road or river.
+around | /əˈraʊnd/ | prep | quanh | The shop is just around the corner. | Past the turn; in a circle about something.
+along | /əˈlɔːŋ/ | prep | dọc theo | Walk along the river. | Following the length of a road or river.
+## Up and Down | ⛰️ | A hill with steps and a tunnel below.
+@ Hiker | 🥾 | The view is worth the climb.
+@ Cyclist | 🚴‍♀️ | Wheee! Downhill is the best part!
+@@ Stone steps | 🪜 | One hundred of them.
+up | /ʌp/ | adv | lên | Go up the hill. | Toward a higher place.
+down | /daʊn/ | adv | xuống | Walk down the stairs. | Toward a lower place.
+over | /ˈoʊvər/ | prep | qua phía trên | The plane flew over the city. | Above and across something.
+under | /ˈʌndər/ | prep | bên dưới | The cat is under the table. | Below something.
+through | /θruː/ | prep | xuyên qua | The train goes through a tunnel. | In one side and out the other.
+beyond | /bɪˈjɑːnd/ | prep | phía bên kia, xa hơn | The school is just beyond the bridge. | On the farther side of something.
+toward | /tɔːrd/ | prep | về phía | She walked toward the door. | In the direction of something.
+away | /əˈweɪ/ | adv | xa ra, đi khỏi | The dog ran away. | To a different place, farther from here.
+north | /nɔːrθ/ | n | hướng bắc | Hanoi is in the north of Vietnam. | The top of a map.
+south | /saʊθ/ | n | hướng nam | Birds fly south in winter. | The bottom of a map.
+## Asking the Way | 🗣️ | A tourist office with free maps.
+@ Tourist officer | 💁 | Here, let me draw it for you.
+@ Backpacker | 🎒 | How long does it take on foot?
+@@ Free map | 🗺️ | Folded many times.
+east | /iːst/ | n | hướng đông | The sun rises in the east. | Where the sun comes up.
+west | /west/ | n | hướng tây | The sun sets in the west. | Where the sun goes down.
+follow | /ˈfɑːloʊ/ | v | đi theo | Follow me. I know the way. | To walk behind someone who knows the route.
+reach | /riːtʃ/ | v | đến được | We reached the hotel at midnight. | To finally get to a place.
+get lost | /ɡet lɔːst/ | phr | bị lạc | We got lost in the old town. | To not know where you are or how to go back.
+on foot | /ɑːn fʊt/ | phr | đi bộ | It is ten minutes on foot. | Walking, not by car or bus.
+shortcut | /ˈʃɔːrtkʌt/ | n | lối tắt | I know a shortcut through the park. | A quicker route than the usual one.
+route | /ruːt/ | n | tuyến đường | This is the fastest route to the airport. | The roads you take from A to B.
+landmark | /ˈlændmɑːrk/ | n | địa danh nổi bật | The tower is a famous landmark. | A famous building that helps you know where you are.
+location | /loʊˈkeɪʃn/ | n | vị trí | Send me your location. | The exact place where something is.
+
+# Wheels and Wings | 🚆 | #fb923c | travel | A1 | Buses, trains, boats and planes: choose how to get there.
+## The Road | 🛣️ | Engines roar past you.
+@ Bus driver | 🧑‍✈️ | Move to the back, please!
+@ Biker | 🏍️ | Two wheels are better than four.
+@@ Parking meter | 🅿️ | Insert coins here.
+car | /kɑːr/ | n | xe ô tô | My dad drives a blue car. | A vehicle with four wheels for a family.
+bus | /bʌs/ | n | xe buýt | I take the bus to school. | A long vehicle that carries many passengers along a fixed route.
+taxi | /ˈtæksi/ | n | xe taxi | Let us take a taxi to the airport. | A car with a driver you pay to take you somewhere.
+motorbike | /ˈmoʊtərbaɪk/ | n | xe máy | Most people in Hanoi ride a motorbike. | A vehicle with two wheels and an engine.
+bicycle | /ˈbaɪsɪkl/ | n | xe đạp | I ride my bicycle to work. | A vehicle with two wheels and pedals, with no engine.
+truck | /trʌk/ | n | xe tải | The truck is carrying sand. | A big, heavy vehicle for transporting goods.
+van | /væn/ | n | xe van, xe thùng nhỏ | A white van delivered the sofa. | A vehicle like a big box, smaller than a lorry, for deliveries.
+scooter | /ˈskuːtər/ | n | xe tay ga, xe trượt | She rides a scooter around town. | A light two-wheeled vehicle with a small engine and a flat floor.
+vehicle | /ˈviːəkl/ | n | phương tiện giao thông | No vehicles are allowed in the park. | Any machine that carries people on roads.
+wheel | /wiːl/ | n | bánh xe | A bicycle has two wheels. | A round thing that turns under a vehicle.
+## The Station | 🚉 | A whistle blows and doors slide shut.
+@ Station master | 👨‍✈️ | The 9:15 leaves from platform two.
+@ Commuter | 🧑‍💼 | I take the same train every day.
+@@ Departure board | 📟 | Times and platform numbers flip.
+train | /treɪn/ | n | tàu hỏa | The train leaves at six. | A long vehicle that runs on rails.
+subway | /ˈsʌbweɪ/ | n | tàu điện ngầm | I take the subway to work. | An underground railway in a big city.
+tram | /træm/ | n | tàu điện | The tram runs through the old town. | An electric vehicle that runs on rails in the street.
+station | /ˈsteɪʃn/ | n | nhà ga | I will meet you at the station. | The building where railway passengers get on and off.
+platform | /ˈplætfɔːrm/ | n | sân ga | The train leaves from platform three. | The raised area where you stand and wait beside the rails.
+railway | /ˈreɪlweɪ/ | n | đường sắt | A railway runs along the coast. | The metal tracks and the whole system of rail travel.
+passenger | /ˈpæsɪndʒər/ | n | hành khách | The bus had only five passengers. | A person riding in a vehicle who is not driving.
+fare | /fer/ | n | tiền vé xe | The bus fare is one dollar. | The money you pay for a ride on public transport.
+seat belt | /ˈsiːt belt/ | n | dây an toàn | Fasten your seat belt. | A strap that holds you safely in a car.
+carriage | /ˈkærɪdʒ/ | n | toa tàu | Our seats are in carriage five. | One of the connected cars that passengers sit in on rails.
+## Water and Air | ⛴️ | Waves on one side, a runway on the other.
+@ Captain | 🧑‍✈️ | All aboard!
+@ Seasick passenger | 🤢 | Are we there yet?
+@@ Life ring | 🛟 | Orange and white.
+boat | /boʊt/ | n | chiếc thuyền | We crossed the river by boat. | A small vehicle that floats on water.
+ship | /ʃɪp/ | n | con tàu | The ship sailed across the ocean. | A very large vessel that crosses the sea.
+ferry | /ˈferi/ | n | phà | We took the ferry to the island. | A vessel that carries cars and people across a river.
+plane | /pleɪn/ | n | máy bay | The plane landed on time. | A vehicle with wings that flies.
+helicopter | /ˈhelɪkɑːptər/ | n | trực thăng | A helicopter flew over the city. | An aircraft with spinning blades on top.
+port | /pɔːrt/ | n | cảng | The ship arrived at the port. | A place on the coast where vessels load and unload.
+sail | /seɪl/ | v | đi thuyền, ra khơi | We sailed around the bay. | To travel across water using the wind.
+fly | /flaɪ/ | v | bay | Birds fly south in winter. | To move through the air.
+float | /floʊt/ | v | nổi | Wood floats on water. | To stay on top of water and not go under.
+captain | /ˈkæptɪn/ | n | thuyền trưởng, cơ trưởng | The captain welcomed us on board. | The person in command of a vessel or aircraft.
+## Getting Around | 🚏 | A bus shelter on a rainy day.
+@ Regular rider | 🧑‍🦰 | The number 12 is always late.
+@ Ticket inspector | 🎫 | Tickets, please!
+@@ Bus pass | 💳 | A card with your photo.
+ride | /raɪd/ | v | đi (xe đạp, xe máy), cưỡi | I ride my bike to school. | To sit on a bike or a horse and travel.
+drive | /draɪv/ | v | lái xe | Can you drive a car? | To control a car with a steering wheel.
+catch | /kætʃ/ | v | bắt (xe), kịp | I need to catch the 7 a.m. bus. | To get on a bus or rail service in time.
+miss the bus | /mɪs ðə bʌs/ | phr | lỡ xe buýt | Hurry or you will miss the bus! | To arrive at the stop too late; it has already left.
+get on | /ɡet ɑːn/ | v | lên (xe) | We got on the bus at the market. | To step into a bus or onto a bike.
+get off | /ɡet ɔːf/ | v | xuống (xe) | Get off at the next stop. | To leave a bus when you reach your stop.
+transport | /ˈtrænspɔːrt/ | n | giao thông vận tải | Public transport is cheap here. | The system of buses, rail and other ways to move people.
+journey | /ˈdʒɜːrni/ | n | chuyến đi, hành trình | The journey takes three hours. | The act of going from one place to another, especially far.
+commute | /kəˈmjuːt/ | v | đi làm hằng ngày | I commute to work by train. | To go between home and your job every day.
+rush hour | /ˈrʌʃ aʊər/ | n | giờ cao điểm | Avoid driving during rush hour. | The busiest time on the roads, at about 8 a.m. and 5 p.m.
+
+# The Open Road | 🚗 | #f43f5e | travel | A2 | Learn to drive, read the signs and stay safe on the highway.
+## Driving School | 🚙 | A small car with an "L" on the roof.
+@ Driving instructor | 🧑‍🏫 | Mirror, signal, then move.
+@ Learner | 😰 | Which one is the brake again?
+@@ Learner plate | 🔰 | A big red "L".
+steering wheel | /ˈstɪrɪŋ wiːl/ | n | vô lăng | Keep both hands on the steering wheel. | The round thing a driver holds and turns.
+brake | /breɪk/ | n | cái phanh | Hit the brake! | The pedal you press to make a car stop.
+accelerate | /əkˈseləreɪt/ | v | tăng tốc | The car accelerated on the highway. | To go faster and faster.
+reverse | /rɪˈvɜːrs/ | v | lùi xe | Reverse slowly into the garage. | To make a car go backward.
+overtake | /ˌoʊvərˈteɪk/ | v | vượt (xe) | Do not overtake on a bend. | To pass a slower car in front of you.
+slow down | /sloʊ daʊn/ | v | giảm tốc độ | Slow down! There is a school here. | To reduce your speed.
+license | /ˈlaɪsns/ | n | bằng lái, giấy phép | I got my driving license at 18. | The official card that says you may drive.
+gear | /ɡɪr/ | n | số (xe) | Change to second gear. | First, second, third: the positions that control engine power.
+rearview mirror | /ˌrɪrvjuː ˈmɪrər/ | n | gương chiếu hậu | Check your rearview mirror before you turn. | A driver looks in it to see behind.
+horn | /hɔːrn/ | n | còi xe | He blew his horn at the cyclist. | The thing in a car that makes a loud "beep".
+## Signs and Rules | 🚸 | Signs in red, blue and yellow.
+@ Traffic officer | 👮‍♀️ | Do you know how fast you were going?
+@ Careful driver | 🧓 | I have never had a ticket in 40 years.
+@@ Stop sign | 🛑 | Red, with eight sides.
+traffic light | /ˈtræfɪk laɪt/ | n | đèn giao thông | Stop at the red traffic light. | A signal with red, yellow and green lamps.
+road sign | /ˈroʊd saɪn/ | n | biển báo giao thông | The road sign says "No parking". | A board on a pole that gives drivers information.
+speed limit | /ˈspiːd lɪmɪt/ | n | giới hạn tốc độ | The speed limit here is 50. | The maximum number of kilometers per hour allowed.
+crosswalk | /ˈkrɔːswɔːk/ | n | vạch sang đường | Always use the crosswalk. | White stripes on the road where people on foot can go over.
+pedestrian | /pəˈdestriən/ | n | người đi bộ | Watch out for pedestrians. | A person who is walking, not driving.
+lane | /leɪn/ | n | làn đường | Stay in the right lane. | One of the long strips a road is divided into by painted lines.
+pull over | /pʊl ˈoʊvər/ | v | tấp vào lề | The police told him to pull over. | To steer to the side of the road and stop.
+parking lot | /ˈpɑːrkɪŋ lɑːt/ | n | bãi đỗ xe | The parking lot is full. | A large area where many cars are left.
+fine | /faɪn/ | n | tiền phạt | I got a fine for speeding. | Money you must pay for breaking a rule.
+rule | /ruːl/ | n | quy tắc, luật lệ | You must follow the traffic rules. | A statement of what you must or must not do.
+## On the Highway | 🛣️ | A long straight road to the horizon.
+@ Truck driver | 🚚 | I have been driving for ten hours.
+@ Hitchhiker | 👍 | Going north?
+@@ Toll booth | 🎟️ | Pay here to continue.
+highway | /ˈhaɪweɪ/ | n | đường cao tốc | We drove on the highway for two hours. | A wide, fast main road between cities.
+road | /roʊd/ | n | con đường | This road leads to the beach. | A hard surface that cars travel on.
+tunnel | /ˈtʌnl/ | n | đường hầm | The road goes through a long tunnel. | A passage under a mountain or under the ground.
+roundabout | /ˈraʊndəbaʊt/ | n | vòng xuyến, bùng binh | Take the second exit at the roundabout. | A circle where several roads meet and cars go around.
+toll | /toʊl/ | n | phí đường bộ | You pay a toll to use this bridge. | Money you pay to use a certain fast road.
+traffic jam | /ˈtræfɪk dʒæm/ | n | tắc đường | We were stuck in a traffic jam. | A long line of cars that cannot move.
+fuel | /ˈfjuːəl/ | n | nhiên liệu | We are running out of fuel. | Gasoline or diesel that makes an engine run.
+gasoline | /ˈɡæsəliːn/ | n | xăng | The price of gasoline is going up. | The liquid you put in a car's tank; "petrol" in Britain.
+tank | /tæŋk/ | n | bình (xăng) | Fill up the tank before the trip. | The container in a car that holds its liquid energy.
+detour | /ˈdiːtʊr/ | n | đường vòng | We had to take a detour because of the roadworks. | A longer way around when the usual one is closed.
+## Trouble on the Road | ⚠️ | A car with its hood up and smoke rising.
+@ Tow truck driver | 🧑‍🔧 | Do not worry, I will get you home.
+@ Stranded driver | 🤦 | Of course it happens in the rain.
+@@ Warning triangle | 🔺 | Red and shiny.
+break down | /breɪk daʊn/ | v | bị hỏng (xe) | Our car broke down on the highway. | When a car suddenly stops working.
+flat tire | /ˌflæt ˈtaɪər/ | n | lốp xẹp | I got a flat tire on the way here. | A wheel with no air in its rubber.
+tire | /ˈtaɪər/ | n | lốp xe | The car needs new tires. | The thick rubber ring around a wheel.
+crash | /kræʃ/ | v | đâm, va chạm | The car crashed into a tree. | To hit something hard while driving.
+skid | /skɪd/ | v | trượt bánh | The car skidded on the ice. | To slide sideways on a wet or icy surface.
+tow | /toʊ/ | v | kéo xe | They towed my car to the garage. | To pull a broken car behind another one.
+puncture | /ˈpʌŋktʃər/ | n | lỗ thủng lốp | I got a puncture on my bike. | A small hole in rubber that lets the air out.
+headlight | /ˈhedlaɪt/ | n | đèn pha | Turn on your headlights at night. | One of the two big lamps at the front of a car.
+windshield | /ˈwɪndʃiːld/ | n | kính chắn gió | A stone cracked the windshield. | The big front glass of a car.
+honk | /hɑːŋk/ | v | bấm còi | Drivers honk all day in this city. | To make a "beep" noise with your car.

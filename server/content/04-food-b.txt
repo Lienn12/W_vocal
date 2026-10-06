@@ -1,0 +1,231 @@
+# Restaurant Night | 🍝 | #e879f9 | food | A2 | Book a table, choose your food and enjoy a night out.
+## At the Entrance | 🚪 | A host stands behind a small desk.
+@ Host | 🤵 | Good evening. Do you have a booking?
+@ Date | 💃 | I hope they have a table by the window.
+@@ Reservation book | 📖 | Names and times fill the page.
+restaurant | /ˈrestrɑːnt/ | n | nhà hàng | We went to an Italian restaurant. | A place where you sit down and pay for a cooked meal.
+reservation | /ˌrezərˈveɪʃn/ | n | sự đặt chỗ trước | I have a reservation for two at eight. | An arrangement to keep a table for you at a certain time.
+reserve | /rɪˈzɜːrv/ | v | đặt trước | I would like to reserve a table for two. | To call and ask them to keep a table for you.
+available | /əˈveɪləbl/ | adj | còn trống, có sẵn | Is this table available? | Free; nobody else is using it.
+guest | /ɡest/ | n | khách | The restaurant can seat eighty guests. | A person who is invited or who is visiting a hotel.
+seat | /siːt/ | n | chỗ ngồi | Is this seat taken? | A place where one person can sit.
+wait | /weɪt/ | v | chờ | We had to wait twenty minutes for a table. | To stay in one place until something happens.
+full | /fʊl/ | adj | đầy, kín chỗ; no | Sorry, the restaurant is full tonight. | Every table is taken and there is no space.
+empty | /ˈempti/ | adj | trống | The restaurant was almost empty. | With nobody and nothing inside.
+crowded | /ˈkraʊdɪd/ | adj | đông đúc | The place is always crowded on Saturdays. | Too many people are in a small space.
+## Choosing Food | 📜 | So many choices on one page.
+@ Waitress | 👩‍🍳 | Are you ready, or do you need more time?
+@ Picky eater | 🙅 | Is there anything without onions?
+@@ Specials board | 🪧 | Today's best dishes in chalk.
+starter | /ˈstɑːrtər/ | n | món khai vị | I will have the soup as a starter. | A small dish you eat first, before the big one.
+main course | /ˌmeɪn ˈkɔːrs/ | n | món chính | For my main course, I will have the fish. | The biggest and most important part of a dinner.
+side dish | /ˈsaɪd dɪʃ/ | n | món ăn kèm | Rice is a common side dish. | A small plate of vegetables served next to your steak.
+special | /ˈspeʃl/ | n | món đặc biệt trong ngày | Today's special is grilled salmon. | A dish offered only today, not on the usual list.
+choose | /tʃuːz/ | v | chọn | I cannot choose between pizza and pasta. | To decide which one you want.
+recommend | /ˌrekəˈmend/ | v | gợi ý, giới thiệu | What do you recommend? | The server says: "Try the fish. It is very good here."
+vegetarian | /ˌvedʒəˈteriən/ | n | người ăn chay | I am a vegetarian, so no meat for me. | A person who does not eat meat or fish.
+allergy | /ˈælərdʒi/ | n | dị ứng | I have a nut allergy. | A health problem: one kind of food makes your body react badly.
+steak | /steɪk/ | n | bít tết | How would you like your steak? | A thick flat piece of beef.
+beverage | /ˈbevərɪdʒ/ | n | đồ uống | Hot and cold beverages are on the last page. | A formal word for any drink.
+## At the Table | 🍷 | Candles, music and the sound of forks.
+@ Waiter Tom | 🧑‍🍳 | Is everything all right with your meal?
+@ Food critic | 🧐 | Hmm. Interesting.
+@@ Candle | 🕯️ | A small flame in the middle of the table.
+napkin | /ˈnæpkɪn/ | n | khăn ăn | Put the napkin on your lap. | A small cloth or paper for cleaning your mouth while you eat.
+tablecloth | /ˈteɪblklɔːθ/ | n | khăn trải bàn | The waiter changed the tablecloth. | A large cloth that covers the place where you eat.
+tray | /treɪ/ | n | cái khay | The waiter carried the drinks on a tray. | A flat board for carrying many plates and glasses.
+chef | /ʃef/ | n | đầu bếp | The chef here is famous. | The professional who cooks in a restaurant kitchen.
+service | /ˈsɜːrvɪs/ | n | dịch vụ, sự phục vụ | The food was good but the service was slow. | The help and attention the staff give to customers.
+complain | /kəmˈpleɪn/ | v | phàn nàn | He complained that his soup was cold. | To say you are unhappy about something.
+spill | /spɪl/ | v | làm đổ | Oh no, I spilled coffee on my shirt! | To let liquid fall out of a cup by accident.
+well-done | /ˌwel ˈdʌn/ | adj | chín kỹ | I like my steak well-done. | Cooked for a long time, with no pink inside.
+rare | /rer/ | adj | tái | He ordered his steak rare. | Cooked for a very short time so the beef is still red inside.
+refill | /ˈriːfɪl/ | n | lần rót thêm | Can I get a refill of my coffee? | A second cup of the same drink.
+## Time to Go | 💳 | The plates are empty and it is late.
+@ Manager | 👨‍💼 | I hope you enjoyed your evening.
+@ Friend | 🧑‍🦱 | Let me get this one. You paid last time.
+@@ Card machine | 💳 | Beep. Approved.
+check | /tʃek/ | n | hóa đơn (nhà hàng) | Can we have the check, please? | In the US, you ask for this paper at the end of the meal.
+split | /splɪt/ | v | chia (tiền) | Let us split the cost. | To divide the cost so each person gives half.
+service charge | /ˈsɜːrvɪs tʃɑːrdʒ/ | n | phí phục vụ | A ten percent service charge is added. | An extra percentage added to your total for the staff's work.
+cash | /kæʃ/ | n | tiền mặt | Do you take cash or only cards? | Money in coins and paper notes.
+credit card | /ˈkredɪt kɑːrd/ | n | thẻ tín dụng | Can I use my credit card here? | A small plastic rectangle from the bank that you buy things with.
+change | /tʃeɪndʒ/ | n | tiền thừa, tiền lẻ | Here is your change, sir. | The coins you get back when you give too much money.
+takeaway | /ˈteɪkəweɪ/ | n | đồ ăn mang về | Let us get a takeaway tonight. | A meal you buy at a restaurant but eat at home.
+include | /ɪnˈkluːd/ | v | bao gồm | Does the price include drinks? | To have something as one part of the total.
+tax | /tæks/ | n | thuế | The price does not include tax. | Extra money on top that goes to the government.
+satisfied | /ˈsætɪsfaɪd/ | adj | hài lòng | We were very satisfied with the meal. | Happy because you got what you wanted.
+
+# Taste Lab | 👅 | #facc15 | food | A2 | Sour, salty, crispy, creamy: find the right word for every bite.
+## The Flavor Table | 🍋 | Five small dishes, five different tastes.
+@ Scientist | 👩‍🔬 | Close your eyes and tell me what you taste.
+@ Brave kid | 🧒 | Ew! What was that?
+@@ Taste strips | 🧪 | Paper strips with different flavors.
+sour | /ˈsaʊər/ | adj | chua | Lemons are very sour. | The sharp taste of a lemon that makes your face twist.
+salty | /ˈsɔːlti/ | adj | mặn | This soup is too salty. | The taste of sea water.
+bitter | /ˈbɪtər/ | adj | đắng | Black coffee is bitter. | The strong taste of coffee with no sugar.
+spicy | /ˈspaɪsi/ | adj | cay | I cannot eat spicy food. | Full of chili; your mouth feels like it is on fire.
+bland | /blænd/ | adj | nhạt nhẽo | The soup is a bit bland. | Having almost no taste at all.
+flavor | /ˈfleɪvər/ | n | hương vị | Which flavor of ice cream do you want? | Chocolate, vanilla and strawberry are three different...
+mild | /maɪld/ | adj | nhẹ, không gắt | I prefer a mild curry. | Not strong or hot in taste; gentle.
+savory | /ˈseɪvəri/ | adj | mặn mà, đậm vị (không ngọt) | I prefer savory snacks to sweet ones. | Not sugary: the general word for the whole family of snacks like crackers, chips and nuts.
+plain | /pleɪn/ | adj | đơn giản, không thêm gì | I will have plain rice. | With nothing added: no sauce, no sugar, no topping.
+aftertaste | /ˈæftərteɪst/ | n | dư vị | The tea leaves a sweet aftertaste. | The flavor that stays in your mouth when the food is gone.
+## The Texture Bench | 🥨 | Things to bite, chew and crunch.
+@ Baker | 🧑‍🍳 | Listen to the sound when you bite it.
+@ Grandpa | 👴 | I cannot eat hard things anymore.
+@@ Sample plate | 🍘 | Small pieces of everything.
+crispy | /ˈkrɪspi/ | adj | giòn | I love crispy fried chicken. | Pleasantly hard and dry; it makes a noise when you bite fried food.
+crunchy | /ˈkrʌntʃi/ | adj | giòn sần sật | Fresh carrots are crunchy. | Firm and noisy when you chew, like a raw apple.
+soft | /sɔːft/ | adj | mềm | The bread is soft and warm. | Easy to press; not hard.
+hard | /hɑːrd/ | adj | cứng | This bread is as hard as a rock. | Very difficult to bite or press; like a stone.
+chewy | /ˈtʃuːi/ | adj | dai | The meat is too chewy. | You must move your teeth for a long time before you can swallow it.
+tender | /ˈtendər/ | adj | mềm (thịt) | The beef is so tender. | Beef that is cooked well and is very easy to cut.
+creamy | /ˈkriːmi/ | adj | mịn, béo như kem | This soup is thick and creamy. | Thick and smooth like yogurt.
+greasy | /ˈɡriːsi/ | adj | nhiều dầu mỡ | I do not like greasy food. | Covered with too much oil.
+sticky | /ˈstɪki/ | adj | dính | Sticky rice is popular in Vietnam. | Like honey or glue; it stays on your fingers.
+stale | /steɪl/ | adj | cũ, ôi (bánh mì) | This bread is stale. | Bread that is three days old, dry and no longer good.
+## How We Eat | 🍴 | A long table of eaters, fast and slow.
+@ Fast eater | 😤 | Done! What is next?
+@ Polite lady | 👒 | Please, do not talk with your mouth full.
+@@ Dinner bell | 🔔 | It rings when food is ready.
+eat | /iːt/ | v | ăn | We eat dinner at seven. | To put food in your mouth and swallow it.
+drink | /drɪŋk/ | v | uống | Drink more water. | To take liquid into your mouth and swallow it.
+bite | /baɪt/ | v | cắn | He bit into the apple. | To cut food with your teeth.
+chew | /tʃuː/ | v | nhai | Chew your food slowly. | To break food in your mouth with your teeth again and again.
+swallow | /ˈswɑːloʊ/ | v | nuốt | It hurts when I swallow. | To make food go from your mouth down your throat.
+lick | /lɪk/ | v | liếm | The child licked the ice cream. | To move your tongue over something.
+feed | /fiːd/ | v | cho ăn | She feeds the baby every three hours. | To give food to a baby or an animal.
+starving | /ˈstɑːrvɪŋ/ | adj | đói cồn cào | When is dinner? I am starving! | Extremely hungry.
+appetite | /ˈæpɪtaɪt/ | n | sự thèm ăn | I have no appetite when I am sick. | The feeling of wanting to eat.
+diet | /ˈdaɪət/ | n | chế độ ăn | She is on a diet to lose weight. | A plan to eat less or eat only some foods.
+## Good and Bad Food | 🥗 | One shelf is healthy, the other is not.
+@ Nutritionist | 👩‍⚕️ | You are what you eat.
+@ Teenager | 🧑‍🎤 | But burgers are so good!
+@@ Food label | 🏷️ | Small print on the back of a box.
+healthy | /ˈhelθi/ | adj | lành mạnh, tốt cho sức khỏe | Fruit is a healthy snack. | Good for your body.
+junk food | /ˈdʒʌŋk fuːd/ | n | đồ ăn vặt không lành mạnh | Kids eat too much junk food. | Chips, candy and soda: tasty but bad for you.
+fast food | /ˌfæst ˈfuːd/ | n | đồ ăn nhanh | We stopped for fast food on the highway. | Burgers and fries made and served in two minutes.
+organic | /ɔːrˈɡænɪk/ | adj | hữu cơ | I buy organic vegetables. | Grown without chemicals.
+vitamin | /ˈvaɪtəmɪn/ | n | vi-ta-min | Oranges have a lot of vitamin C. | A natural substance in food, named with letters like A, C and D.
+protein | /ˈproʊtiːn/ | n | chất đạm | Eggs are a good source of protein. | The part of meat, eggs and beans that builds your muscles.
+calorie | /ˈkæləri/ | n | ca-lo | This cake has 500 calories. | A unit that measures the energy in food.
+nutritious | /nuˈtrɪʃəs/ | adj | bổ dưỡng | Milk is very nutritious. | Full of the good things your body needs to grow.
+overeat | /ˌoʊvərˈiːt/ | v | ăn quá nhiều | I always overeat at parties. | To put far too much food in your stomach.
+skip | /skɪp/ | v | bỏ (bữa) | Never skip breakfast. | To not have a meal that you normally have.
+
+# Supermarket Run | 🛒 | #2dd4bf | food | A2 | Push a cart down every aisle and find everything on your list.
+## The Entrance | 🛒 | Carts in a row and a sliding door.
+@ Greeter | 🙋‍♂️ | Welcome! Carts are on your right.
+@ Busy dad | 👨‍👧 | I only have fifteen minutes.
+@@ Shopping list | 📝 | Milk, eggs, bread...
+supermarket | /ˈsuːpərmɑːrkɪt/ | n | siêu thị | I go to the supermarket once a week. | A very large shop selling food and things for the home.
+cart | /kɑːrt/ | n | xe đẩy hàng | Put the water in the cart. | A metal box on wheels that you push around a store.
+aisle | /aɪl/ | n | lối đi giữa các kệ | The bread is in aisle five. | The long passage between two rows of shelves.
+list | /lɪst/ | n | danh sách | I wrote a list of things to buy. | Names of things written one under another.
+customer | /ˈkʌstəmər/ | n | khách hàng | The store has many customers today. | A person who buys things in a shop.
+section | /ˈsekʃn/ | n | khu, quầy | The fruit section is near the door. | One part of a store where the same kind of thing is kept.
+entrance | /ˈentrəns/ | n | lối vào | I will meet you at the entrance. | The door where you go in.
+exit | /ˈeɡzɪt/ | n | lối ra | The exit is past the checkouts. | The door where you go out.
+push | /pʊʃ/ | v | đẩy | Push the door to open it. | To move something away from you with your hands.
+pull | /pʊl/ | v | kéo | Pull the door toward you. | To move something toward you with your hands.
+## On the Shelves | 🥫 | Tins, boxes and packets in neat rows.
+@ Shelf stacker | 🧑‍🔧 | Excuse me, I need to fill this shelf.
+@ Old lady | 👵 | Young man, can you reach the top one for me?
+@@ Price label | 🏷️ | Small numbers under each product.
+can | /kæn/ | n | lon, hộp kim loại | I bought a can of beans. | A closed metal container for soup or soda.
+jar | /dʒɑːr/ | n | cái lọ, hũ | Open the jar of jam. | A glass container with a wide top and a lid.
+box | /bɑːks/ | n | cái hộp | A box of cereal, please. | A container made of cardboard with four sides.
+packet | /ˈpækɪt/ | n | gói nhỏ | She opened a packet of biscuits. | A small paper or plastic bag of crackers or seeds.
+carton | /ˈkɑːrtn/ | n | hộp giấy (sữa, nước ép) | We need a carton of milk. | A cardboard container for juice or milk.
+bunch | /bʌntʃ/ | n | chùm, bó, nải | I bought a bunch of bananas. | A group of grapes or flowers growing together.
+dozen | /ˈdʌzn/ | n | một tá (12) | A dozen eggs, please. | Twelve of something.
+brand | /brænd/ | n | nhãn hiệu | Which brand of coffee do you buy? | The name a company gives to its products.
+product | /ˈprɑːdʌkt/ | n | sản phẩm | This store sells local products. | Something that is made to be sold.
+label | /ˈleɪbl/ | n | nhãn | Read the label before you buy. | A piece of paper on a bottle that tells you what is inside.
+## Fresh and Frozen | ❄️ | Cold air comes from the open freezers.
+@ Deli worker | 👩‍🍳 | Would you like to try a sample?
+@ Student | 🧑‍🎓 | What is the cheapest thing here?
+@@ Freezer | 🧊 | Glass doors covered in frost.
+dairy | /ˈderi/ | n | sản phẩm từ sữa | Milk and cheese are in the dairy section. | Foods made from milk.
+bakery | /ˈbeɪkəri/ | n | quầy bánh, tiệm bánh | The bakery smells so good. | The place that makes and sells bread and cakes.
+freezer | /ˈfriːzər/ | n | tủ đông | Put the ice cream in the freezer. | A machine that keeps food below zero degrees.
+sample | /ˈsæmpl/ | n | mẫu thử | Try a free sample of this cheese. | A small free piece that lets you test something before buying.
+weigh | /weɪ/ | v | cân | Please weigh these apples. | To find out how heavy something is.
+kilo | /ˈkiːloʊ/ | n | ki-lô-gam | Two kilos of potatoes, please. | One thousand grams.
+expiry date | /ɪkˈspaɪəri deɪt/ | n | hạn sử dụng | Check the expiry date on the milk. | The day printed on a package after which the food is not safe.
+canned | /kænd/ | adj | đóng hộp | I keep some canned fish at home. | Kept in a closed metal container so it lasts for years.
+cereal | /ˈsɪriəl/ | n | ngũ cốc ăn sáng | I eat cereal with milk. | A breakfast food from grains, eaten in a bowl with milk.
+grocery | /ˈɡroʊsəri/ | n | hàng tạp hóa, thực phẩm | I need to do some grocery shopping. | The food and small things for the home that you buy every week.
+## The Checkout | 🧾 | Beep, beep, beep goes the scanner.
+@ Checkout clerk | 👩‍💼 | Do you need a bag?
+@ Shopper in line | 🧔 | This line is not moving at all.
+@@ Scanner | 📟 | A red light reads the codes.
+checkout | /ˈtʃekaʊt/ | n | quầy thanh toán | There is a long line at the checkout. | The place in a store where you pay.
+queue | /kjuː/ | n | hàng người xếp hàng | We stood in a queue for ten minutes. | A line of people waiting for their turn.
+scan | /skæn/ | v | quét (mã) | The clerk scans each item. | To pass a product over a red light to read its code.
+barcode | /ˈbɑːrkoʊd/ | n | mã vạch | The machine cannot read this barcode. | Black and white lines printed on every package.
+plastic bag | /ˌplæstɪk ˈbæɡ/ | n | túi ni lông | I do not need a plastic bag. | A thin, light thing from the store used to carry food home.
+total | /ˈtoʊtl/ | n | tổng cộng | The total is 45 dollars. | The final number when all the amounts are added.
+coupon | /ˈkuːpɑːn/ | n | phiếu giảm giá | I have a coupon for free coffee. | A small piece of paper that lets you pay less.
+bargain | /ˈbɑːrɡən/ | n | món hời | This jacket was a real bargain. | Something good that you bought for very little money.
+afford | /əˈfɔːrd/ | v | đủ tiền mua | I cannot afford a new car. | To have enough money to buy something.
+item | /ˈaɪtəm/ | n | món hàng | This line is for ten items or less. | One single thing on a list or in a cart.
+
+# Faces and Looks | 🧑‍🦰 | #f9a8d4 | people | A1 | Tall or short, curly or straight: describe how people look.
+## The Portrait Studio | 🖼️ | An artist is painting people's faces.
+@ Portrait painter | 👨‍🎨 | Sit still, please. I am painting your face.
+@ Model | 💁‍♀️ | Please make me look pretty.
+@@ Easel | 🎨 | A half-finished painting.
+hair | /her/ | n | tóc | She has long black hair. | It grows on top of your head.
+beard | /bɪrd/ | n | râu quai nón | My uncle has a long beard. | Hair that grows on a man's chin and cheeks.
+mustache | /ˈmʌstæʃ/ | n | ria mép | He has a thin mustache. | Hair that grows between a man's nose and mouth.
+curly | /ˈkɜːrli/ | adj | xoăn | The baby has curly hair. | Hair that grows in many small circles, not flat lines.
+wavy | /ˈweɪvi/ | adj | gợn sóng | She has long wavy hair. | Hair with soft curves like the sea.
+blond | /blɑːnd/ | adj | vàng hoe | The little boy has blond hair. | A light yellow hair color.
+bald | /bɔːld/ | adj | hói | My grandfather is bald. | Having no hair on the head.
+fringe | /frɪndʒ/ | n | tóc mái | She cut her fringe too short. | Short hair that hangs over your forehead.
+ponytail | /ˈpoʊniteɪl/ | n | tóc đuôi ngựa | She wears her hair in a ponytail. | Long hair tied together at the back of the head.
+wig | /wɪɡ/ | n | tóc giả | The actor wore a white wig. | False hair you put on your head.
+## The Height Chart | 📏 | Lines on the wall show how tall you are.
+@ Nurse | 👩‍⚕️ | Stand straight against the wall, please.
+@ Basketball player | ⛹️ | I have to bend to get through doors.
+@@ Height chart | 📏 | Numbers up to two meters.
+tall | /tɔːl/ | adj | cao | My brother is very tall. | A basketball player's body is usually like this.
+slim | /slɪm/ | adj | mảnh mai | She is tall and slim. | Thin in a way that looks nice and healthy.
+overweight | /ˌoʊvərˈweɪt/ | adj | thừa cân | The doctor said I am a little overweight. | Heavier than is healthy.
+skinny | /ˈskɪni/ | adj | gầy gò | He was a skinny kid. | Too thin; you can almost see the bones.
+strong | /strɔːŋ/ | adj | khỏe mạnh | He is strong enough to lift the sofa. | Able to carry very heavy things.
+weak | /wiːk/ | adj | yếu | I felt weak after the illness. | Having little power in your body.
+height | /haɪt/ | n | chiều cao | What is your height? | How many centimeters you measure from feet to head.
+weight | /weɪt/ | n | cân nặng | I want to lose some weight. | How many kilos your body is.
+muscular | /ˈmʌskjələr/ | adj | cơ bắp | The swimmer has muscular arms. | Having big, hard arms and legs from the gym.
+medium | /ˈmiːdiəm/ | adj | trung bình | He is of medium height. | Not big and not small; in the middle.
+## The Beauty Counter | 💄 | Mirrors with lights all around.
+@ Makeup artist | 💅 | Everyone is beautiful in their own way.
+@ Shy teen | 🧑 | I do not like this spot on my nose.
+@@ Hand mirror | 🪞 | Small and round.
+beautiful | /ˈbjuːtɪfl/ | adj | xinh đẹp | What a beautiful smile! | Very, very nice to look at; used for women, flowers and views.
+handsome | /ˈhænsəm/ | adj | đẹp trai | The actor is tall and handsome. | Good-looking; the word usually used for a man.
+pretty | /ˈprɪti/ | adj | xinh xắn | Your daughter is so pretty. | Nice to look at in a soft, sweet way; usually for girls.
+ugly | /ˈʌɡli/ | adj | xấu xí | The monster in the story is ugly. | Very unpleasant to look at.
+cute | /kjuːt/ | adj | dễ thương | What a cute puppy! | Small and lovely, like a baby animal.
+young | /jʌŋ/ | adj | trẻ | She is too young to drive. | Having lived only a few years.
+old | /oʊld/ | adj | già, cũ | My dog is very old now. | Having lived for many, many years.
+freckles | /ˈfreklz/ | n | tàn nhang | She has freckles on her nose. | Many small brown dots on the skin of the face.
+wrinkle | /ˈrɪŋkl/ | n | nếp nhăn | Grandma has wrinkles around her eyes. | A small line in the skin of an old face.
+scar | /skɑːr/ | n | vết sẹo | He has a scar on his knee. | A mark left on the skin after a cut gets better.
+## The Costume Party | 🎭 | Everyone looks different tonight.
+@ Party host | 🥳 | I did not recognize you at all!
+@ Detective | 🕵️ | I never forget a face.
+@@ Mask | 🎭 | It hides half of a face.
+look like | /lʊk laɪk/ | v | trông giống | You look like your mother. | To have a similar face to another person.
+recognize | /ˈrekəɡnaɪz/ | v | nhận ra | I did not recognize him with his new haircut. | To know who someone is because you have seen them before.
+describe | /dɪˈskraɪb/ | v | miêu tả | Can you describe the man you saw? | To say what a person or thing is like.
+appearance | /əˈpɪrəns/ | n | ngoại hình | Do not judge people by their appearance. | The way a person looks on the outside.
+similar | /ˈsɪmələr/ | adj | tương tự | The two sisters look very similar. | Almost the same but not exactly.
+different | /ˈdɪfrənt/ | adj | khác | You look different today. | Not the same.
+attractive | /əˈtræktɪv/ | adj | hấp dẫn, ưa nhìn | He is an attractive young man. | Pleasant to look at, so that people notice and like you.
+elegant | /ˈelɪɡənt/ | adj | thanh lịch | She looked elegant in her black dress. | Graceful and stylish in clothes and movement.
+casual | /ˈkæʒuəl/ | adj | giản dị, thường ngày | You can wear casual clothes to the party. | Relaxed and not formal, like jeans and a T-shirt.
+smart | /smɑːrt/ | adj | bảnh bao; thông minh | You look very smart in that suit. | Clean, neat and well dressed for an important meeting.

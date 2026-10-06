@@ -1,0 +1,231 @@
+# Fruit and Veg Market | 🍎 | #84cc16 | food | A1 | Fill your bag with fresh fruit and vegetables at the morning market.
+## The Fruit Stall | 🍊 | Sweet smells and bright colors.
+@ Fruit seller | 👩‍🌾 | Fresh fruit! Picked this morning!
+@ Hungry kid | 🧒 | Can I taste one, please?
+@@ Fruit crate | 📦 | A wooden box full of fruit.
+apple | /ˈæpl/ | n | quả táo | I eat an apple every day. | A round red or green fruit that grows on trees and is crunchy.
+banana | /bəˈnænə/ | n | quả chuối | Monkeys love bananas. | A long yellow fruit that you peel.
+lime | /laɪm/ | n | quả chanh xanh | Squeeze some lime into the soup. | A small, round, green citrus, very sour, common in Vietnam.
+grape | /ɡreɪp/ | n | quả nho | Wine is made from grapes. | A small round purple or green fruit that grows in bunches.
+mango | /ˈmæŋɡoʊ/ | n | quả xoài | This mango is very sweet. | A tropical fruit, yellow inside, with one big flat seed.
+watermelon | /ˈwɔːtərmelən/ | n | quả dưa hấu | We ate cold watermelon at the beach. | A very big fruit, green outside and red inside with black seeds.
+pineapple | /ˈpaɪnæpl/ | n | quả dứa, thơm | Do you like pineapple on pizza? | A tropical fruit with rough skin and pointed leaves on top.
+strawberry | /ˈstrɔːberi/ | n | quả dâu tây | I love strawberry ice cream. | A small red heart-shaped fruit with tiny seeds on its skin.
+lemon | /ˈlemən/ | n | quả chanh vàng | Add some lemon to your tea. | A sour yellow fruit.
+coconut | /ˈkoʊkənʌt/ | n | quả dừa | We drank water from a coconut. | A hard, brown, hairy fruit with white meat and water inside.
+## More Fruit | 🍑 | The stall at the back has rare fruit.
+@ Old farmer | 👨‍🌾 | These come from my own garden.
+@ Chef | 👩‍🍳 | I need fruit for a dessert tonight.
+@@ Scale | ⚖️ | It shows the weight in kilos.
+peach | /piːtʃ/ | n | quả đào | The peach is soft and juicy. | A soft, round fruit with fuzzy pink-yellow skin and a big stone.
+pear | /per/ | n | quả lê | She cut the pear in half. | A sweet green fruit that is wide at the bottom and narrow at the top.
+cherry | /ˈtʃeri/ | n | quả anh đào | There is a cherry on top of the cake. | A small, round, dark red fruit with a long stem.
+plum | /plʌm/ | n | quả mận | The plum tree is full of fruit. | A small, smooth purple fruit with a stone inside.
+papaya | /pəˈpaɪə/ | n | quả đu đủ | Papaya is good for your stomach. | A long tropical fruit, orange inside, full of small black seeds.
+avocado | /ˌævəˈkɑːdoʊ/ | n | quả bơ | I put avocado on my toast. | A green, creamy fruit with dark skin and one huge round seed.
+ripe | /raɪp/ | adj | chín | Wait until the bananas are ripe. | Ready to eat, soft and sweet.
+juicy | /ˈdʒuːsi/ | adj | mọng nước | These oranges are really juicy. | Full of liquid that runs down your chin when you bite.
+peel | /piːl/ | v | gọt vỏ, bóc vỏ | Peel the banana before you eat it. | To take the skin off a fruit.
+seed | /siːd/ | n | hạt | Do not eat the seeds. | The small hard part inside a fruit that can grow into a new plant.
+## The Vegetable Stall | 🥕 | Green leaves still wet with water.
+@ Vegetable seller | 🧑‍🌾 | Everything is one dollar a bunch!
+@ Grandma | 👵 | I need vegetables for soup.
+@@ Vegetable basket | 🧺 | Carrots and leaves poke out.
+carrot | /ˈkærət/ | n | củ cà rốt | Rabbits like to eat carrots. | A long orange vegetable that grows under the ground.
+potato | /pəˈteɪtoʊ/ | n | củ khoai tây | French fries are made from potatoes. | A round brown vegetable from under the ground, used to make chips.
+tomato | /təˈmeɪtoʊ/ | n | quả cà chua | Add a tomato to the salad. | A soft, round, red vegetable used to make ketchup.
+onion | /ˈʌnjən/ | n | củ hành tây | Cutting an onion makes me cry. | A round vegetable with many layers that makes your eyes water.
+garlic | /ˈɡɑːrlɪk/ | n | tỏi | Fry the garlic first. | A small white bulb with a very strong smell, used in cooking.
+cabbage | /ˈkæbɪdʒ/ | n | bắp cải | She made soup with cabbage. | A big round ball of thick green leaves.
+cucumber | /ˈkjuːkʌmbər/ | n | dưa chuột | Slice a cucumber for the salad. | A long green vegetable, cool and watery inside.
+pumpkin | /ˈpʌmpkɪn/ | n | quả bí ngô | We made soup from a big pumpkin. | A big, round, orange vegetable you see at Halloween.
+corn | /kɔːrn/ | n | ngô, bắp | We ate grilled corn at the fair. | Tall plant with rows of small yellow seeds on a cob.
+mushroom | /ˈmʌʃruːm/ | n | nấm | I like mushroom soup. | It looks like a little umbrella and grows in dark, wet places.
+## Green and Fresh | 🥬 | Herbs and leaves fill the air with smells.
+@ Herb lady | 👩‍🦳 | Smell this! It is wonderful in soup.
+@ Vegetarian | 🧑 | I eat only plants.
+@@ Spray bottle | 💦 | It keeps the leaves fresh.
+lettuce | /ˈletɪs/ | n | rau xà lách | Put some lettuce in the sandwich. | Soft green leaves that are the main part of most salads.
+spinach | /ˈspɪnɪtʃ/ | n | rau chân vịt, cải bó xôi | Spinach is full of iron. | Dark green leaves that made a cartoon sailor strong.
+pepper | /ˈpepər/ | n | ớt chuông; hạt tiêu | I like red pepper in my salad. | A hollow red, yellow or green vegetable shaped like a bell.
+chili | /ˈtʃɪli/ | n | quả ớt | This soup has too much chili. | A small red vegetable that burns your mouth.
+bean | /biːn/ | n | hạt đậu | We had rice and beans for lunch. | A small seed that grows in a long pod.
+pea | /piː/ | n | đậu Hà Lan | The baby does not like peas. | A very small, round, green seed that grows in a pod.
+ginger | /ˈdʒɪndʒər/ | n | gừng | Ginger tea is good for a cold. | A brown root with a hot, spicy taste, used in tea when you are sick.
+vegetable | /ˈvedʒtəbl/ | n | rau củ | Eat your vegetables! | Carrots, cabbage and onions are all kinds of...
+raw | /rɔː/ | adj | sống, chưa nấu | You can eat carrots raw. | Not cooked at all.
+rotten | /ˈrɑːtn/ | adj | thối, hỏng | Throw away that rotten apple. | Old, soft, smelly and no longer safe to eat.
+
+# The Pantry | 🥖 | #f97316 | food | A1 | Meat, fish, bread, rice and everything else you need for a meal.
+## The Butcher | 🥩 | Cold air and a long glass counter.
+@ Butcher | 🧔 | What can I cut for you today?
+@ Customer | 👩 | I am cooking for ten people tonight.
+@@ Meat counter | 🧊 | Everything is kept very cold.
+meat | /miːt/ | n | thịt | I do not eat much meat. | Food that comes from the bodies of animals.
+beef | /biːf/ | n | thịt bò | We had beef noodle soup. | Food that comes from a cow.
+pork | /pɔːrk/ | n | thịt lợn | She fried some pork with garlic. | Food that comes from a pig.
+chicken | /ˈtʃɪkɪn/ | n | thịt gà, con gà | I would like fried chicken, please. | Food from a farm bird that says "cluck".
+lamb | /læm/ | n | thịt cừu non | Roast lamb is popular in spring. | Food that comes from a young sheep.
+sausage | /ˈsɔːsɪdʒ/ | n | xúc xích | He grilled a sausage for breakfast. | A long tube of chopped pork, used in a hot dog.
+ham | /hæm/ | n | giăm bông | A ham and cheese sandwich, please. | Thin pink slices of salted pig leg, common in sandwiches.
+bacon | /ˈbeɪkən/ | n | thịt xông khói | I love eggs and bacon. | Thin, salty strips of pig that you fry until crispy for breakfast.
+bone | /boʊn/ | n | xương | The dog is chewing a bone. | The hard white part inside a piece of chicken that you do not eat.
+fat | /fæt/ | n | mỡ | Cut the fat off the steak. | The soft white part on the edge of a steak.
+## The Fish Stall | 🐟 | Ice, salt water and the smell of the sea.
+@ Fisherman | 🧑‍🦳 | I caught these at five this morning.
+@ Cat | 🐈‍⬛ | Meow... just one small one?
+@@ Ice box | 🧊 | Crushed ice keeps things fresh.
+fish | /fɪʃ/ | n | cá | We had grilled fish for dinner. | An animal that swims in water and that people often eat.
+shrimp | /ʃrɪmp/ | n | con tôm | I ordered fried rice with shrimp. | A small pink sea animal with a curved body and a thin shell.
+crab | /kræb/ | n | con cua | A crab walks sideways. | A sea animal with a hard shell, ten legs and two big claws.
+squid | /skwɪd/ | n | con mực | Grilled squid is a popular street food. | A soft sea animal with ten arms that shoots black ink.
+salmon | /ˈsæmən/ | n | cá hồi | Salmon is good for your heart. | A large fish with pink-orange meat.
+tuna | /ˈtuːnə/ | n | cá ngừ | I made a tuna sandwich. | A very large sea fish often sold in small round cans.
+seafood | /ˈsiːfuːd/ | n | hải sản | This town is famous for its seafood. | Any food that comes from the ocean.
+shell | /ʃel/ | n | vỏ (sò, ốc, trứng) | She collects shells on the beach. | The hard outside cover of an egg or a sea snail.
+oyster | /ˈɔɪstər/ | n | con hàu | He ate six raw oysters. | A sea animal in a rough gray cover that can make a pearl.
+frozen | /ˈfroʊzn/ | adj | đông lạnh | I bought some frozen peas. | Kept so cold that it has become hard like ice.
+## The Bakery Shelf | 🍞 | Warm bread just out of the oven.
+@ Baker | 👨‍🍳 | Careful, it is still hot!
+@ Schoolgirl | 👧 | One loaf for my mom, please.
+@@ Bread basket | 🥖 | Long loaves stand inside.
+bread | /bred/ | n | bánh mì | I eat bread and butter for breakfast. | A basic food baked from flour and water; you slice it for toast.
+rice | /raɪs/ | n | cơm, gạo | We eat rice every day. | Small white grains that are the main food in Asia.
+noodles | /ˈnuːdlz/ | n | mì, phở, bún | I had a bowl of noodles for lunch. | Long thin strips of dough that you eat in soup with chopsticks.
+pasta | /ˈpɑːstə/ | n | mì Ý | She cooked pasta with tomato sauce. | Italian food made from flour, like spaghetti.
+flour | /ˈflaʊər/ | n | bột mì | You need flour to make a cake. | White powder made from wheat, used for baking.
+egg | /eɡ/ | n | quả trứng | I had a boiled egg this morning. | An oval thing from a hen with a yellow center.
+butter | /ˈbʌtər/ | n | bơ (sữa) | Spread butter on your toast. | A soft yellow fat made from milk that you put on toast.
+cheese | /tʃiːz/ | n | phô mai | Mice like cheese. | A solid yellow food made from milk, often on pizza.
+loaf | /loʊf/ | n | ổ bánh mì | Buy a loaf of bread on your way home. | One whole piece of bread before you cut it.
+slice | /slaɪs/ | n | lát, miếng mỏng | Would you like a slice of cake? | One thin flat piece cut from a bigger piece of food.
+## Jars and Bottles | 🫙 | A dark shelf of jars, bottles and bags.
+@ Shopkeeper | 🧑‍🦱 | A good cook needs a full shelf.
+@ Student cook | 🧑‍🎓 | I only know how to make instant food.
+@@ Spice rack | 🧂 | Small jars in a row.
+salt | /sɔːlt/ | n | muối | This soup needs more salt. | White grains from the sea that you shake onto food.
+sugar | /ˈʃʊɡər/ | n | đường | Do you take sugar in your coffee? | White or brown grains that make tea sweet.
+oil | /ɔɪl/ | n | dầu ăn | Fry the onions in a little oil. | A thick yellow liquid used for frying.
+sauce | /sɔːs/ | n | nước sốt | The pasta comes with tomato sauce. | A thick liquid you pour over food to add flavor.
+fish sauce | /ˈfɪʃ sɔːs/ | n | nước mắm | Vietnamese food often uses fish sauce. | A salty brown liquid, famous in Vietnamese cooking.
+vinegar | /ˈvɪnɪɡər/ | n | giấm | Add a spoon of vinegar to the salad. | A sour liquid used on salads and for pickling.
+honey | /ˈhʌni/ | n | mật ong | I put honey in my tea. | A sweet, thick, golden liquid made by bees.
+jam | /dʒæm/ | n | mứt | I like strawberry jam on bread. | A sweet spread made from cooked fruit.
+spice | /spaɪs/ | n | gia vị | Cinnamon is my favorite spice. | A powder from dried plants that gives food a strong flavor.
+nut | /nʌt/ | n | quả hạch, hạt | Squirrels hide nuts for winter. | A dry fruit inside a hard shell, like an almond.
+
+# Drinks and Snacks | 🧋 | #22d3ee | food | A1 | Something to drink, something sweet and something crunchy.
+## The Juice Bar | 🥤 | Blenders buzz and ice clinks.
+@ Bartender | 🧑‍🍳 | What would you like to drink?
+@ Jogger | 🏃‍♀️ | I need something cold, quickly!
+@@ Blender | 🌀 | It mixes fruit in seconds.
+juice | /dʒuːs/ | n | nước ép | A glass of apple juice, please. | A drink made by pressing fruit.
+milk | /mɪlk/ | n | sữa | Babies drink milk. | A white drink that comes from cows.
+tea | /tiː/ | n | trà | Would you like a cup of tea? | A hot drink made from dried leaves and boiling water.
+coffee | /ˈkɔːfi/ | n | cà phê | I need a coffee to wake up. | A dark, bitter drink made from roasted beans.
+soda | /ˈsoʊdə/ | n | nước ngọt có ga | Too much soda is bad for your teeth. | A sweet drink full of bubbles, like cola.
+smoothie | /ˈsmuːði/ | n | sinh tố | I made a banana smoothie. | A thick cold drink of fruit blended with milk or yogurt.
+lemonade | /ˌleməˈneɪd/ | n | nước chanh | Cold lemonade is perfect in summer. | A drink made from lemons, sugar and cold water.
+mineral water | /ˈmɪnərəl wɔːtər/ | n | nước khoáng | A bottle of mineral water, please. | Clean drinking liquid from the ground, sold in bottles.
+ice | /aɪs/ | n | đá, băng | Do you want ice in your drink? | Hard, cold cubes you put in a glass.
+straw | /strɔː/ | n | ống hút | She drinks her juice with a straw. | A thin tube you use to suck a drink from a glass.
+## The Snack Shelf | 🍿 | Bags that crackle and boxes that rattle.
+@ Movie fan | 🧑 | I cannot watch a film without a snack.
+@ Shop owner | 👨‍🦲 | The salty things are on the left.
+@@ Vending machine | 🎰 | Put in a coin and press a button.
+snack | /snæk/ | n | đồ ăn vặt | I have a snack at four o'clock. | A small amount of food you eat between meals.
+chips | /tʃɪps/ | n | khoai tây chiên lát | He ate a whole bag of chips. | Very thin, crunchy fried slices of potato sold in a bag.
+popcorn | /ˈpɑːpkɔːrn/ | n | bỏng ngô | We always buy popcorn at the cinema. | White, light food you eat at the movies; it jumps in the pot.
+cookie | /ˈkʊki/ | n | bánh quy | Grandma baked chocolate cookies. | A small, flat, round sweet baked thing.
+cracker | /ˈkrækər/ | n | bánh quy giòn (mặn) | I eat crackers with cheese. | A thin, dry, salty biscuit.
+peanut | /ˈpiːnʌt/ | n | đậu phộng, lạc | He is allergic to peanuts. | A small nut that grows under the ground in a soft shell.
+sandwich | /ˈsænwɪtʃ/ | n | bánh mì kẹp | I made a cheese sandwich for lunch. | Two slices of bread with meat or cheese between them.
+hamburger | /ˈhæmbɜːrɡər/ | n | bánh mì kẹp thịt bò | A hamburger and fries, please. | A round bun with a flat piece of beef inside.
+pizza | /ˈpiːtsə/ | n | bánh pizza | Let us order a pizza tonight. | A flat round Italian bread with cheese and tomato on top.
+French fries | /ˌfrentʃ ˈfraɪz/ | n | khoai tây chiên que | I like French fries with ketchup. | Long thin pieces of potato cooked in hot oil.
+## The Sweet Shop | 🍬 | Jars of candy shine like jewels.
+@ Candy maker | 👩‍🍳 | One piece is never enough!
+@ Dentist | 🧑‍⚕️ | Hmm. I am only looking.
+@@ Candy jar | 🍭 | Every color you can imagine.
+candy | /ˈkændi/ | n | kẹo | Too much candy is bad for your teeth. | Small sweet things made of sugar that children love.
+chocolate | /ˈtʃɔːklət/ | n | sô cô la | She gave me a box of chocolates. | A sweet brown food made from cocoa.
+ice cream | /ˈaɪs kriːm/ | n | kem | Vanilla ice cream is my favorite. | A frozen sweet dessert you lick from a cone.
+cake | /keɪk/ | n | bánh ngọt | We had cake at the birthday party. | A soft sweet food you put candles on for a birthday.
+pie | /paɪ/ | n | bánh nướng nhân | Mom baked an apple pie. | A round baked dish with pastry around fruit.
+pudding | /ˈpʊdɪŋ/ | n | bánh pudding | We had chocolate pudding for dessert. | A soft, creamy sweet dish you eat with a spoon.
+donut | /ˈdoʊnʌt/ | n | bánh vòng | He had a donut and coffee. | A sweet fried ring with a hole in the middle.
+yogurt | /ˈjoʊɡərt/ | n | sữa chua | I eat yogurt with fruit. | A thick, slightly sour food made from milk, eaten cold from a small cup.
+dessert | /dɪˈzɜːrt/ | n | món tráng miệng | What is for dessert? | Something sweet that you eat at the end of a meal.
+cream | /kriːm/ | n | kem tươi | Strawberries and cream are delicious. | The thick white fatty part of milk, whipped on top of a cake.
+## Tea Time | 🫖 | Small cups, a pot and a quiet afternoon.
+@ Tea master | 🧓 | Good tea needs patience.
+@ Guest | 👱 | It smells wonderful in here.
+@@ Teapot | 🫖 | Steam rises from the top.
+cup | /kʌp/ | n | cái tách | I would like a cup of coffee. | A small round container with a handle for hot drinks.
+glass | /ɡlæs/ | n | cái ly | Can I have a glass of water? | A container with no handle, clear, for cold drinks.
+bottle | /ˈbɑːtl/ | n | cái chai | He drank a whole bottle of water. | A tall container with a narrow neck for liquids.
+mug | /mʌɡ/ | n | cốc có quai | This is my favorite coffee mug. | A big, heavy cup with straight sides and no saucer.
+pour | /pɔːr/ | v | rót, đổ | Pour some tea for the guests. | To make liquid flow from a pot into a cup.
+sip | /sɪp/ | v | nhấp, uống từng ngụm nhỏ | She sipped her hot tea slowly. | To drink only a very small amount at a time.
+stir | /stɜːr/ | v | khuấy | Stir the coffee with a spoon. | To move a spoon around in a drink to mix it.
+boil | /bɔɪl/ | v | đun sôi | Boil the water before you drink it. | To heat water until it bubbles at 100 degrees.
+hot | /hɑːt/ | adj | nóng | Be careful, the soup is hot. | Having a high temperature; it can burn you.
+cold | /koʊld/ | adj | lạnh | I like cold drinks in summer. | Having a low temperature, like ice.
+
+# Cooking Class | 👩‍🍳 | #ef4444 | food | A2 | Chop, fry and bake with the chef. Learn the tools and the actions.
+## Kitchen Tools | 🔪 | Shiny tools hang on the wall.
+@ Chef Anna | 👩‍🍳 | First rule: know your tools.
+@ New student | 🧑‍🎓 | I have never cooked before!
+@@ Tool wall | 🍴 | Everything has its hook.
+knife | /naɪf/ | n | con dao | Be careful with that knife. | A sharp tool used for cutting food.
+fork | /fɔːrk/ | n | cái nĩa | Eat your salad with a fork. | A tool with three or four points for picking up food.
+spoon | /spuːn/ | n | cái thìa | I need a spoon for my soup. | A tool with a small round end for eating soup.
+chopsticks | /ˈtʃɑːpstɪks/ | n | đôi đũa | Can you eat with chopsticks? | Two thin sticks used for eating in East Asia.
+plate | /pleɪt/ | n | cái đĩa | Put the food on a plate. | A flat round dish you eat from.
+bowl | /boʊl/ | n | cái bát | A bowl of rice, please. | A deep round dish for soup or rice.
+pan | /pæn/ | n | cái chảo | Heat some oil in a pan. | A flat metal dish with a long handle, used for frying.
+pot | /pɑːt/ | n | cái nồi | The soup is in a big pot. | A deep metal container with a lid for boiling.
+lid | /lɪd/ | n | cái nắp | Put the lid on the pot. | The cover on top of a pot or a box.
+cutting board | /ˈkʌtɪŋ bɔːrd/ | n | cái thớt | Chop the onions on the cutting board. | A flat piece of wood on which you chop vegetables.
+## Prep Station | 🥗 | Vegetables wait to be cut.
+@ Sous-chef | 🧑‍🍳 | Small pieces, please. All the same size.
+@ Classmate | 👩 | My eyes! These onions!
+@@ Mixing bowl | 🥣 | A big metal bowl.
+cut | /kʌt/ | v | cắt | Cut the cake into eight pieces. | To divide food with a knife.
+chop | /tʃɑːp/ | v | băm, thái nhỏ | Chop the garlic into small pieces. | To hit food with a knife many times to make small pieces.
+mix | /mɪks/ | v | trộn | Mix the eggs and the sugar. | To put different foods together so they become one.
+add | /æd/ | v | thêm vào | Add a little salt. | To put one more thing into the pot.
+measure | /ˈmeʒər/ | v | đo, đong | Measure 200 grams of flour. | To find out how much flour you have, with a cup or a scale.
+grate | /ɡreɪt/ | v | bào, nạo | Grate some cheese over the pasta. | To rub cheese on a metal tool to make tiny pieces.
+squeeze | /skwiːz/ | v | vắt | Squeeze a lemon over the fish. | To press a lemon hard to get the juice out.
+spread | /spred/ | v | phết | Spread jam on the bread. | To put butter all over the bread with a knife.
+ingredient | /ɪnˈɡriːdiənt/ | n | nguyên liệu | Flour is the main ingredient in bread. | One of the foods you need to make a dish.
+recipe | /ˈresəpi/ | n | công thức nấu ăn | Can you give me the recipe for this cake? | A list of steps that tells you how to cook a dish.
+## The Hot Stove | 🔥 | Flames, steam and sizzling sounds.
+@ Grill master | 👨‍🍳 | Do not walk away from the fire!
+@ Food blogger | 🤳 | This will look great in my video.
+@@ Timer | ⏲️ | It rings when the food is done.
+fry | /fraɪ/ | v | chiên, rán | Fry the egg in a little oil. | To cook food in hot oil in a pan.
+bake | /beɪk/ | v | nướng (bánh) | I bake bread every Sunday. | To cook bread or cake in an oven.
+grill | /ɡrɪl/ | v | nướng (vỉ) | We grill meat in the garden in summer. | To cook meat over an open fire on metal bars.
+roast | /roʊst/ | v | quay, nướng (thịt) | Roast the chicken for one hour. | To cook a whole chicken in the oven.
+steam | /stiːm/ | v | hấp | Steam the fish with ginger. | To cook food above boiling water, not in it.
+heat | /hiːt/ | v | làm nóng | Heat the milk but do not boil it. | To make something warm.
+burn | /bɜːrn/ | v | làm cháy | Do not burn the toast again! | To cook food too long so it turns black.
+melt | /melt/ | v | làm tan chảy | Melt the butter in a pan. | To make something solid become liquid with heat.
+simmer | /ˈsɪmər/ | v | ninh, đun nhỏ lửa | Let the soup simmer for an hour. | To cook slowly on low heat with small bubbles.
+stove | /stoʊv/ | n | bếp lò | Turn off the stove when you finish. | The kitchen machine with fire or heat on top for pots.
+## Serving Up | 🍽️ | Time to taste what you made.
+@ Head judge | 🧑‍⚖️ | Let me see your plate.
+@ Hungry friend | 😋 | Is it ready yet? I am starving!
+@@ Serving tray | 🍱 | Ready to carry to the table.
+taste | /teɪst/ | v | nếm | Taste the soup. Does it need salt? | To put a little food in your mouth to check the flavor.
+serve | /sɜːrv/ | v | dọn (món), phục vụ | Serve the fish with rice. | To give food to people at the table.
+prepare | /prɪˈper/ | v | chuẩn bị | I will prepare lunch for everyone. | To make food ready before the guests come.
+meal | /miːl/ | n | bữa ăn | Dinner is my biggest meal of the day. | Breakfast, lunch or dinner.
+dish | /dɪʃ/ | n | món ăn | Pho is a famous Vietnamese dish. | One kind of cooked food on a menu.
+portion | /ˈpɔːrʃn/ | n | khẩu phần | The portions here are very large. | The amount of food for one person.
+soup | /suːp/ | n | súp, canh | Hot soup is good on a cold day. | A hot liquid food you eat with a spoon.
+salad | /ˈsæləd/ | n | món rau trộn | I will have a green salad. | A cold dish of raw mixed vegetables.
+homemade | /ˌhoʊmˈmeɪd/ | adj | nhà làm | I love homemade bread. | Not bought in a shop but cooked in your own kitchen.
+tasty | /ˈteɪsti/ | adj | ngon miệng | That was a really tasty meal. | Having a very good flavor.

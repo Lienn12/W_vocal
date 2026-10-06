@@ -1,0 +1,231 @@
+# Weather Station | ⛅ | #38bdf8 | nature | A1 | Sun, rain, wind and snow: read the sky like a forecaster.
+## The Sunny Deck | ☀️ | A bright deck with a clear blue sky.
+@ Forecaster | 🧑‍🔬 | Today will be warm and bright.
+@ Sunbather | 😎 | Perfect day to do nothing.
+@@ Thermometer | 🌡️ | The red line climbs.
+weather | /ˈweðər/ | n | thời tiết | What is the weather like today? | Sun, rain, wind and temperature outside on a given day.
+sun | /sʌn/ | n | mặt trời | The sun is shining. | The big star that gives us daylight and warmth.
+sunny | /ˈsʌni/ | adj | có nắng | It is a sunny day. | With bright daylight and no clouds.
+warm | /wɔːrm/ | adj | ấm áp | It is warm enough to eat outside. | Pleasantly between cool and hot.
+sky | /skaɪ/ | n | bầu trời | The sky is clear tonight. | The blue space above your head outdoors.
+cloudless | /ˈklaʊdləs/ | adj | không một gợn mây | It was a cloudless night with many stars. | With a completely empty blue above.
+sunshine | /ˈsʌnʃaɪn/ | n | ánh nắng | We enjoyed the sunshine on the beach. | The bright rays and warmth on a nice day.
+ray | /reɪ/ | n | tia (nắng) | A ray of sun came through the window. | A narrow line of brightness coming from our star.
+dry season | /ˈdraɪ siːzn/ | n | mùa khô | The dry season lasts from November to April. | The months with almost no rainfall in tropical places.
+Celsius | /ˈselsiəs/ | n | độ C | Water boils at 100 degrees Celsius. | The scale on which water turns solid at 0 and boils at 100.
+## The Rain Room | 🌧️ | Drops drum on a tin roof.
+@ Rain lover | ☔ | I love the sound of it.
+@ Soaked cyclist | 🚴 | I forgot my coat again.
+@@ Rain gauge | 🧪 | It collects every drop.
+rain | /reɪn/ | n | mưa | The rain stopped at noon. | Water that falls in drops from clouds.
+rainy | /ˈreɪni/ | adj | có mưa | It is a rainy day. Take your coat. | With lots of water falling from above.
+cloud | /klaʊd/ | n | đám mây | There is not a cloud in the sky. | A white or gray mass floating high above.
+cloudy | /ˈklaʊdi/ | adj | nhiều mây | It is cloudy but dry. | When you cannot see the blue above because of gray masses.
+storm | /stɔːrm/ | n | cơn bão | The storm broke many trees. | Very bad conditions with strong wind and heavy rainfall.
+thunder | /ˈθʌndər/ | n | sấm | The dog is afraid of thunder. | The loud "boom" in the sky during bad conditions.
+lightning | /ˈlaɪtnɪŋ/ | n | tia chớp | Lightning hit the tree. | A bright flash of electricity in the sky.
+drizzle | /ˈdrɪzl/ | n | mưa phùn | A light drizzle fell all morning. | Very fine, light drops falling slowly for hours.
+puddle | /ˈpʌdl/ | n | vũng nước | The children jumped in the puddles. | A small pool of water on the road after it pours.
+rainbow | /ˈreɪnboʊ/ | n | cầu vồng | Look! A rainbow! | An arch of seven colors in the sky.
+## The Wind Tunnel | 🌬️ | Flags snap and hats fly away.
+@ Kite flyer | 🪁 | Perfect day for a kite!
+@ Old sailor | 🧓 | There is a big one coming. I feel it.
+@@ Weather vane | 🐓 | It spins to show the direction.
+wind | /wɪnd/ | n | gió | A cold wind is blowing. | Moving air that you feel on your face.
+windy | /ˈwɪndi/ | adj | có gió to | It is too windy for an umbrella. | With a lot of fast-moving air.
+breeze | /briːz/ | n | gió nhẹ | A cool breeze came from the sea. | A light, gentle movement of air.
+blow | /bloʊ/ | v | thổi | The wind blew my hat off. | What moving air does.
+typhoon | /taɪˈfuːn/ | n | bão nhiệt đới | The typhoon hit the coast at night. | A huge, violent tropical tempest in Asia.
+fog | /fɔːɡ/ | n | sương mù | I could not see the road in the fog. | A thick cloud near the ground that hides everything.
+humid | /ˈhjuːmɪd/ | adj | ẩm ướt, oi | Summers here are hot and humid. | Warm, with a lot of water in the air.
+forecast | /ˈfɔːrkæst/ | n | dự báo | The forecast says rain tomorrow. | A statement about what the sky will do in the coming days.
+flood | /flʌd/ | n | lũ lụt | The flood destroyed many homes. | When water covers streets and houses after days of downpour.
+drought | /draʊt/ | n | hạn hán | The drought killed the crops. | A very long time with no rainfall at all.
+## The Ice Cave | ❄️ | Your breath turns white.
+@ Snowman builder | ⛄ | He needs a carrot for a nose.
+@ Shivering tourist | 🥶 | I have never been so cold!
+@@ Icicles | 🧊 | They hang like glass knives.
+snow | /snoʊ/ | n | tuyết | The children played in the snow. | Soft white flakes that fall in winter.
+snowy | /ˈsnoʊi/ | adj | có tuyết | It was a cold, snowy morning. | Covered with white flakes.
+cool | /kuːl/ | adj | mát mẻ | The evenings are cool here. | A little cold in a pleasant way.
+freezing | /ˈfriːzɪŋ/ | adj | lạnh cóng | It is freezing outside. | Extremely cold; below zero.
+frost | /frɔːst/ | n | sương giá | There was frost on the grass. | A thin white layer of ice on the ground on a cold morning.
+freeze | /friːz/ | v | đóng băng | Water freezes at zero degrees. | To turn from liquid into ice.
+melt away | /melt əˈweɪ/ | v | tan biến | The snowman melted away by noon. | To slowly disappear as ice turns to water.
+shiver | /ˈʃɪvər/ | v | run rẩy (vì lạnh) | She was shivering in the wind. | To shake because you are very cold.
+hail | /heɪl/ | n | mưa đá | Hail damaged the cars. | Small hard balls of ice that fall from the sky.
+climate | /ˈklaɪmət/ | n | khí hậu | Vietnam has a tropical climate. | The usual conditions of sun and rainfall in a place over many years.
+
+# Four Seasons Valley | 🍂 | #f97316 | nature | A2 | Walk through spring, summer, autumn and winter in one valley.
+## Spring Meadow | 🌸 | Flowers open and birds sing.
+@ Beekeeper | 🧑‍🌾 | The bees are busy again.
+@ Picnic family | 🧺 | What a lovely day!
+@@ Cherry tree | 🌸 | Covered in pink.
+season | /ˈsiːzn/ | n | mùa | Which season do you like best? | One of the four parts of the year.
+spring | /sprɪŋ/ | n | mùa xuân | Flowers bloom in spring. | The time of year after winter when plants begin to grow.
+bloom | /bluːm/ | v | nở hoa | The roses bloom in May. | When a flower opens.
+grass | /ɡræs/ | n | cỏ | The grass is wet with rain. | The short green plant that covers a lawn.
+field | /fiːld/ | n | cánh đồng | Cows are eating in the field. | An open area of land for crops or animals.
+meadow | /ˈmedoʊ/ | n | đồng cỏ | The meadow is full of wild flowers. | An open piece of land covered in wild flowers and green blades.
+nature | /ˈneɪtʃər/ | n | thiên nhiên | I love being out in nature. | Everything in the world not made by people: trees, animals, rivers.
+fresh air | /ˌfreʃ ˈer/ | n | không khí trong lành | Let us go out and get some fresh air. | What you breathe outdoors, away from smoke.
+grow | /ɡroʊ/ | v | mọc, lớn lên | Rice grows well here. | To get bigger and taller, like a plant.
+mild weather | /ˌmaɪld ˈweðər/ | n | thời tiết ôn hòa | We had mild weather all week. | Days that are neither hot nor cold.
+## Summer Lake | 🏞️ | Kids jump off a wooden pier.
+@ Swimmer | 🏊‍♀️ | Come in! The water is perfect!
+@ Fisherman | 🎣 | Shh, you are scaring the fish.
+@@ Wooden pier | 🪵 | Warm under your feet.
+summer | /ˈsʌmər/ | n | mùa hè | We go to the beach every summer. | The hottest time of the year.
+heat wave | /ˈhiːt weɪv/ | n | đợt nắng nóng | The heat wave lasted two weeks. | Many days in a row of extremely high temperatures.
+shade | /ʃeɪd/ | n | bóng râm | Let us sit in the shade. | A cool, darker area under a tree where the rays do not reach.
+pond | /pɑːnd/ | n | cái ao | Ducks swim on the pond. | A small body of still water, smaller than a lake.
+stream | /striːm/ | n | dòng suối | We drank from a mountain stream. | A very small, narrow river.
+shore | /ʃɔːr/ | n | bờ (hồ, biển) | We walked along the shore. | The land at the edge of a lake or sea.
+outdoor | /ˈaʊtdɔːr/ | adj | ngoài trời | I love outdoor sports. | Happening outside, not in a building.
+sunset | /ˈsʌnset/ | n | hoàng hôn | We watched the sunset from the beach. | The time in the evening when the sky turns red and day ends.
+sunrise | /ˈsʌnraɪz/ | n | bình minh | We got up early to see the sunrise. | The time in the early morning when day begins.
+scenery | /ˈsiːnəri/ | n | phong cảnh | The scenery in Sa Pa is amazing. | The natural things you see in the countryside.
+## Autumn Forest | 🍁 | Red and gold leaves cover the path.
+@ Mushroom picker | 🍄 | Do not eat the red ones!
+@ Squirrel | 🐿️ | Busy, busy. Winter is coming.
+@@ Pile of leaves | 🍂 | Perfect for jumping in.
+autumn | /ˈɔːtəm/ | n | mùa thu | Leaves turn yellow in autumn. | The time of year between summer and winter.
+leaf | /liːf/ | n | chiếc lá | A leaf fell on my head. | One of the flat green parts of a tree.
+branch | /bræntʃ/ | n | cành cây | A bird sat on the branch. | An arm of a tree.
+root | /ruːt/ | n | rễ cây | The roots go deep into the ground. | The part of a plant that is under the soil.
+trunk | /trʌŋk/ | n | thân cây | He carved his name on the trunk. | The thick main stem of a tree.
+wood | /wʊd/ | n | gỗ | The table is made of wood. | The hard material that trees are made of.
+harvest | /ˈhɑːrvɪst/ | n | vụ thu hoạch | The rice harvest begins in October. | The time when farmers cut and collect their crops.
+fall | /fɔːl/ | v | rơi | Leaves fall from the trees. | To drop down to the ground.
+path | /pæθ/ | n | lối mòn | Follow the path through the woods. | A narrow track made for walking.
+landscape | /ˈlændskeɪp/ | n | cảnh quan | The landscape is flat and green. | Everything you can see across a large area of land.
+## Winter Peak | 🏔️ | Snow lies deep and smoke rises from a cabin.
+@ Skier | ⛷️ | Race you to the bottom!
+@ Cabin owner | 🧔 | Come in and warm up by the fire.
+@@ Sled | 🛷 | Fast on the snow.
+winter | /ˈwɪntər/ | n | mùa đông | It snows here in winter. | The coldest time of the year.
+icicle | /ˈaɪsɪkl/ | n | cột băng nhỏ | Icicles hung from the roof. | A pointed stick of frozen water hanging from a roof.
+slippery | /ˈslɪpəri/ | adj | trơn | Be careful. The road is slippery. | Wet or icy and hard to walk on without sliding.
+peak | /piːk/ | n | đỉnh núi | We reached the peak at noon. | The pointed top of a mountain.
+cliff | /klɪf/ | n | vách đá | Do not stand too close to the cliff. | A high, steep rock face, often beside the sea.
+rock | /rɑːk/ | n | tảng đá | We sat on a big rock. | A large piece of stone.
+stone | /stoʊn/ | n | hòn đá | He threw a stone into the water. | A small piece of hard mineral from the ground.
+steep | /stiːp/ | adj | dốc | The path is too steep for bikes. | Rising or dropping very sharply.
+slope | /sloʊp/ | n | sườn dốc | We skied down the slope. | The side of a hill.
+fireplace | /ˈfaɪərpleɪs/ | n | lò sưởi | We sat by the fireplace. | The open place in a wall where logs burn.
+
+# The Farm | 🐄 | #84cc16 | nature | A1 | Feed the animals, collect the eggs and meet the pets.
+## The Barnyard | 🐓 | Hay, mud and a lot of noise.
+@ Farmer Joe | 👨‍🌾 | Mind the mud, city kid!
+@ Farm girl | 👧 | Want to help me collect eggs?
+@@ Water trough | 🪣 | The animals drink here.
+cow | /kaʊ/ | n | con bò sữa | The cow gives us milk. | A big farm animal that says "moo".
+pig | /pɪɡ/ | n | con lợn | The pig is rolling in the mud. | A fat pink farm animal that says "oink".
+horse | /hɔːrs/ | n | con ngựa | She rides a white horse. | A big animal that people ride; it runs fast.
+sheep | /ʃiːp/ | n | con cừu | We get wool from sheep. | A farm animal with thick white wool that says "baa".
+goat | /ɡoʊt/ | n | con dê | The goat ate my hat. | An animal with horns and a little beard that climbs rocks.
+hen | /hen/ | n | gà mái | The hen laid three eggs. | A female bird on a farm that lays eggs.
+rooster | /ˈruːstər/ | n | gà trống | The rooster wakes us up at five. | A male bird that shouts "cock-a-doodle-doo" at dawn.
+duck | /dʌk/ | n | con vịt | Ducks swim on the pond. | A water bird that says "quack".
+donkey | /ˈdɑːŋki/ | n | con lừa | The donkey carried heavy bags. | An animal like a small horse with long ears.
+buffalo | /ˈbʌfəloʊ/ | n | con trâu | A buffalo pulls the plow in the rice field. | A big black animal with curved horns that works in rice fields.
+## The Fields | 🌾 | Rows of green under a wide sky.
+@ Rice farmer | 🧑‍🌾 | We plant in spring and cut in autumn.
+@ Scarecrow | 🎃 | I just stand here all day.
+@@ Tractor | 🚜 | Big wheels and a loud engine.
+farm | /fɑːrm/ | n | nông trại | My uncle has a farm. | Land where people grow crops and keep animals.
+barn | /bɑːrn/ | n | chuồng trại, nhà kho | The cows sleep in the barn. | A big building for hay and animals.
+tractor | /ˈtræktər/ | n | máy kéo | The farmer drives a tractor. | A strong vehicle with huge back wheels for pulling machines.
+crop | /krɑːp/ | n | cây trồng, vụ mùa | Rice is the main crop here. | Plants like wheat or corn grown in large amounts.
+plant | /plænt/ | v | trồng | We plant rice in June. | To put seeds into the ground.
+soil | /sɔɪl/ | n | đất trồng | The soil here is rich. | The brown earth in which things grow.
+wheat | /wiːt/ | n | lúa mì | Bread is made from wheat. | The grain used to make flour.
+hay | /heɪ/ | n | cỏ khô | Horses eat hay in winter. | Dried long stems that animals eat.
+rice field | /ˈraɪs fiːld/ | n | ruộng lúa | Farmers work in the rice field. | Flooded land where Asia's main grain grows.
+plow | /plaʊ/ | v | cày | They plow the land before planting. | To turn over the earth before putting in seeds.
+## Pet Corner | 🐶 | Baskets, bowls and wagging tails.
+@ Pet shop owner | 🧑‍🦰 | They all need a loving home.
+@ Boy with a leash | 🧒 | Can we keep him, please?
+@@ Pet bed | 🧺 | Soft and round.
+pet | /pet/ | n | thú cưng | Do you have any pets? | An animal you keep at home for company.
+dog | /dɔːɡ/ | n | con chó | My dog loves to play ball. | An animal that barks and guards your home.
+cat | /kæt/ | n | con mèo | The cat is sleeping on the sofa. | A small furry animal that says "meow".
+puppy | /ˈpʌpi/ | n | chó con | The puppy chewed my shoe. | A baby of the animal that barks.
+kitten | /ˈkɪtn/ | n | mèo con | The kitten is playing with a ball of wool. | A baby of the animal that says "meow".
+rabbit | /ˈræbɪt/ | n | con thỏ | The rabbit has long ears. | A small animal with long ears that hops and eats carrots.
+hamster | /ˈhæmstər/ | n | chuột hamster | My hamster runs on a wheel all night. | A tiny furry animal that keeps food in its cheeks.
+goldfish | /ˈɡoʊldfɪʃ/ | n | cá vàng | I have two goldfish in a bowl. | A small orange animal that swims in a glass tank at home.
+parrot | /ˈpærət/ | n | con vẹt | The parrot can say "hello". | A colorful bird that can copy human words.
+turtle | /ˈtɜːrtl/ | n | con rùa | The turtle walks very slowly. | A slow animal that carries a hard house on its back.
+## Caring for Animals | 🥕 | Buckets of food and brushes.
+@ Stable hand | 🧑‍🌾 | Brush them gently, like this.
+@ Vet | 👩‍⚕️ | This one needs some medicine.
+@@ Feed bucket | 🪣 | Full of oats.
+tail | /teɪl/ | n | cái đuôi | The dog is wagging its tail. | The long part at the back end of an animal.
+fur | /fɜːr/ | n | lông (thú) | The cat has soft fur. | The thick soft hair that covers a cat or a bear.
+paw | /pɔː/ | n | bàn chân (có móng) | The dog hurt its paw. | The foot of a cat or dog.
+bark | /bɑːrk/ | v | sủa | The dog barks at strangers. | To make the loud "woof" noise.
+wag | /wæɡ/ | v | vẫy (đuôi) | The puppy wagged its tail. | What a happy puppy does with the back end of its body.
+cage | /keɪdʒ/ | n | cái lồng | The bird lives in a cage. | A box of metal bars for keeping a bird.
+leash | /liːʃ/ | n | dây dắt | Keep your dog on a leash. | A long strap for walking a pet.
+tame | /teɪm/ | adj | đã thuần hóa | The deer here are quite tame. | Not afraid of people; not wild.
+milk the cow | /mɪlk ðə kaʊ/ | phr | vắt sữa bò | I helped milk the cow this morning. | To squeeze a white drink from a farm animal by hand.
+ride a horse | /raɪd ə hɔːrs/ | phr | cưỡi ngựa | I learned to ride a horse on the farm. | To sit on the back of a big fast animal and travel.
+
+# Safari Park | 🦁 | #f59e0b | nature | A1 | Drive through grassland and jungle to spot wild animals.
+## The Grassland | 🌾 | Yellow grass under a huge sky.
+@ Ranger | 🧑‍✈️ | Stay in the jeep at all times.
+@ Excited kid | 🧒 | Look! Look! Over there!
+@@ Binoculars | 🔭 | Everything looks close.
+lion | /ˈlaɪən/ | n | sư tử | The lion is the king of the animals. | A big yellow cat; the male has thick hair around its head.
+elephant | /ˈelɪfənt/ | n | con voi | An elephant never forgets. | The biggest land animal, gray, with a very long nose.
+giraffe | /dʒəˈræf/ | n | hươu cao cổ | The giraffe eats leaves from tall trees. | The tallest animal, with a very long neck.
+zebra | /ˈziːbrə/ | n | ngựa vằn | A zebra has black and white stripes. | An animal like a horse with black and white lines.
+rhino | /ˈraɪnoʊ/ | n | tê giác | The rhino has a horn on its nose. | A huge gray animal with thick skin and one horn on its nose.
+hippo | /ˈhɪpoʊ/ | n | hà mã | The hippo stays in the water all day. | A huge fat animal with a giant mouth that lives in rivers.
+cheetah | /ˈtʃiːtə/ | n | báo săn | The cheetah is the fastest animal on land. | A spotted cat that can run 100 kilometers an hour.
+deer | /dɪr/ | n | con hươu, nai | A deer ran across the road. | A shy forest animal; the male has branched antlers.
+kangaroo | /ˌkæŋɡəˈruː/ | n | chuột túi | The kangaroo carries its baby in a pouch. | An Australian animal that jumps and has a pocket for its baby.
+camel | /ˈkæml/ | n | lạc đà | The camel can go days without water. | A desert animal with one or two humps.
+## The Jungle Trail | 🌴 | Thick leaves, strange calls, wet air.
+@ Jungle guide | 🧭 | Quiet. They can hear us.
+@ Photographer | 📸 | I have waited three days for this shot.
+@@ Hanging vine | 🌿 | Strong enough to swing on.
+tiger | /ˈtaɪɡər/ | n | con hổ | The tiger is hiding in the tall grass. | A big orange cat with black stripes.
+monkey | /ˈmʌŋki/ | n | con khỉ | The monkey stole my banana. | A clever animal with a long tail that climbs trees.
+gorilla | /ɡəˈrɪlə/ | n | khỉ đột | The gorilla beat its chest. | The largest ape, black and very strong.
+snake | /sneɪk/ | n | con rắn | A snake slid across the path. | A long thin animal with no legs.
+crocodile | /ˈkrɑːkədaɪl/ | n | cá sấu | A crocodile lay by the river. | A long river reptile with a huge mouth full of teeth.
+bear | /ber/ | n | con gấu | The bear caught a fish. | A big heavy furry animal that loves honey.
+wolf | /wʊlf/ | n | con sói | We heard a wolf at night. | A wild animal like a big dog that howls at the moon.
+fox | /fɑːks/ | n | con cáo | The fox ran into the forest. | A clever wild animal, orange, with a bushy tail.
+panda | /ˈpændə/ | n | gấu trúc | The panda eats bamboo all day. | A black and white animal from China that eats bamboo.
+leopard | /ˈlepərd/ | n | con báo | The leopard slept in a tree. | A big cat with a yellow coat covered in dark spots that climbs trees.
+## Animal Bodies | 🦴 | A museum room of bones and feathers.
+@ Zoologist | 👩‍🔬 | Every body part has a purpose.
+@ School group | 🧒 | Wow, look at those teeth!
+@@ Skull display | 💀 | A row of animal skulls.
+wild | /waɪld/ | adj | hoang dã | We saw wild elephants. | Living free in nature, not kept by people.
+animal | /ˈænɪml/ | n | động vật | What is your favorite animal? | A living creature that is not a plant or a person.
+antler | /ˈæntlər/ | n | gạc (hươu, nai) | The stag has huge antlers. | One of the two branched bony growths on a stag's head.
+claw | /klɔː/ | n | móng vuốt | The cat showed its claws. | A sharp curved nail on the foot of a cat or eagle.
+stripe | /straɪp/ | n | sọc | Tigers have black stripes. | A long narrow band of color.
+spot | /spɑːt/ | n | đốm | The dog has a black spot on its ear. | A small round mark of a different color.
+mane | /meɪn/ | n | bờm | The lion has a thick mane. | The long hair on the neck of a horse.
+hoof | /huːf/ | n | móng guốc | The horse hurt its hoof. | The hard foot of a horse or cow.
+tusk | /tʌsk/ | n | ngà (voi) | Elephants are killed for their tusks. | One of the two long white pointed teeth of the biggest land animal.
+wing | /wɪŋ/ | n | cái cánh | The bird hurt its wing. | The part of a bird's body used for flying.
+## Hunters and Hunted | 🐾 | Paw prints lead to the water hole.
+@ Tracker | 🕵️‍♂️ | These prints are fresh.
+@ Wildlife vet | 👨‍⚕️ | We must protect them all.
+@@ Paw prints | 🐾 | Pressed deep in the mud.
+hunt | /hʌnt/ | v | săn mồi | Lions hunt at night. | To chase and kill other creatures for food.
+chase | /tʃeɪs/ | v | đuổi theo | The dog chased the cat. | To run after something to catch it.
+hide | /haɪd/ | v | ẩn nấp, trốn | The rabbit hid in a hole. | To go where nobody can see you.
+escape | /ɪˈskeɪp/ | v | trốn thoát | The zebra escaped from the lion. | To get away from danger.
+roar | /rɔːr/ | v | gầm | The lion roared loudly. | To make the deep, loud noise of the king of beasts.
+attack | /əˈtæk/ | v | tấn công | The bear attacked the camp. | To suddenly try to hurt someone.
+prey | /preɪ/ | n | con mồi | The eagle caught its prey. | A creature that is caught and eaten by another.
+herd | /hɜːrd/ | n | đàn (thú lớn) | A herd of elephants crossed the river. | A large group of cows or elephants.
+wildlife | /ˈwaɪldlaɪf/ | n | động vật hoang dã | The park protects local wildlife. | All the free creatures of a region.
+endangered | /ɪnˈdeɪndʒərd/ | adj | có nguy cơ tuyệt chủng | The tiger is an endangered animal. | So few remain that the species may soon disappear.

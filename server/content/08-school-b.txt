@@ -1,0 +1,231 @@
+# Subject Hall | 📚 | #60a5fa | school | A2 | Walk from room to room and discover every school subject.
+## The Timetable Wall | 🗓️ | A giant chart of the school week.
+@ Head teacher | 👩‍🏫 | Every subject opens a new door.
+@ First-year student | 🧑‍🎓 | Which room is next?
+@@ Subject cards | 🃏 | One card for each class.
+subject | /ˈsʌbdʒɪkt/ | n | môn học | What is your favorite subject? | Math, history and art are each a school...
+math | /mæθ/ | n | môn toán | I have math at nine o'clock. | The class where you study numbers and shapes.
+science | /ˈsaɪəns/ | n | môn khoa học | We did an experiment in science today. | The study of nature, with experiments in a lab.
+history | /ˈhɪstri/ | n | môn lịch sử | I love learning about history. | The study of what happened in the past.
+geography | /dʒiˈɑːɡrəfi/ | n | môn địa lý | We learned about rivers in geography. | The study of countries, mountains and maps.
+literature | /ˈlɪtrətʃər/ | n | môn văn học | We read poems in literature class. | The study of novels, plays and poems.
+art | /ɑːrt/ | n | môn mỹ thuật | We painted flowers in art class. | The class where you paint and make pictures.
+music | /ˈmjuːzɪk/ | n | âm nhạc | We learned a new song in music class. | The class where you sing and play instruments.
+physical education | /ˌfɪzɪkl edʒuˈkeɪʃn/ | n | môn thể dục | We play basketball in physical education. | The class where you run and play sports; "PE" for short.
+language | /ˈlæŋɡwɪdʒ/ | n | ngôn ngữ | English is a global language. | French, Japanese and Vietnamese are each a...
+## The Science Wing | 🔬 | Bottles, magnets and a model of the planets.
+@ Science teacher | 🧑‍🔬 | Today we find out why things fall.
+@ Lab partner | 🥽 | Do not mix those two!
+@@ Microscope | 🔬 | Tiny things look huge.
+biology | /baɪˈɑːlədʒi/ | n | môn sinh học | We study plants and animals in biology. | The science of living things.
+chemistry | /ˈkemɪstri/ | n | môn hóa học | We mixed two liquids in chemistry. | The science of substances and how they react together.
+physics | /ˈfɪzɪks/ | n | môn vật lý | Physics explains how light travels. | The science of energy, force, light and movement.
+experiment | /ɪkˈsperɪmənt/ | n | thí nghiệm | The experiment went wrong. | A test done in a lab to see what happens.
+laboratory | /ˈlæbrətɔːri/ | n | phòng thí nghiệm | Wear glasses in the laboratory. | A room with special equipment where scientists do tests.
+theory | /ˈθiːəri/ | n | lý thuyết | Darwin's theory changed science. | An idea that tries to explain why something happens.
+fact | /fækt/ | n | sự thật, dữ kiện | It is a fact that the Earth is round. | Something that is known to be true.
+result | /rɪˈzʌlt/ | n | kết quả | What was the result of the test? | What you get at the end of a test or a game.
+research | /ˈriːsɜːrtʃ/ | n | nghiên cứu | She does research on climate change. | Careful study to discover new information.
+discover | /dɪˈskʌvər/ | v | khám phá ra | Who discovered America? | To find something that nobody knew about before.
+## The Study Room | 📖 | Quiet desks and the sound of turning pages.
+@ Tutor | 🧑‍🏫 | Let us go over it one more time.
+@ Tired student | 😩 | I have read this page five times.
+@@ Flashcards | 🗂️ | A word on each card.
+learn | /lɜːrn/ | v | học được | I want to learn Japanese. | To get new knowledge or a new skill.
+teach | /tiːtʃ/ | v | dạy | She teaches English to children. | To give lessons and help people get knowledge.
+understand | /ˌʌndərˈstænd/ | v | hiểu | I do not understand this question. | To know what something means.
+memorize | /ˈmeməraɪz/ | v | học thuộc lòng | I have to memorize this poem. | To put words into your mind so you can say them without looking.
+review | /rɪˈvjuː/ | v | ôn tập | Review your notes before the test. | To look at your notes again before a test.
+note | /noʊt/ | n | ghi chú | I always take notes in class. | A few words you write down so you will not lose the idea.
+skill | /skɪl/ | n | kỹ năng | Cooking is a useful skill. | An ability to do something well because you trained.
+knowledge | /ˈnɑːlɪdʒ/ | n | kiến thức | He has a wide knowledge of history. | All the information and facts in a person's head.
+improve | /ɪmˈpruːv/ | v | cải thiện | I want to improve my English. | To get better at something.
+mistake | /mɪˈsteɪk/ | n | lỗi sai | I made a mistake in the first question. | Something wrong that you wrote or did.
+## The Report Card | 🏅 | A desk covered with marked papers.
+@ Strict teacher | 🧐 | You can do better than this.
+@ Proud parent | 👨 | An A! Well done!
+@@ Report card | 📄 | Letters from A to F.
+grade | /ɡreɪd/ | n | điểm số; khối lớp | I got a good grade in math. | The letter A, B or C that a teacher gives your work.
+mark | /mɑːrk/ | n | điểm | She got full marks in the test. | The number of points you receive on a school paper.
+pass | /pæs/ | v | thi đỗ | I hope I pass the driving test. | To succeed in a test.
+fail | /feɪl/ | v | thi trượt | He failed the math test. | To not succeed in a test.
+excellent | /ˈeksələnt/ | adj | xuất sắc | Your essay is excellent. | Extremely good; the best level.
+average | /ˈævərɪdʒ/ | adj | trung bình | His marks are average. | Normal; not very good and not very bad.
+effort | /ˈefərt/ | n | sự nỗ lực | She puts a lot of effort into her studies. | The hard work and energy you put into trying.
+progress | /ˈprɑːɡres/ | n | sự tiến bộ | You are making good progress. | Movement toward being better, step by step.
+prize | /praɪz/ | n | giải thưởng | She won first prize in the contest. | Something given to the winner of a competition.
+cheat | /tʃiːt/ | v | gian lận | He was caught cheating in the test. | To look at another student's paper during a test.
+
+# Campus Life | 🎓 | #818cf8 | school | B1 | Lectures, deadlines and graduation day at the university.
+## The Admissions Office | 🏛️ | A grand old building with stone steps.
+@ Admissions officer | 👨‍💼 | Fill in this form and sign at the bottom.
+@ Applicant | 🧑‍🎓 | I hope they accept me!
+@@ Application form | 📋 | Six pages long.
+university | /ˌjuːnɪˈvɜːrsəti/ | n | trường đại học | She studies law at university. | A place of higher learning where you get a degree after high school.
+college | /ˈkɑːlɪdʒ/ | n | trường cao đẳng, đại học | He goes to college in Boston. | In the US, another common word for a place to study after high school.
+apply | /əˈplaɪ/ | v | nộp đơn | I will apply to three schools. | To send a form and ask officially for a place or a job.
+accept | /əkˈsept/ | v | chấp nhận | The school accepted my application. | To say "yes" to an offer or a request.
+scholarship | /ˈskɑːlərʃɪp/ | n | học bổng | She won a scholarship to study abroad. | Money given to a good student to pay for their studies.
+tuition | /tuˈɪʃn/ | n | học phí | Tuition is very expensive here. | The money you pay a school for teaching you.
+degree | /dɪˈɡriː/ | n | bằng cấp | He has a degree in engineering. | The qualification you get after finishing three or four years of higher study.
+major | /ˈmeɪdʒər/ | n | chuyên ngành | My major is computer science. | The main field a student chooses to study.
+semester | /sɪˈmestər/ | n | học kỳ | The fall semester begins in September. | One of the two halves of a school year.
+enroll | /ɪnˈroʊl/ | v | ghi danh | I enrolled in a French course. | To officially put your name down for a course.
+## The Lecture Hall | 🪑 | Two hundred seats face a big screen.
+@ Professor Lee | 👩‍🏫 | Phones off, please. Let us begin.
+@ Late student | 🏃 | Sorry! My bus broke down.
+@@ Lecture slides | 📽️ | Slide 1 of 84.
+lecture | /ˈlektʃər/ | n | bài giảng | The lecture lasted two hours. | A long talk given to a big group of students.
+professor | /prəˈfesər/ | n | giáo sư | The professor wrote three books. | A teacher of the highest rank at a place of higher learning.
+seminar | /ˈsemɪnɑːr/ | n | buổi hội thảo chuyên đề | We discussed the book in a seminar. | A small class where students talk about a topic with a teacher.
+attend | /əˈtend/ | v | tham dự | All students must attend the class. | To be present at a class or a meeting.
+absent | /ˈæbsənt/ | adj | vắng mặt | Three students are absent today. | Not in class today.
+course | /kɔːrs/ | n | khóa học | I am taking a course in photography. | A series of lessons on one topic.
+topic | /ˈtɑːpɪk/ | n | chủ đề | The topic of today's class is pollution. | What a talk, a book or an essay is about.
+presentation | /ˌpriːzenˈteɪʃn/ | n | bài thuyết trình | I have to give a presentation tomorrow. | A talk with slides that you give in front of the class.
+assignment | /əˈsaɪnmənt/ | n | bài tập được giao | The assignment is due on Friday. | A piece of work a teacher tells you to do.
+deadline | /ˈdedlaɪn/ | n | hạn chót | The deadline is midnight tonight. | The last day or time by which work must be finished.
+## The Library | 🏛️ | Tall shelves and a strict "Silence" sign.
+@ Librarian | 👩‍🦳 | Shh! Books are due in two weeks.
+@ Bookworm | 🤓 | I have read every book on this shelf.
+@@ Library card | 💳 | Your photo and a number.
+library | /ˈlaɪbreri/ | n | thư viện | I study at the library after class. | A building where you can read and take out books for free.
+librarian | /laɪˈbreriən/ | n | thủ thư | Ask the librarian for help. | The person who works with the books in that quiet building.
+essay | /ˈeseɪ/ | n | bài luận | I wrote an essay about my hometown. | A short piece of writing by a student on one question.
+thesis | /ˈθiːsɪs/ | n | luận văn | She is writing her thesis on climate. | A very long paper you write to finish your higher studies.
+source | /sɔːrs/ | n | nguồn (tài liệu) | List all your sources at the end. | A book or website where you got your information.
+article | /ˈɑːrtɪkl/ | n | bài báo | I read an interesting article about sleep. | A piece of writing in a newspaper or magazine.
+chapter | /ˈtʃæptər/ | n | chương | Read chapter three for next week. | One numbered part of a novel.
+summary | /ˈsʌməri/ | n | bản tóm tắt | Write a short summary of the story. | A short text that gives only the main points.
+concentrate | /ˈkɑːnsntreɪt/ | v | tập trung | I cannot concentrate with that noise. | To give all your attention to one thing.
+quote | /kwoʊt/ | v | trích dẫn | She quoted a line from the poem. | To repeat the exact words that another person wrote.
+## Graduation Day | 🎓 | Black caps fly into the blue sky.
+@ Dean | 🧑‍⚖️ | Congratulations, class!
+@ Proud graduate | 🧑‍🎓 | Four years, and I made it!
+@@ Diploma | 📜 | Rolled and tied with a ribbon.
+diploma | /dɪˈploʊmə/ | n | bằng tốt nghiệp | She hung her diploma on the wall. | The official paper you receive when you finish school.
+certificate | /sərˈtɪfɪkət/ | n | chứng chỉ | I got a certificate in first aid. | An official paper that shows you completed a short course.
+qualification | /ˌkwɑːlɪfɪˈkeɪʃn/ | n | bằng cấp, trình độ chuyên môn | What qualifications do you need for this job? | An exam you have passed that makes you suitable for a job.
+education | /ˌedʒuˈkeɪʃn/ | n | giáo dục | Every child has a right to education. | The whole process of teaching and learning in schools.
+academic | /ˌækəˈdemɪk/ | adj | thuộc học thuật | The academic year starts in September. | Connected with schools and studying.
+achieve | /əˈtʃiːv/ | v | đạt được | She achieved her dream of becoming a doctor. | To succeed in reaching something after hard work.
+succeed | /səkˈsiːd/ | v | thành công | If you work hard, you will succeed. | To do what you tried to do; the opposite of fail.
+knowledgeable | /ˈnɑːlɪdʒəbl/ | adj | hiểu biết rộng | Our guide was very knowledgeable. | Knowing a lot about many things.
+talent | /ˈtælənt/ | n | tài năng | She has a talent for languages. | A natural ability to do something well.
+career | /kəˈrɪr/ | n | sự nghiệp | He had a long career as a teacher. | The series of jobs you have during your working life.
+
+# Word Workshop | ✍️ | #f472b6 | school | A2 | Letters, sentences and stories: the tools of language learning.
+## The Alphabet Room | 🔤 | Giant letters hang from the ceiling.
+@ Language teacher | 👩‍🏫 | Every word starts with a letter.
+@ Foreign student | 🙋 | How do you say this in English?
+@@ Alphabet chart | 🔡 | A to Z.
+alphabet | /ˈælfəbet/ | n | bảng chữ cái | The English alphabet has 26 letters. | All the letters from A to Z in order.
+word | /wɜːrd/ | n | từ | What does this word mean? | "Cat" is one. "Dog" is another one.
+sentence | /ˈsentəns/ | n | câu | Write a sentence with the word "happy". | A group of words that begins with a capital and ends with a period.
+paragraph | /ˈpærəɡræf/ | n | đoạn văn | The essay has five paragraphs. | A group of sentences about one idea, starting on a new line.
+vowel | /ˈvaʊəl/ | n | nguyên âm | A, E, I, O and U are vowels. | One of the sounds a, e, i, o, u.
+capital letter | /ˌkæpɪtl ˈletər/ | n | chữ viết hoa | Names begin with a capital letter. | A big form like A, B, C used to begin a name.
+grammar | /ˈɡræmər/ | n | ngữ pháp | English grammar is not so hard. | The rules for putting words together correctly.
+vocabulary | /vəˈkæbjəleri/ | n | từ vựng | Reading helps you build your vocabulary. | All the words that a person knows.
+pronunciation | /prəˌnʌnsiˈeɪʃn/ | n | cách phát âm | Her pronunciation is very clear. | The way you say the sounds of a word.
+meaning | /ˈmiːnɪŋ/ | n | nghĩa | What is the meaning of this word? | What a word tells you; the idea behind it.
+## The Grammar Garage | 🔧 | Words are taken apart and put together.
+@ Grammar mechanic | 🧑‍🔧 | Let us fix that broken sentence.
+@ Confused learner | 😵 | Is it "go" or "went"?
+@@ Parts box | 🧰 | Nouns, verbs and little words.
+noun | /naʊn/ | n | danh từ | "Table" is a noun. | A word for a person, place or thing.
+verb | /vɜːrb/ | n | động từ | "Run" is a verb. | A word for an action, like "eat" or "jump".
+adjective | /ˈædʒɪktɪv/ | n | tính từ | "Beautiful" is an adjective. | A word that describes a thing, like "big" or "red".
+tense | /tens/ | n | thì (của động từ) | Use the past tense for yesterday. | The form of an action word that shows time: past, present, future.
+plural | /ˈplʊrəl/ | n | số nhiều | The plural of "child" is "children". | The form of a word for more than one: "cats", "boxes".
+comma | /ˈkɑːmə/ | n | dấu phẩy | Put a comma after "however". | The small mark (,) that shows a short pause.
+period | /ˈpɪriəd/ | n | dấu chấm câu | End the sentence with a period. | The dot (.) at the end of a statement.
+question mark | /ˈkwestʃən mɑːrk/ | n | dấu chấm hỏi | Do not forget the question mark. | The sign (?) you write after "How are you".
+correct | /kəˈrekt/ | adj | đúng, chính xác | That is the correct answer. | Right; with no mistakes.
+wrong | /rɔːŋ/ | adj | sai | Sorry, that answer is wrong. | Not right; containing a mistake.
+## The Translation Desk | 🌐 | Dictionaries in twenty languages.
+@ Translator | 🧑‍💼 | Words can travel between languages.
+@ Exchange student | 🧳 | I only know ten words of Vietnamese.
+@@ Phrase book | 📕 | Useful sentences for travelers.
+translate | /trænzˈleɪt/ | v | dịch | Can you translate this into English? | To change words from one language into another.
+mean | /miːn/ | v | có nghĩa là | What does "huge" mean? | "Big" and "large" ... the same thing.
+pronounce | /prəˈnaʊns/ | v | phát âm | How do you pronounce this word? | To make the sound of a word with your mouth.
+fluent | /ˈfluːənt/ | adj | trôi chảy | She is fluent in three languages. | Able to speak a language easily and smoothly.
+accent | /ˈæksent/ | n | giọng (vùng miền) | He speaks with a French accent. | The way of saying words that shows where you come from.
+native speaker | /ˌneɪtɪv ˈspiːkər/ | n | người bản ngữ | Our teacher is a native speaker. | A person who has spoken a language since they were a baby.
+foreign | /ˈfɔːrən/ | adj | nước ngoài | Do you speak any foreign languages? | From another country, not your own.
+phrase | /freɪz/ | n | cụm từ | "Good morning" is a useful phrase. | A short group of words that go together.
+beginner | /bɪˈɡɪnər/ | n | người mới bắt đầu | This class is for beginners. | A person who has just started to learn something.
+advanced | /ədˈvænst/ | adj | nâng cao | She is in the advanced class. | At a high level, far past the basic stage.
+## The Story Corner | 📖 | Cushions on the floor and a lamp.
+@ Storyteller | 🧙‍♀️ | Once upon a time...
+@ Young writer | ✍️ | I am writing my first book!
+@@ Blank notebook | 📓 | Waiting for a story.
+story | /ˈstɔːri/ | n | câu chuyện | Tell me a bedtime story. | A description of events, real or imagined, told for fun.
+title | /ˈtaɪtl/ | n | tiêu đề | What is the title of the book? | The name of a film or a novel.
+character | /ˈkærəktər/ | n | nhân vật | Harry is the main character. | A person in a novel or a film.
+author | /ˈɔːθər/ | n | tác giả | Who is the author of this book? | The person who wrote a novel.
+diary | /ˈdaɪəri/ | n | nhật ký | I write in my diary every night. | A private notebook where you write about each day.
+poem | /ˈpoʊəm/ | n | bài thơ | She wrote a poem about the sea. | A short piece of writing, often with lines that rhyme.
+fable | /ˈfeɪbl/ | n | truyện ngụ ngôn | The fable of the tortoise and the hare is famous. | A short tale with animals that teaches a lesson.
+handwriting | /ˈhændraɪtɪŋ/ | n | chữ viết tay | Your handwriting is hard to read. | The way your letters look when you use a pen.
+draft | /dræft/ | n | bản nháp | This is only the first draft. | A first, rough version of a piece of writing.
+edit | /ˈedɪt/ | v | chỉnh sửa | Edit your essay before you hand it in. | To check a text and fix its mistakes.
+
+# Number Arcade | 🔢 | #22d3ee | school | A1 | Count, add and measure your way through the arcade.
+## The Counting Game | 🎰 | Lights flash with every number.
+@ Arcade owner | 🧔 | Step right up! Count and win!
+@ Small boy | 🧒 | One, two, three... what comes next?
+@@ Number wheel | 🎡 | It spins and stops on a number.
+number | /ˈnʌmbər/ | n | con số | Pick a number from one to ten. | 1, 2, 3 and 100 are each a...
+zero | /ˈzɪroʊ/ | num | số không | The temperature is zero degrees. | The digit that means nothing: 0.
+ten | /ten/ | num | mười | I have ten fingers. | How many fingers do you have on two hands?
+twelve | /twelv/ | num | mười hai | There are twelve months in a year. | Ten plus two.
+twenty | /ˈtwenti/ | num | hai mươi | She is twenty years old. | Two times ten.
+fifty | /ˈfɪfti/ | num | năm mươi | My grandfather is fifty. | Half of one hundred.
+hundred | /ˈhʌndrəd/ | num | một trăm | There are a hundred cents in a dollar. | Ten times ten.
+thousand | /ˈθaʊznd/ | num | một nghìn | The town has five thousand people. | Ten times one hundred.
+million | /ˈmɪljən/ | num | một triệu | Eight million people live in this city. | One followed by six zeros.
+billion | /ˈbɪljən/ | num | một tỷ | There are eight billion people on Earth. | One followed by nine zeros.
+## First, Second, Third | 🏁 | Runners cross the finish line.
+@ Race judge | 🧑‍⚖️ | And the winner is...
+@ Runner-up | 🥈 | So close! Next time!
+@@ Podium | 🏆 | Three steps: 1, 2, 3.
+first | /fɜːrst/ | adj | thứ nhất | She won first prize. | The winner of a race finishes in this place.
+third | /θɜːrd/ | adj | thứ ba | He lives on the third floor. | The place after number two in a race.
+last | /læst/ | adj | cuối cùng | December is the last month. | After all the others; at the very end.
+next | /nekst/ | adj | tiếp theo | The next bus comes at five. | Coming straight after this one.
+half | /hæf/ | n | một nửa | Cut the apple in half. | One of two equal parts; 50 percent.
+double | /ˈdʌbl/ | adj | gấp đôi | I would like a double portion. | Two times as much.
+pair | /per/ | n | đôi, cặp | I bought a pair of shoes. | Two things that go together, like socks.
+odd | /ɑːd/ | adj | lẻ | One, three and five are odd numbers. | Numbers like 1, 3, 5 and 7 are...
+once | /wʌns/ | adv | một lần | I go swimming once a week. | One time only.
+twice | /twaɪs/ | adv | hai lần | I have seen that movie twice. | Two times.
+## The Math Machine | ➕ | Buttons with strange signs on them.
+@ Robot | 🤖 | Beep. Give me a problem.
+@ Math whiz | 🧑‍🎓 | I can do it faster than the machine!
+@@ Giant abacus | 🧮 | Beads slide left and right.
+plus | /plʌs/ | prep | cộng | Two plus two is four. | The word for the sign "+".
+minus | /ˈmaɪnəs/ | prep | trừ | Ten minus three is seven. | The word for the sign "−".
+times | /taɪmz/ | prep | nhân | Three times three is nine. | The word for the sign "×".
+divide | /dɪˈvaɪd/ | v | chia | Divide twelve by four. | To split a number into equal parts.
+equal | /ˈiːkwəl/ | v | bằng | Two plus three equals five. | The word for the sign "=".
+subtract | /səbˈtrækt/ | v | trừ đi | Subtract three from ten. | To take one number away from another.
+calculate | /ˈkælkjuleɪt/ | v | tính toán | Calculate the area of the room. | To find an answer by using numbers.
+percent | /pərˈsent/ | n | phần trăm | Twenty percent of the class was absent. | The word for the sign "%".
+fraction | /ˈfrækʃn/ | n | phân số | One half is a fraction. | A number like 1/2 or 3/4.
+even | /ˈiːvn/ | adj | chẵn | Two, four and six are even numbers. | Numbers like 2, 4, 6 and 8 are...
+## The Measuring Booth | 📐 | Scales, rulers and a big thermometer.
+@ Engineer | 👷 | Everything can be measured.
+@ Tailor | 🧵 | Arms out, please.
+@@ Big scale | ⚖️ | Step on to see the number.
+meter | /ˈmiːtər/ | n | mét | The pool is fifty meters long. | One hundred centimeters.
+centimeter | /ˈsentɪmiːtər/ | n | xăng-ti-mét | The insect is two centimeters long. | A very small unit on a ruler; ten millimeters.
+kilometer | /kɪˈlɑːmɪtər/ | n | ki-lô-mét | The school is two kilometers from my house. | One thousand meters.
+gram | /ɡræm/ | n | gam | Add 200 grams of sugar. | A very small unit of weight; a paper clip is about one.
+liter | /ˈliːtər/ | n | lít | Drink two liters of water a day. | The unit for measuring milk or gasoline.
+length | /leŋθ/ | n | chiều dài | What is the length of the table? | How long something is from end to end.
+width | /wɪdθ/ | n | chiều rộng | The width of the door is 80 centimeters. | How far something is from side to side.
+distance | /ˈdɪstəns/ | n | khoảng cách | What is the distance to the airport? | The amount of space between two places.
+speed | /spiːd/ | n | tốc độ | The car was moving at high speed. | How fast something moves.
+amount | /əˈmaʊnt/ | n | lượng | A small amount of salt is enough. | How much there is of something.
